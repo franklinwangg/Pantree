@@ -1,7 +1,8 @@
 import chromadb
 import numpy as np
 from chromadb.utils import embedding_functions
-
+import json
+import os
 
 class VectorDBManager:
     def __init__(self, collection_name="user_embeddings", embedding_dim=384):
@@ -9,7 +10,8 @@ class VectorDBManager:
         self.collection = self.client.get_or_create_collection(name=collection_name)
         self.embedding_dim = embedding_dim # Dimension of the mock embeddings
 
-    # --- Mock embedding generator (replace with NIM later) ---
+    # TODO(Franklin): Replace this mock embedding generator with a call to the Retrieval Embedding NIM.
+    # The NIM should take item text → return a real embedding vector (same dimension: 384).
     def generate_embedding(self, text: str):
         np.random.seed(abs(hash(text)) % (2**32))
         return np.random.rand(self.embedding_dim).tolist()
@@ -50,8 +52,19 @@ class VectorDBManager:
             "user_2": ["coffee", "sugar", "coffee filters"]
         }
         for uid, items in seed_data.items():
-            self.add_user_embeddings(uid, items) # replace with real retrieval embedding NIM later
+            self.add_user_embeddings(uid, items) #TODO replace with real retrieval embedding NIM later
 
+    # def seed_data(self):
+    #     # Get path to JSON file (relative to current script)
+    #     file_path = os.path.join(os.path.dirname(__file__), "../data/seed_data.json")
+
+    #     # Load seed data from JSON
+    #     with open(file_path, "r") as f:
+    #         seed_data = json.load(f)
+
+    #     # Iterate through users and items
+    #     for uid, items in seed_data.items():
+    #         self.add_user_embeddings(uid, items)  # TODO: replace with Retrieval Embedding NIM later
 
 # --- Example usage (only runs when this file is executed directly) ---
 if __name__ == "__main__":
