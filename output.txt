@@ -1,0 +1,14 @@
+Seeding vector DB from file...
+Seeded vector DB.
+
+User purchase history for user_1: ['toothbrush', 'toothpaste']
+
+User purchase history: ['toothbrush', 'toothpaste'] 
+
+Vector DB at least worked
+Vector DB at least worked
+
+ Retrieval NIM returned all related products: ['toothbrush', 'toothbrush', 'toothpaste', 'toothpaste', 'toothpaste', 'toothbrush'] 
+
+
+ Final results (everything Vector DB returned):

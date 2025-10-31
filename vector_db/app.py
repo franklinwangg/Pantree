@@ -168,7 +168,7 @@ class QueryRequest(BaseModel):
     n_results: int = 3
 
 class QueryEmbeddingRequest(BaseModel):
-    embedding: list[str]
+    embedding: list[float]   # ✅ correct type
     n_results: int = 3
 
 # --- Endpoints ---
