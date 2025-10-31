@@ -6,7 +6,7 @@ MODEL = "nv-embedqa-e5-v5"
 
 
 IMAGE = f"nvcr.io/nim/nvidia/{MODEL}:1.10.0"
-PORT = "8000"
+PORT = "8002"
 CACHE = os.path.expanduser("~/.cache/nim")
 API_KEY = os.environ.get("NGC_API_KEY")
 
