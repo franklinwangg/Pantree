@@ -70,8 +70,8 @@ for product in user_purchase_history:
     if db_resp.status_code == 200:
         matches = db_resp.json().get("matches", [])
         related_products.extend(matches)
-        # print(f"Related products for '{product}': {matches}")
-        print("Vector DB at least worked")
+        print(f"Related products for '{product}': {matches}")
+        # print("Vector DB at least worked")
     else:
         print(f"Vector DB query error for {product}: {db_resp.text}")
 
