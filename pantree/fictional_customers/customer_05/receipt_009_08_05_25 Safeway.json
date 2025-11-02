@@ -1,0 +1,223 @@
+{
+  "store": "Safeway",
+  "customer_id": "customer_05",
+  "customer_name": "Lisa Thompson",
+  "archetype": "busy_family",
+  "order_number": "293274731",
+  "subject": "08/05/25 Safeway",
+  "email_date": "Tue, 05 Aug 2025 14:23:15 +0000",
+  "pickup_date": "Tuesday, August 05, 2025",
+  "pickup_time": "10:00 AM - 6:00 PM",
+  "pickup_address": "2720 41st Ave, Soquel, CA 95073",
+  "items": [
+    {
+      "quantity": 1,
+      "name": "Green Bell Pepper",
+      "price": 1.72
+    },
+    {
+      "quantity": 2,
+      "name": "Fresh Spinach - 10 Oz",
+      "price": 7.84
+    },
+    {
+      "quantity": 1,
+      "name": "Garlic Bulb",
+      "price": 1.31
+    },
+    {
+      "quantity": 1,
+      "name": "Bananas - 1 Lb",
+      "price": 0.75
+    },
+    {
+      "quantity": 3,
+      "name": "Organic Kale Bunch",
+      "price": 8.67
+    },
+    {
+      "quantity": 1,
+      "name": "Fresh Cilantro Bunch",
+      "price": 1.34
+    },
+    {
+      "quantity": 1,
+      "name": "Boneless Skinless Chicken Breasts Value Pack - 3.5 Lb",
+      "price": 21.31
+    },
+    {
+      "quantity": 1,
+      "name": "Boneless Skinless Chicken Breasts Value Pack - 3.5 Lb",
+      "price": 21.21
+    },
+    {
+      "quantity": 2,
+      "name": "Chicken Thighs Bone-In - 3 Lb",
+      "price": 28.55
+    },
+    {
+      "quantity": 4,
+      "name": "Chicken Thighs Bone-In - 3 Lb",
+      "price": 50.49
+    },
+    {
+      "quantity": 2,
+      "name": "Pork Loin Chops Value Pack - 4 Lb",
+      "price": 27.84
+    },
+    {
+      "quantity": 2,
+      "name": "Ham Deli Honey - 1 Lb",
+      "price": 19.46
+    },
+    {
+      "quantity": 2,
+      "name": "Beef Sirloin Steak - 2 Lb",
+      "price": 36.52
+    },
+    {
+      "quantity": 1,
+      "name": "Sour Cream - 16 Oz",
+      "price": 3.91
+    },
+    {
+      "quantity": 1,
+      "name": "Whole Milk - 1 Gallon",
+      "price": 4.47
+    },
+    {
+      "quantity": 1,
+      "name": "Shredded Cheese Mozzarella - 8 Oz",
+      "price": 5.48
+    },
+    {
+      "quantity": 1,
+      "name": "Sour Cream - 16 Oz",
+      "price": 4.14
+    },
+    {
+      "quantity": 2,
+      "name": "Heavy Whipping Cream - 16 Oz",
+      "price": 9.72
+    },
+    {
+      "quantity": 1,
+      "name": "Yogurt Cups Variety Pack - 6 Count",
+      "price": 4.79
+    },
+    {
+      "quantity": 3,
+      "name": "White Bread Sandwich - 24 Oz",
+      "price": 13.56
+    },
+    {
+      "quantity": 2,
+      "name": "White Rice Long Grain - 5 Lb",
+      "price": 11.59
+    },
+    {
+      "quantity": 1,
+      "name": "White Rice Long Grain - 5 Lb",
+      "price": 7.09
+    },
+    {
+      "quantity": 1,
+      "name": "Quinoa Organic - 16 Oz",
+      "price": 7.67
+    },
+    {
+      "quantity": 2,
+      "name": "Bagels Plain - 6 Count",
+      "price": 10.71
+    },
+    {
+      "quantity": 1,
+      "name": "Crackers Saltine - 16 Oz",
+      "price": 4.32
+    },
+    {
+      "quantity": 2,
+      "name": "Granola Bars Variety Pack - 12 Count",
+      "price": 11.28
+    },
+    {
+      "quantity": 1,
+      "name": "Granola Bars Variety Pack - 12 Count",
+      "price": 5.73
+    },
+    {
+      "quantity": 1,
+      "name": "Cookies Chocolate Chip - 13 Oz",
+      "price": 6.4
+    },
+    {
+      "quantity": 1,
+      "name": "Tortilla Chips - 13 Oz",
+      "price": 4.48
+    },
+    {
+      "quantity": 2,
+      "name": "Tortilla Chips - 13 Oz",
+      "price": 9.38
+    },
+    {
+      "quantity": 1,
+      "name": "Orange Juice - 64 Fl. Oz.",
+      "price": 7.47
+    },
+    {
+      "quantity": 2,
+      "name": "Orange Juice - 64 Fl. Oz.",
+      "price": 11.92
+    },
+    {
+      "quantity": 1,
+      "name": "Energy Drink - 4 Pack",
+      "price": 8.5
+    },
+    {
+      "quantity": 1,
+      "name": "Apple Juice - 64 Fl. Oz.",
+      "price": 4.49
+    },
+    {
+      "quantity": 2,
+      "name": "Sugar Granulated - 4 Lb",
+      "price": 9.0
+    },
+    {
+      "quantity": 1,
+      "name": "Vegetable Oil - 48 Fl. Oz.",
+      "price": 7.45
+    },
+    {
+      "quantity": 1,
+      "name": "Sugar Granulated - 4 Lb",
+      "price": 4.73
+    },
+    {
+      "quantity": 1,
+      "name": "Vegetable Oil - 48 Fl. Oz.",
+      "price": 6.9
+    },
+    {
+      "quantity": 2,
+      "name": "Soy Sauce - 15 Fl. Oz.",
+      "price": 7.59
+    },
+    {
+      "quantity": 1,
+      "name": "Canned Beans Black - 15 Oz",
+      "price": 1.72
+    }
+  ],
+  "subtotal": 421.49999999999994,
+  "total": 396.39,
+  "taxes_and_fees": 26.26,
+  "savings": {
+    "total": 51.37,
+    "member_price": 40.28,
+    "safeway_for_u": 11.09
+  },
+  "payment_method": "Card ending in 5476"
+}

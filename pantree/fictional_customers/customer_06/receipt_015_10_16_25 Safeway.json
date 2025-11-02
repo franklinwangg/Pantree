@@ -1,0 +1,143 @@
+{
+  "store": "Safeway",
+  "customer_id": "customer_06",
+  "customer_name": "Robert Martinez",
+  "archetype": "budget_conscious",
+  "order_number": "239842869",
+  "subject": "10/16/25 Safeway",
+  "email_date": "Thu, 16 Oct 2025 14:23:15 +0000",
+  "pickup_date": "Thursday, October 16, 2025",
+  "pickup_time": "2:00 PM - 10:00 PM",
+  "pickup_address": "2720 41st Ave, Soquel, CA 95073",
+  "items": [
+    {
+      "quantity": 1,
+      "name": "Russet Potatoes - 5 Lb",
+      "price": 5.62
+    },
+    {
+      "quantity": 1,
+      "name": "Roma Tomatoes - 1 Lb",
+      "price": 1.91
+    },
+    {
+      "quantity": 1,
+      "name": "Lettuce Iceberg",
+      "price": 2.68
+    },
+    {
+      "quantity": 3,
+      "name": "Celery Bunch",
+      "price": 6.52
+    },
+    {
+      "quantity": 1,
+      "name": "Fresh Cilantro Bunch",
+      "price": 1.05
+    },
+    {
+      "quantity": 2,
+      "name": "Seedless Cucumbers - 2 Count",
+      "price": 8.62
+    },
+    {
+      "quantity": 1,
+      "name": "Large Eggs Grade A - 18 Count",
+      "price": 4.55
+    },
+    {
+      "quantity": 1,
+      "name": "80% Lean 20% Fat Ground Beef Value Pack - 3 Lb",
+      "price": 15.12
+    },
+    {
+      "quantity": 1,
+      "name": "Pork Loin Chops Value Pack - 4 Lb",
+      "price": 16.74
+    },
+    {
+      "quantity": 1,
+      "name": "Shredded Cheese Mozzarella - 8 Oz",
+      "price": 3.76
+    },
+    {
+      "quantity": 2,
+      "name": "Sour Cream - 16 Oz",
+      "price": 6.78
+    },
+    {
+      "quantity": 2,
+      "name": "Butter Salted - 16 Oz",
+      "price": 13.7
+    },
+    {
+      "quantity": 3,
+      "name": "Parmesan Cheese Grated - 8 Oz",
+      "price": 18.82
+    },
+    {
+      "quantity": 2,
+      "name": "Heavy Whipping Cream - 16 Oz",
+      "price": 11.48
+    },
+    {
+      "quantity": 1,
+      "name": "Wheat Bread Whole Grain - 24 Oz",
+      "price": 3.55
+    },
+    {
+      "quantity": 1,
+      "name": "White Rice Long Grain - 5 Lb",
+      "price": 6.06
+    },
+    {
+      "quantity": 1,
+      "name": "English Muffins - 12 Oz",
+      "price": 4.36
+    },
+    {
+      "quantity": 1,
+      "name": "Potato Chips Classic - 10 Oz",
+      "price": 5.84
+    },
+    {
+      "quantity": 1,
+      "name": "Rice Cakes - 9 Oz",
+      "price": 3.94
+    },
+    {
+      "quantity": 1,
+      "name": "Orange Juice - 64 Fl. Oz.",
+      "price": 6.16
+    },
+    {
+      "quantity": 1,
+      "name": "Coca-Cola 12 Pack Cans - 12 Fl. Oz.",
+      "price": 6.91
+    },
+    {
+      "quantity": 1,
+      "name": "Energy Drink - 4 Pack",
+      "price": 9.54
+    },
+    {
+      "quantity": 3,
+      "name": "Sugar Granulated - 4 Lb",
+      "price": 11.8
+    },
+    {
+      "quantity": 1,
+      "name": "Vinegar White - 32 Fl. Oz.",
+      "price": 2.76
+    }
+  ],
+  "subtotal": 178.27,
+  "total": 144.13,
+  "taxes_and_fees": 9.01,
+  "savings": {
+    "total": 43.15,
+    "member_price": 40.67,
+    "safeway_for_u": 2.48
+  },
+  "payment_method": "Card ending in 7318"
+}

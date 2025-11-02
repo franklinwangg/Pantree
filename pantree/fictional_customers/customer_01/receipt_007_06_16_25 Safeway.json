@@ -1,0 +1,108 @@
+{
+  "store": "Safeway",
+  "customer_id": "customer_01",
+  "customer_name": "Sarah Mitchell",
+  "archetype": "health_conscious",
+  "order_number": "395883984",
+  "subject": "06/16/25 Safeway",
+  "email_date": "Mon, 16 Jun 2025 14:23:15 +0000",
+  "pickup_date": "Monday, June 16, 2025",
+  "pickup_time": "8:00 AM - 4:00 PM",
+  "pickup_address": "2720 41st Ave, Soquel, CA 95073",
+  "items": [
+    {
+      "quantity": 1,
+      "name": "Bananas - 1 Lb",
+      "price": 1.19
+    },
+    {
+      "quantity": 1,
+      "name": "Roma Tomatoes - 1 Lb",
+      "price": 2.66
+    },
+    {
+      "quantity": 2,
+      "name": "Celery Bunch",
+      "price": 5.93
+    },
+    {
+      "quantity": 1,
+      "name": "Fresh Blueberries - 6 Oz",
+      "price": 3.53
+    },
+    {
+      "quantity": 1,
+      "name": "Fresh Blueberries - 6 Oz",
+      "price": 5.33
+    },
+    {
+      "quantity": 2,
+      "name": "80% Lean 20% Fat Ground Beef Value Pack - 3 Lb",
+      "price": 33.04
+    },
+    {
+      "quantity": 3,
+      "name": "Boneless Skinless Chicken Breasts Value Pack - 3.5 Lb",
+      "price": 77.63
+    },
+    {
+      "quantity": 1,
+      "name": "Bacon Thick Cut - 16 Oz",
+      "price": 11.34
+    },
+    {
+      "quantity": 1,
+      "name": "Pork Loin Chops Value Pack - 4 Lb",
+      "price": 15.63
+    },
+    {
+      "quantity": 4,
+      "name": "Shredded Cheese Mozzarella - 8 Oz",
+      "price": 17.98
+    },
+    {
+      "quantity": 4,
+      "name": "Cheddar Cheese Block Sharp - 8 Oz",
+      "price": 20.68
+    },
+    {
+      "quantity": 1,
+      "name": "White Bread Sandwich - 24 Oz",
+      "price": 4.79
+    },
+    {
+      "quantity": 1,
+      "name": "White Bread Sandwich - 24 Oz",
+      "price": 3.78
+    },
+    {
+      "quantity": 1,
+      "name": "Tortillas Flour - 20 Count",
+      "price": 4.74
+    },
+    {
+      "quantity": 1,
+      "name": "Cheese Crackers - 12 Oz",
+      "price": 5.06
+    },
+    {
+      "quantity": 1,
+      "name": "Iced Tea Lemon - 64 Fl. Oz.",
+      "price": 4.37
+    },
+    {
+      "quantity": 1,
+      "name": "Canned Beans Black - 15 Oz",
+      "price": 2.35
+    }
+  ],
+  "subtotal": 220.03,
+  "total": 214.29,
+  "taxes_and_fees": 14.51,
+  "savings": {
+    "total": 20.25,
+    "member_price": 18.6,
+    "safeway_for_u": 1.65
+  },
+  "payment_method": "Card ending in 4130"
+}

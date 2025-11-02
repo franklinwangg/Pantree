@@ -1,0 +1,198 @@
+{
+  "store": "Safeway",
+  "customer_id": "customer_04",
+  "customer_name": "Michael Chen",
+  "archetype": "busy_family",
+  "order_number": "720742841",
+  "subject": "08/27/25 Safeway",
+  "email_date": "Wed, 27 Aug 2025 14:23:15 +0000",
+  "pickup_date": "Wednesday, August 27, 2025",
+  "pickup_time": "10:00 AM - 6:00 PM",
+  "pickup_address": "2720 41st Ave, Soquel, CA 95073",
+  "items": [
+    {
+      "quantity": 1,
+      "name": "Fresh Spinach - 10 Oz",
+      "price": 3.08
+    },
+    {
+      "quantity": 1,
+      "name": "Garlic Bulb",
+      "price": 1.27
+    },
+    {
+      "quantity": 1,
+      "name": "Russet Potatoes - 5 Lb",
+      "price": 5.99
+    },
+    {
+      "quantity": 2,
+      "name": "Fresh Strawberries - 1 Lb",
+      "price": 10.72
+    },
+    {
+      "quantity": 2,
+      "name": "Fresh Asparagus - 1 Lb",
+      "price": 10.35
+    },
+    {
+      "quantity": 1,
+      "name": "Large Eggs Grade A - 18 Count",
+      "price": 6.22
+    },
+    {
+      "quantity": 1,
+      "name": "Chicken Thighs Bone-In - 3 Lb",
+      "price": 12.01
+    },
+    {
+      "quantity": 1,
+      "name": "Chicken Thighs Bone-In - 3 Lb",
+      "price": 11.54
+    },
+    {
+      "quantity": 1,
+      "name": "Large Eggs Grade A - 18 Count",
+      "price": 6.71
+    },
+    {
+      "quantity": 1,
+      "name": "All Natural Chicken Tenders - 1 Lb",
+      "price": 8.78
+    },
+    {
+      "quantity": 1,
+      "name": "Beef Sirloin Steak - 2 Lb",
+      "price": 22.16
+    },
+    {
+      "quantity": 1,
+      "name": "Beef Sirloin Steak - 2 Lb",
+      "price": 22.4
+    },
+    {
+      "quantity": 1,
+      "name": "Sour Cream - 16 Oz",
+      "price": 3.78
+    },
+    {
+      "quantity": 1,
+      "name": "Sour Cream - 16 Oz",
+      "price": 4.04
+    },
+    {
+      "quantity": 1,
+      "name": "Cream Cheese - 8 Oz",
+      "price": 2.81
+    },
+    {
+      "quantity": 2,
+      "name": "String Cheese Mozzarella - 12 Oz",
+      "price": 12.46
+    },
+    {
+      "quantity": 2,
+      "name": "Greek Yogurt Plain - 32 Oz",
+      "price": 10.63
+    },
+    {
+      "quantity": 1,
+      "name": "Flour All Purpose - 5 Lb",
+      "price": 5.28
+    },
+    {
+      "quantity": 2,
+      "name": "Wheat Bread Whole Grain - 24 Oz",
+      "price": 9.77
+    },
+    {
+      "quantity": 1,
+      "name": "Pasta Spaghetti - 16 Oz",
+      "price": 2.01
+    },
+    {
+      "quantity": 1,
+      "name": "Potato Chips Classic - 10 Oz",
+      "price": 4.5
+    },
+    {
+      "quantity": 1,
+      "name": "Crackers Saltine - 16 Oz",
+      "price": 4.05
+    },
+    {
+      "quantity": 1,
+      "name": "Granola Bars Variety Pack - 12 Count",
+      "price": 5.09
+    },
+    {
+      "quantity": 1,
+      "name": "Tortilla Chips - 13 Oz",
+      "price": 5.06
+    },
+    {
+      "quantity": 4,
+      "name": "Tortilla Chips - 13 Oz",
+      "price": 18.1
+    },
+    {
+      "quantity": 1,
+      "name": "Cheese Crackers - 12 Oz",
+      "price": 4.81
+    },
+    {
+      "quantity": 1,
+      "name": "Bottled Water - 24 Pack",
+      "price": 5.69
+    },
+    {
+      "quantity": 3,
+      "name": "Bottled Water - 24 Pack",
+      "price": 12.88
+    },
+    {
+      "quantity": 1,
+      "name": "Apple Juice - 64 Fl. Oz.",
+      "price": 4.94
+    },
+    {
+      "quantity": 1,
+      "name": "Diet Coke 12 Pack Cans - 12 Fl. Oz.",
+      "price": 6.04
+    },
+    {
+      "quantity": 1,
+      "name": "Salt Iodized - 26 Oz",
+      "price": 1.61
+    },
+    {
+      "quantity": 1,
+      "name": "Sugar Granulated - 4 Lb",
+      "price": 3.89
+    },
+    {
+      "quantity": 3,
+      "name": "Salt Iodized - 26 Oz",
+      "price": 6.51
+    },
+    {
+      "quantity": 1,
+      "name": "Strawberry Jam - 18 Oz",
+      "price": 5.05
+    },
+    {
+      "quantity": 1,
+      "name": "Maple Syrup - 24 Oz",
+      "price": 9.04
+    }
+  ],
+  "subtotal": 269.27,
+  "total": 265.05,
+  "taxes_and_fees": 21.13,
+  "savings": {
+    "total": 25.35,
+    "member_price": 22.59,
+    "safeway_for_u": 2.76
+  },
+  "payment_method": "Card ending in 5732"
+}

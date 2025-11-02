@@ -1,0 +1,108 @@
+{
+  "store": "Safeway",
+  "customer_id": "customer_08",
+  "customer_name": "Chris Anderson",
+  "archetype": "single_professional",
+  "order_number": "455419851",
+  "subject": "05/15/25 Safeway",
+  "email_date": "Thu, 15 May 2025 14:23:15 +0000",
+  "pickup_date": "Thursday, May 15, 2025",
+  "pickup_time": "2:00 PM - 10:00 PM",
+  "pickup_address": "2720 41st Ave, Soquel, CA 95073",
+  "items": [
+    {
+      "quantity": 2,
+      "name": "Lettuce Iceberg",
+      "price": 4.25
+    },
+    {
+      "quantity": 1,
+      "name": "Fresh Asparagus - 1 Lb",
+      "price": 4.5
+    },
+    {
+      "quantity": 1,
+      "name": "Large Eggs Grade A - 18 Count",
+      "price": 4.15
+    },
+    {
+      "quantity": 3,
+      "name": "Large Eggs Grade A - 18 Count",
+      "price": 18.15
+    },
+    {
+      "quantity": 1,
+      "name": "Bacon Thick Cut - 16 Oz",
+      "price": 9.65
+    },
+    {
+      "quantity": 3,
+      "name": "Pork Loin Chops Value Pack - 4 Lb",
+      "price": 49.5
+    },
+    {
+      "quantity": 1,
+      "name": "Sour Cream - 16 Oz",
+      "price": 4.45
+    },
+    {
+      "quantity": 1,
+      "name": "Cheddar Cheese Block Sharp - 8 Oz",
+      "price": 6.38
+    },
+    {
+      "quantity": 1,
+      "name": "Wheat Bread Whole Grain - 24 Oz",
+      "price": 3.87
+    },
+    {
+      "quantity": 1,
+      "name": "Bagels Plain - 6 Count",
+      "price": 4.11
+    },
+    {
+      "quantity": 3,
+      "name": "Potato Chips Classic - 10 Oz",
+      "price": 15.05
+    },
+    {
+      "quantity": 1,
+      "name": "Granola Bars Variety Pack - 12 Count",
+      "price": 7.42
+    },
+    {
+      "quantity": 1,
+      "name": "Rice Cakes - 9 Oz",
+      "price": 4.83
+    },
+    {
+      "quantity": 2,
+      "name": "Cookies Chocolate Chip - 13 Oz",
+      "price": 10.41
+    },
+    {
+      "quantity": 2,
+      "name": "Coca-Cola 12 Pack Cans - 12 Fl. Oz.",
+      "price": 12.19
+    },
+    {
+      "quantity": 2,
+      "name": "Cranberry Juice - 64 Fl. Oz.",
+      "price": 11.55
+    },
+    {
+      "quantity": 2,
+      "name": "Olive Oil Extra Virgin - 25 Fl. Oz.",
+      "price": 21.59
+    }
+  ],
+  "subtotal": 192.05,
+  "total": 185.22,
+  "taxes_and_fees": 11.07,
+  "savings": {
+    "total": 17.9,
+    "member_price": 14.85,
+    "safeway_for_u": 3.05
+  },
+  "payment_method": "Card ending in 8190"
+}

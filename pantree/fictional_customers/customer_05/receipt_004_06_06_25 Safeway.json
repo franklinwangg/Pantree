@@ -1,0 +1,203 @@
+{
+  "store": "Safeway",
+  "customer_id": "customer_05",
+  "customer_name": "Lisa Thompson",
+  "archetype": "busy_family",
+  "order_number": "625815812",
+  "subject": "06/06/25 Safeway",
+  "email_date": "Fri, 06 Jun 2025 14:23:15 +0000",
+  "pickup_date": "Friday, June 06, 2025",
+  "pickup_time": "2:00 PM - 10:00 PM",
+  "pickup_address": "2720 41st Ave, Soquel, CA 95073",
+  "items": [
+    {
+      "quantity": 2,
+      "name": "Garlic Bulb",
+      "price": 2.95
+    },
+    {
+      "quantity": 1,
+      "name": "Roma Tomatoes - 1 Lb",
+      "price": 2.46
+    },
+    {
+      "quantity": 1,
+      "name": "Bananas - 1 Lb",
+      "price": 1.25
+    },
+    {
+      "quantity": 2,
+      "name": "Fresh Spinach - 10 Oz",
+      "price": 8.6
+    },
+    {
+      "quantity": 2,
+      "name": "Green Grapes - 2 Lb",
+      "price": 11.53
+    },
+    {
+      "quantity": 1,
+      "name": "Fresh Strawberries - 1 Lb",
+      "price": 4.72
+    },
+    {
+      "quantity": 4,
+      "name": "Boneless Skinless Chicken Breasts Value Pack - 3.5 Lb",
+      "price": 97.79
+    },
+    {
+      "quantity": 1,
+      "name": "80% Lean 20% Fat Ground Beef Value Pack - 3 Lb",
+      "price": 17.43
+    },
+    {
+      "quantity": 1,
+      "name": "Large Eggs Grade A - 18 Count",
+      "price": 6.59
+    },
+    {
+      "quantity": 1,
+      "name": "Large Eggs Grade A - 18 Count",
+      "price": 4.19
+    },
+    {
+      "quantity": 2,
+      "name": "Tilapia Fillets Frozen - 2 Lb",
+      "price": 23.31
+    },
+    {
+      "quantity": 1,
+      "name": "Tilapia Fillets Frozen - 2 Lb",
+      "price": 11.62
+    },
+    {
+      "quantity": 2,
+      "name": "All Natural Chicken Tenders - 1 Lb",
+      "price": 20.78
+    },
+    {
+      "quantity": 2,
+      "name": "Cream Cheese - 8 Oz",
+      "price": 5.51
+    },
+    {
+      "quantity": 1,
+      "name": "Shredded Cheese Mozzarella - 8 Oz",
+      "price": 4.92
+    },
+    {
+      "quantity": 1,
+      "name": "Cream Cheese - 8 Oz",
+      "price": 3.53
+    },
+    {
+      "quantity": 2,
+      "name": "Butter Salted - 16 Oz",
+      "price": 14.51
+    },
+    {
+      "quantity": 1,
+      "name": "Greek Yogurt Plain - 32 Oz",
+      "price": 5.5
+    },
+    {
+      "quantity": 1,
+      "name": "String Cheese Mozzarella - 12 Oz",
+      "price": 5.88
+    },
+    {
+      "quantity": 1,
+      "name": "Flour All Purpose - 5 Lb",
+      "price": 5.69
+    },
+    {
+      "quantity": 2,
+      "name": "Wheat Bread Whole Grain - 24 Oz",
+      "price": 10.69
+    },
+    {
+      "quantity": 3,
+      "name": "Tortillas Flour - 20 Count",
+      "price": 17.85
+    },
+    {
+      "quantity": 3,
+      "name": "Tortillas Flour - 20 Count",
+      "price": 14.43
+    },
+    {
+      "quantity": 1,
+      "name": "Potato Chips Classic - 10 Oz",
+      "price": 5.52
+    },
+    {
+      "quantity": 3,
+      "name": "Potato Chips Classic - 10 Oz",
+      "price": 13.26
+    },
+    {
+      "quantity": 3,
+      "name": "Granola Bars Variety Pack - 12 Count",
+      "price": 18.17
+    },
+    {
+      "quantity": 1,
+      "name": "Tortilla Chips - 13 Oz",
+      "price": 4.56
+    },
+    {
+      "quantity": 1,
+      "name": "Popcorn Microwave Butter - 6 Count",
+      "price": 4.36
+    },
+    {
+      "quantity": 3,
+      "name": "Popcorn Microwave Butter - 6 Count",
+      "price": 13.39
+    },
+    {
+      "quantity": 2,
+      "name": "Bottled Water - 24 Pack",
+      "price": 7.09
+    },
+    {
+      "quantity": 1,
+      "name": "Bottled Water - 24 Pack",
+      "price": 4.95
+    },
+    {
+      "quantity": 1,
+      "name": "Diet Coke 12 Pack Cans - 12 Fl. Oz.",
+      "price": 7.86
+    },
+    {
+      "quantity": 2,
+      "name": "Tomato Sauce - 24 Oz",
+      "price": 5.01
+    },
+    {
+      "quantity": 1,
+      "name": "Vegetable Oil - 48 Fl. Oz.",
+      "price": 6.72
+    },
+    {
+      "quantity": 2,
+      "name": "Strawberry Jam - 18 Oz",
+      "price": 8.14
+    },
+    {
+      "quantity": 3,
+      "name": "Soy Sauce - 15 Fl. Oz.",
+      "price": 14.4
+    }
+  ],
+  "subtotal": 415.15999999999997,
+  "total": 357.06,
+  "taxes_and_fees": 27.35,
+  "savings": {
+    "total": 85.45,
+    "member_price": 62.44,
+    "safeway_for_u": 23.01
+  },
+  "payment_method": "Card ending in 3235"
+}

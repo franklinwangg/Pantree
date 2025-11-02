@@ -1,0 +1,108 @@
+{
+  "store": "Safeway",
+  "customer_id": "customer_02",
+  "customer_name": "David Park",
+  "archetype": "health_conscious",
+  "order_number": "404038231",
+  "subject": "07/05/25 Safeway",
+  "email_date": "Sat, 05 Jul 2025 14:23:15 +0000",
+  "pickup_date": "Saturday, July 05, 2025",
+  "pickup_time": "12:00 PM - 8:00 PM",
+  "pickup_address": "2720 41st Ave, Soquel, CA 95073",
+  "items": [
+    {
+      "quantity": 1,
+      "name": "Carrots - 2 Lb Bag",
+      "price": 3.07
+    },
+    {
+      "quantity": 1,
+      "name": "Lettuce Iceberg",
+      "price": 2.58
+    },
+    {
+      "quantity": 1,
+      "name": "Celery Bunch",
+      "price": 2.96
+    },
+    {
+      "quantity": 2,
+      "name": "Garlic Bulb",
+      "price": 2.49
+    },
+    {
+      "quantity": 2,
+      "name": "Organic Baby Carrots - 1 Lb",
+      "price": 7.37
+    },
+    {
+      "quantity": 2,
+      "name": "Sweet Potatoes - 3 Lb",
+      "price": 8.87
+    },
+    {
+      "quantity": 1,
+      "name": "Chicken Thighs Bone-In - 3 Lb",
+      "price": 13.48
+    },
+    {
+      "quantity": 2,
+      "name": "Chicken Thighs Bone-In - 3 Lb",
+      "price": 21.44
+    },
+    {
+      "quantity": 1,
+      "name": "96% Lean 4% Fat Ground Beef - 1.35 Lb",
+      "price": 19.8
+    },
+    {
+      "quantity": 2,
+      "name": "All Natural Chicken Tenders - 1 Lb",
+      "price": 20.79
+    },
+    {
+      "quantity": 2,
+      "name": "Cream Cheese - 8 Oz",
+      "price": 6.51
+    },
+    {
+      "quantity": 2,
+      "name": "Greek Yogurt Plain - 32 Oz",
+      "price": 12.47
+    },
+    {
+      "quantity": 1,
+      "name": "English Muffins - 12 Oz",
+      "price": 4.15
+    },
+    {
+      "quantity": 3,
+      "name": "Trail Mix - 26 Oz",
+      "price": 26.01
+    },
+    {
+      "quantity": 2,
+      "name": "Cranberry Juice - 64 Fl. Oz.",
+      "price": 11.79
+    },
+    {
+      "quantity": 2,
+      "name": "Sugar Granulated - 4 Lb",
+      "price": 9.75
+    },
+    {
+      "quantity": 1,
+      "name": "Mustard Yellow - 20 Oz",
+      "price": 3.44
+    }
+  ],
+  "subtotal": 176.97,
+  "total": 175.54,
+  "taxes_and_fees": 12.24,
+  "savings": {
+    "total": 13.67,
+    "member_price": 11.44,
+    "safeway_for_u": 2.23
+  },
+  "payment_method": "Card ending in 9524"
+}

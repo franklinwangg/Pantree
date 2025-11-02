@@ -1,0 +1,138 @@
+{
+  "store": "Safeway",
+  "customer_id": "customer_07",
+  "customer_name": "Amanda Johnson",
+  "archetype": "budget_conscious",
+  "order_number": "758428856",
+  "subject": "06/14/25 Safeway",
+  "email_date": "Sat, 14 Jun 2025 14:23:15 +0000",
+  "pickup_date": "Saturday, June 14, 2025",
+  "pickup_time": "8:00 AM - 4:00 PM",
+  "pickup_address": "2720 41st Ave, Soquel, CA 95073",
+  "items": [
+    {
+      "quantity": 1,
+      "name": "Carrots - 2 Lb Bag",
+      "price": 2.06
+    },
+    {
+      "quantity": 1,
+      "name": "White Onion",
+      "price": 1.52
+    },
+    {
+      "quantity": 4,
+      "name": "Fresh Broccoli Crowns",
+      "price": 11.59
+    },
+    {
+      "quantity": 1,
+      "name": "Fresh Asparagus - 1 Lb",
+      "price": 6.78
+    },
+    {
+      "quantity": 3,
+      "name": "Chicken Thighs Bone-In - 3 Lb",
+      "price": 44.6
+    },
+    {
+      "quantity": 1,
+      "name": "80% Lean 20% Fat Ground Beef Value Pack - 3 Lb",
+      "price": 14.46
+    },
+    {
+      "quantity": 2,
+      "name": "Pork Loin Chops Value Pack - 4 Lb",
+      "price": 31.52
+    },
+    {
+      "quantity": 1,
+      "name": "Whole Milk - 1 Gallon",
+      "price": 5.05
+    },
+    {
+      "quantity": 3,
+      "name": "Cream Cheese - 8 Oz",
+      "price": 8.89
+    },
+    {
+      "quantity": 3,
+      "name": "Greek Yogurt Plain - 32 Oz",
+      "price": 22.03
+    },
+    {
+      "quantity": 2,
+      "name": "Half and Half - 32 Oz",
+      "price": 10.39
+    },
+    {
+      "quantity": 1,
+      "name": "Wheat Bread Whole Grain - 24 Oz",
+      "price": 3.93
+    },
+    {
+      "quantity": 1,
+      "name": "Wheat Bread Whole Grain - 24 Oz",
+      "price": 3.85
+    },
+    {
+      "quantity": 1,
+      "name": "Oatmeal Quick Oats - 42 Oz",
+      "price": 6.13
+    },
+    {
+      "quantity": 1,
+      "name": "Dinner Rolls - 12 Count",
+      "price": 4.5
+    },
+    {
+      "quantity": 1,
+      "name": "Granola Bars Variety Pack - 12 Count",
+      "price": 6.58
+    },
+    {
+      "quantity": 1,
+      "name": "Tortilla Chips - 13 Oz",
+      "price": 4.34
+    },
+    {
+      "quantity": 1,
+      "name": "Orange Juice - 64 Fl. Oz.",
+      "price": 7.15
+    },
+    {
+      "quantity": 4,
+      "name": "Coca-Cola 12 Pack Cans - 12 Fl. Oz.",
+      "price": 25.49
+    },
+    {
+      "quantity": 1,
+      "name": "Sparkling Water Variety - 12 Pack",
+      "price": 8.24
+    },
+    {
+      "quantity": 1,
+      "name": "Vegetable Oil - 48 Fl. Oz.",
+      "price": 7.44
+    },
+    {
+      "quantity": 4,
+      "name": "Vegetable Oil - 48 Fl. Oz.",
+      "price": 27.11
+    },
+    {
+      "quantity": 3,
+      "name": "Vinegar White - 32 Fl. Oz.",
+      "price": 8.72
+    }
+  ],
+  "subtotal": 272.37000000000006,
+  "total": 263.41,
+  "taxes_and_fees": 20.79,
+  "savings": {
+    "total": 29.75,
+    "member_price": 22.09,
+    "safeway_for_u": 7.66
+  },
+  "payment_method": "Card ending in 7057"
+}

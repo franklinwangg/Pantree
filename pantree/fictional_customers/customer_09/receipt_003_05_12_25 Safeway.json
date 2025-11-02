@@ -1,0 +1,88 @@
+{
+  "store": "Safeway",
+  "customer_id": "customer_09",
+  "customer_name": "Emily White",
+  "archetype": "single_professional",
+  "order_number": "514546583",
+  "subject": "05/12/25 Safeway",
+  "email_date": "Mon, 12 May 2025 14:23:15 +0000",
+  "pickup_date": "Monday, May 12, 2025",
+  "pickup_time": "10:00 AM - 6:00 PM",
+  "pickup_address": "2720 41st Ave, Soquel, CA 95073",
+  "items": [
+    {
+      "quantity": 3,
+      "name": "Russet Potatoes - 5 Lb",
+      "price": 12.55
+    },
+    {
+      "quantity": 1,
+      "name": "Organic Kale Bunch",
+      "price": 3.22
+    },
+    {
+      "quantity": 1,
+      "name": "Chicken Thighs Bone-In - 3 Lb",
+      "price": 13.08
+    },
+    {
+      "quantity": 2,
+      "name": "Chicken Thighs Bone-In - 3 Lb",
+      "price": 28.18
+    },
+    {
+      "quantity": 1,
+      "name": "Pork Loin Chops Value Pack - 4 Lb",
+      "price": 16.75
+    },
+    {
+      "quantity": 2,
+      "name": "Greek Yogurt Plain - 32 Oz",
+      "price": 14.37
+    },
+    {
+      "quantity": 1,
+      "name": "Quinoa Organic - 16 Oz",
+      "price": 8.2
+    },
+    {
+      "quantity": 1,
+      "name": "Granola Bars Variety Pack - 12 Count",
+      "price": 5.82
+    },
+    {
+      "quantity": 3,
+      "name": "Cheese Crackers - 12 Oz",
+      "price": 13.46
+    },
+    {
+      "quantity": 1,
+      "name": "Orange Juice - 64 Fl. Oz.",
+      "price": 6.04
+    },
+    {
+      "quantity": 1,
+      "name": "Coca-Cola 12 Pack Cans - 12 Fl. Oz.",
+      "price": 6.39
+    },
+    {
+      "quantity": 2,
+      "name": "Iced Tea Lemon - 64 Fl. Oz.",
+      "price": 6.68
+    },
+    {
+      "quantity": 1,
+      "name": "Honey - 24 Oz",
+      "price": 9.86
+    }
+  ],
+  "subtotal": 144.60000000000002,
+  "total": 118.64,
+  "taxes_and_fees": 7.46,
+  "savings": {
+    "total": 33.42,
+    "member_price": 25.34,
+    "safeway_for_u": 8.08
+  },
+  "payment_method": "Card ending in 3819"
+}

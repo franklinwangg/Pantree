@@ -1,0 +1,98 @@
+{
+  "store": "Safeway",
+  "customer_id": "customer_09",
+  "customer_name": "Emily White",
+  "archetype": "single_professional",
+  "order_number": "595069825",
+  "subject": "05/05/25 Safeway",
+  "email_date": "Mon, 05 May 2025 14:23:15 +0000",
+  "pickup_date": "Monday, May 05, 2025",
+  "pickup_time": "2:00 PM - 10:00 PM",
+  "pickup_address": "2720 41st Ave, Soquel, CA 95073",
+  "items": [
+    {
+      "quantity": 1,
+      "name": "Carrots - 2 Lb Bag",
+      "price": 2.77
+    },
+    {
+      "quantity": 1,
+      "name": "Roma Tomatoes - 1 Lb",
+      "price": 1.5
+    },
+    {
+      "quantity": 1,
+      "name": "Fresh Strawberries - 1 Lb",
+      "price": 5.16
+    },
+    {
+      "quantity": 2,
+      "name": "Boneless Skinless Chicken Breasts Value Pack - 3.5 Lb",
+      "price": 42.19
+    },
+    {
+      "quantity": 1,
+      "name": "Large Eggs Grade A - 18 Count",
+      "price": 5.46
+    },
+    {
+      "quantity": 1,
+      "name": "All Natural Chicken Tenders - 1 Lb",
+      "price": 9.33
+    },
+    {
+      "quantity": 2,
+      "name": "Butter Salted - 16 Oz",
+      "price": 14.06
+    },
+    {
+      "quantity": 2,
+      "name": "Butter Salted - 16 Oz",
+      "price": 11.71
+    },
+    {
+      "quantity": 1,
+      "name": "Yogurt Cups Variety Pack - 6 Count",
+      "price": 4.57
+    },
+    {
+      "quantity": 1,
+      "name": "Oatmeal Quick Oats - 42 Oz",
+      "price": 5.04
+    },
+    {
+      "quantity": 1,
+      "name": "Potato Chips Classic - 10 Oz",
+      "price": 5.9
+    },
+    {
+      "quantity": 2,
+      "name": "Potato Chips Classic - 10 Oz",
+      "price": 11.56
+    },
+    {
+      "quantity": 2,
+      "name": "Fruit Snacks - 22 Count",
+      "price": 12.89
+    },
+    {
+      "quantity": 3,
+      "name": "Cranberry Juice - 64 Fl. Oz.",
+      "price": 20.17
+    },
+    {
+      "quantity": 4,
+      "name": "Honey - 24 Oz",
+      "price": 38.53
+    }
+  ],
+  "subtotal": 190.84,
+  "total": 160.93,
+  "taxes_and_fees": 13.28,
+  "savings": {
+    "total": 43.19,
+    "member_price": 35.28,
+    "safeway_for_u": 7.91
+  },
+  "payment_method": "Card ending in 3974"
+}

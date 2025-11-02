@@ -1,0 +1,233 @@
+{
+  "store": "Safeway",
+  "customer_id": "customer_04",
+  "customer_name": "Michael Chen",
+  "archetype": "busy_family",
+  "order_number": "868713403",
+  "subject": "10/04/25 Safeway",
+  "email_date": "Sat, 04 Oct 2025 14:23:15 +0000",
+  "pickup_date": "Saturday, October 04, 2025",
+  "pickup_time": "10:00 AM - 6:00 PM",
+  "pickup_address": "2720 41st Ave, Soquel, CA 95073",
+  "items": [
+    {
+      "quantity": 3,
+      "name": "Roma Tomatoes - 1 Lb",
+      "price": 7.24
+    },
+    {
+      "quantity": 1,
+      "name": "Green Bell Pepper",
+      "price": 1.66
+    },
+    {
+      "quantity": 3,
+      "name": "Bananas - 1 Lb",
+      "price": 3.01
+    },
+    {
+      "quantity": 1,
+      "name": "Celery Bunch",
+      "price": 2.35
+    },
+    {
+      "quantity": 3,
+      "name": "Sweet Mini Peppers - 1 Lb",
+      "price": 13.54
+    },
+    {
+      "quantity": 1,
+      "name": "Seedless Cucumbers - 2 Count",
+      "price": 4.1
+    },
+    {
+      "quantity": 4,
+      "name": "Seedless Cucumbers - 2 Count",
+      "price": 13.03
+    },
+    {
+      "quantity": 2,
+      "name": "80% Lean 20% Fat Ground Beef Value Pack - 3 Lb",
+      "price": 34.55
+    },
+    {
+      "quantity": 1,
+      "name": "80% Lean 20% Fat Ground Beef Value Pack - 3 Lb",
+      "price": 13.73
+    },
+    {
+      "quantity": 1,
+      "name": "Large Eggs Grade A - 18 Count",
+      "price": 6.83
+    },
+    {
+      "quantity": 1,
+      "name": "80% Lean 20% Fat Ground Beef Value Pack - 3 Lb",
+      "price": 18.16
+    },
+    {
+      "quantity": 1,
+      "name": "Beef Sirloin Steak - 2 Lb",
+      "price": 21.1
+    },
+    {
+      "quantity": 1,
+      "name": "Salmon Fillets Fresh - 1 Lb",
+      "price": 14.49
+    },
+    {
+      "quantity": 1,
+      "name": "All Natural Chicken Tenders - 1 Lb",
+      "price": 8.66
+    },
+    {
+      "quantity": 1,
+      "name": "Sour Cream - 16 Oz",
+      "price": 3.96
+    },
+    {
+      "quantity": 2,
+      "name": "Cream Cheese - 8 Oz",
+      "price": 7.49
+    },
+    {
+      "quantity": 1,
+      "name": "Whole Milk - 1 Gallon",
+      "price": 4.48
+    },
+    {
+      "quantity": 1,
+      "name": "Whole Milk - 1 Gallon",
+      "price": 4.26
+    },
+    {
+      "quantity": 2,
+      "name": "Half and Half - 32 Oz",
+      "price": 9.59
+    },
+    {
+      "quantity": 1,
+      "name": "Yogurt Cups Variety Pack - 6 Count",
+      "price": 4.83
+    },
+    {
+      "quantity": 1,
+      "name": "Cheddar Cheese Block Sharp - 8 Oz",
+      "price": 6.9
+    },
+    {
+      "quantity": 1,
+      "name": "White Rice Long Grain - 5 Lb",
+      "price": 7.47
+    },
+    {
+      "quantity": 2,
+      "name": "White Bread Sandwich - 24 Oz",
+      "price": 8.82
+    },
+    {
+      "quantity": 2,
+      "name": "White Rice Long Grain - 5 Lb",
+      "price": 14.77
+    },
+    {
+      "quantity": 1,
+      "name": "Pasta Penne - 16 Oz",
+      "price": 1.81
+    },
+    {
+      "quantity": 1,
+      "name": "Oatmeal Quick Oats - 42 Oz",
+      "price": 4.51
+    },
+    {
+      "quantity": 1,
+      "name": "Potato Chips Classic - 10 Oz",
+      "price": 4.97
+    },
+    {
+      "quantity": 1,
+      "name": "Granola Bars Variety Pack - 12 Count",
+      "price": 6.14
+    },
+    {
+      "quantity": 1,
+      "name": "Granola Bars Variety Pack - 12 Count",
+      "price": 6.93
+    },
+    {
+      "quantity": 1,
+      "name": "Tortilla Chips - 13 Oz",
+      "price": 5.04
+    },
+    {
+      "quantity": 1,
+      "name": "Cheese Crackers - 12 Oz",
+      "price": 4.88
+    },
+    {
+      "quantity": 2,
+      "name": "Trail Mix - 26 Oz",
+      "price": 16.16
+    },
+    {
+      "quantity": 2,
+      "name": "Orange Juice - 64 Fl. Oz.",
+      "price": 10.45
+    },
+    {
+      "quantity": 1,
+      "name": "Coca-Cola 12 Pack Cans - 12 Fl. Oz.",
+      "price": 6.17
+    },
+    {
+      "quantity": 2,
+      "name": "Bottled Water - 24 Pack",
+      "price": 11.77
+    },
+    {
+      "quantity": 2,
+      "name": "Diet Coke 12 Pack Cans - 12 Fl. Oz.",
+      "price": 11.99
+    },
+    {
+      "quantity": 1,
+      "name": "Sparkling Water Variety - 12 Pack",
+      "price": 7.54
+    },
+    {
+      "quantity": 1,
+      "name": "Salt Iodized - 26 Oz",
+      "price": 1.65
+    },
+    {
+      "quantity": 4,
+      "name": "Vegetable Oil - 48 Fl. Oz.",
+      "price": 20.61
+    },
+    {
+      "quantity": 2,
+      "name": "Sugar Granulated - 4 Lb",
+      "price": 9.48
+    },
+    {
+      "quantity": 3,
+      "name": "Peanut Butter Creamy - 40 Oz",
+      "price": 24.28
+    },
+    {
+      "quantity": 1,
+      "name": "Chicken Broth - 32 Oz",
+      "price": 3.82
+    }
+  ],
+  "subtotal": 393.2200000000001,
+  "total": 364.81,
+  "taxes_and_fees": 26.41,
+  "savings": {
+    "total": 54.82,
+    "member_price": 45.6,
+    "safeway_for_u": 9.22
+  },
+  "payment_method": "Card ending in 8357"
+}

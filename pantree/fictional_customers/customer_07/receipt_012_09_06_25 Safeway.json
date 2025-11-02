@@ -1,0 +1,123 @@
+{
+  "store": "Safeway",
+  "customer_id": "customer_07",
+  "customer_name": "Amanda Johnson",
+  "archetype": "budget_conscious",
+  "order_number": "955698039",
+  "subject": "09/06/25 Safeway",
+  "email_date": "Sat, 06 Sep 2025 14:23:15 +0000",
+  "pickup_date": "Saturday, September 06, 2025",
+  "pickup_time": "8:00 AM - 4:00 PM",
+  "pickup_address": "2720 41st Ave, Soquel, CA 95073",
+  "items": [
+    {
+      "quantity": 1,
+      "name": "Roma Tomatoes - 1 Lb",
+      "price": 2.36
+    },
+    {
+      "quantity": 1,
+      "name": "Celery Bunch",
+      "price": 1.89
+    },
+    {
+      "quantity": 1,
+      "name": "Fresh Broccoli Crowns",
+      "price": 2.71
+    },
+    {
+      "quantity": 1,
+      "name": "Green Grapes - 2 Lb",
+      "price": 6.03
+    },
+    {
+      "quantity": 1,
+      "name": "Chicken Thighs Bone-In - 3 Lb",
+      "price": 10.72
+    },
+    {
+      "quantity": 1,
+      "name": "Boneless Skinless Chicken Breasts Value Pack - 3.5 Lb",
+      "price": 24.07
+    },
+    {
+      "quantity": 2,
+      "name": "96% Lean 4% Fat Ground Beef - 1.35 Lb",
+      "price": 34.48
+    },
+    {
+      "quantity": 1,
+      "name": "Sour Cream - 16 Oz",
+      "price": 3.41
+    },
+    {
+      "quantity": 2,
+      "name": "Butter Salted - 16 Oz",
+      "price": 12.37
+    },
+    {
+      "quantity": 3,
+      "name": "Yogurt Cups Variety Pack - 6 Count",
+      "price": 19.31
+    },
+    {
+      "quantity": 2,
+      "name": "White Bread Sandwich - 24 Oz",
+      "price": 6.0
+    },
+    {
+      "quantity": 1,
+      "name": "Wheat Bread Whole Grain - 24 Oz",
+      "price": 4.5
+    },
+    {
+      "quantity": 1,
+      "name": "Brown Rice - 2 Lb",
+      "price": 6.09
+    },
+    {
+      "quantity": 4,
+      "name": "Granola Bars Variety Pack - 12 Count",
+      "price": 26.2
+    },
+    {
+      "quantity": 1,
+      "name": "Popcorn Microwave Butter - 6 Count",
+      "price": 4.6
+    },
+    {
+      "quantity": 3,
+      "name": "Orange Juice - 64 Fl. Oz.",
+      "price": 20.48
+    },
+    {
+      "quantity": 4,
+      "name": "Orange Juice - 64 Fl. Oz.",
+      "price": 21.1
+    },
+    {
+      "quantity": 4,
+      "name": "Coffee Ground Medium Roast - 30 Oz",
+      "price": 51.18
+    },
+    {
+      "quantity": 1,
+      "name": "Vegetable Oil - 48 Fl. Oz.",
+      "price": 6.45
+    },
+    {
+      "quantity": 1,
+      "name": "Chicken Broth - 32 Oz",
+      "price": 3.92
+    }
+  ],
+  "subtotal": 267.86999999999995,
+  "total": 242.08,
+  "taxes_and_fees": 19.46,
+  "savings": {
+    "total": 45.25,
+    "member_price": 35.9,
+    "safeway_for_u": 9.35
+  },
+  "payment_method": "Card ending in 1195"
+}

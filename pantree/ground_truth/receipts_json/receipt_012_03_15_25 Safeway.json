@@ -1,0 +1,275 @@
+{
+  "store": "Safeway",
+  "subject": "03/15/25 Safeway",
+  "email_date": "Thu, 3 Jul 2025 05:45:35 +0000 (UTC)",
+  "items": [
+    {
+      "quantity": 1,
+      "name": "Campbell's 100% Tomato Juice - 64 Fl. Oz.",
+      "price": 4.99
+    },
+    {
+      "quantity": 2,
+      "name": "Dasani Water Purified Enhanced With Minerals Bottled 24 Count - 16.9 Fl. Oz.",
+      "price": 14.98
+    },
+    {
+      "quantity": 5,
+      "name": "Diet Coke Soda Pop Cola 12 Count - 12 Fl. Oz.",
+      "price": 59.95
+    },
+    {
+      "quantity": 2,
+      "name": "Signature SELECT Refreshe Drinking Water - 24-16.9 Fl. Oz.",
+      "price": 7.0
+    },
+    {
+      "quantity": 4,
+      "name": "bubly Sparkling Water Mango Cans - 8-12 Fl. Oz.",
+      "price": 25.96
+    },
+    {
+      "quantity": 1,
+      "name": "Daves Killer Bread Cinnamon Raisin Remix Bagel Organic 5 Count - 16.75 Oz",
+      "price": 6.99
+    },
+    {
+      "quantity": 1,
+      "name": "Sara Lee Onion Delux Bagel - 16.7 Oz",
+      "price": 3.99
+    },
+    {
+      "quantity": 1,
+      "name": "Sun-Maid Cinnamon Raisin Swirl Bread - 16 Oz",
+      "price": 6.49
+    },
+    {
+      "quantity": 1,
+      "name": "Cheerios Cereal Multi Grain Lightly Sweetened Gluten Free - 9 Oz",
+      "price": 4.99
+    },
+    {
+      "quantity": 2,
+      "name": "Cheerios Cereal Whole Grain Oat Toasted - 8.9 Oz",
+      "price": 9.98
+    },
+    {
+      "quantity": 1,
+      "name": "Signature SELECT Cereal Corn Flakes - 18 Oz",
+      "price": 3.99
+    },
+    {
+      "quantity": 4,
+      "name": "Signature SELECT Diced Petite Tomatoes With Green Chilies - 14.5 Oz",
+      "price": 8.76
+    },
+    {
+      "quantity": 1,
+      "name": "Chick Fil A Sauce - 16 Fl. Oz.",
+      "price": 5.49
+    },
+    {
+      "quantity": 2,
+      "name": "Heinz Tomato Ketchup Bottle - 32 Oz",
+      "price": 14.98
+    },
+    {
+      "quantity": 1,
+      "name": "Kens Steak House Dressing Honey Mustard - 16 Fl. Oz.",
+      "price": 3.49
+    },
+    {
+      "quantity": 1,
+      "name": "Kens Steak House Dressing Lite Raspberry Walnut Vinaigrette - 16 Fl. Oz.",
+      "price": 3.49
+    },
+    {
+      "quantity": 1,
+      "name": "Kettle Brand Jalapeno Kettle Potato Chips - 7.5 Oz",
+      "price": 4.49
+    },
+    {
+      "quantity": 1,
+      "name": "Kettle Brand Sea Salt and Vinegar Kettle Potato Chips - 7.5 Oz",
+      "price": 4.49
+    },
+    {
+      "quantity": 1,
+      "name": "Snack Factory Original Pretzel Crisps - 14 Oz",
+      "price": 7.99
+    },
+    {
+      "quantity": 2,
+      "name": "Tostitos Tortilla Chips Scoops - 10 Oz",
+      "price": 11.58
+    },
+    {
+      "quantity": 1,
+      "name": "Lucerne Coffee Creamer Irish Cream - 32 Fl. Oz.",
+      "price": 3.99
+    },
+    {
+      "quantity": 2,
+      "name": "Lucerne Unsalted Sweet Cream Butter Quarters - 16 Oz",
+      "price": 11.98
+    },
+    {
+      "quantity": 1,
+      "name": "Value Corner Milk Reduced Fat 2% - 1 Gallon",
+      "price": 5.49
+    },
+    {
+      "quantity": 1,
+      "name": "Sabra Classic Hummus - 17 Oz.",
+      "price": 8.49
+    },
+    {
+      "quantity": 2,
+      "name": "Simply Potatoes Potato Mashed Traditional - 24 Oz",
+      "price": 7.98
+    },
+    {
+      "quantity": 4,
+      "name": "Birds Eye Baby Broccoli Florets Frozen Vegetables - 12.6 Oz",
+      "price": 12.0
+    },
+    {
+      "quantity": 1,
+      "name": "Jose Ole Frozen Mexican Food Taquitos Chicken 20 Count - 20 Oz",
+      "price": 5.99
+    },
+    {
+      "quantity": 1,
+      "name": "Jose Ole Frozen Mexican Food Taquitos Shredded Steak Corn Tortillas Crispy And Crunchy - 20 Count",
+      "price": 5.99
+    },
+    {
+      "quantity": 2,
+      "name": "Ore-Ida Extra Crispy Tater Tots Seasoned Shredded Frozen Potatoes Bag - 28 Oz",
+      "price": 14.98
+    },
+    {
+      "quantity": 2,
+      "name": "Signature SELECT Margherita Ultra Thin Crust Frozen Pizza - 12 Oz",
+      "price": 13.98
+    },
+    {
+      "quantity": 2,
+      "name": "Signature SELECT Pepperoni Ultra Thin Crust Frozen Pizza - 14.2 Oz",
+      "price": 13.98
+    },
+    {
+      "quantity": 1,
+      "name": "Tillamook Oregon Strawberry Ice Cream Sandwiches Individually Wrapped Multipack - 4-12 Oz",
+      "price": 5.99
+    },
+    {
+      "quantity": 1,
+      "name": "Tillamook Salted Caramel Ice Cream Sandwiches Individually Wrapped Multipack - 4-12 Oz",
+      "price": 5.99
+    },
+    {
+      "quantity": 2,
+      "name": "Blueberries Prepacked - 18 Oz",
+      "price": 15.98
+    },
+    {
+      "quantity": 3,
+      "name": "Bonduelle Bistro Bowl Cranberry Walnut Salad - 4.5 Oz",
+      "price": 13.47
+    },
+    {
+      "quantity": 3,
+      "name": "Bonduelle Bistro Bowl Kickin' BBQ Style Chicken Salad - 7 Oz",
+      "price": 13.47
+    },
+    {
+      "quantity": 4,
+      "name": "Bonduelle Bistro Bowl Spinach Dijon Salad - 4.75 Oz",
+      "price": 17.96
+    },
+    {
+      "quantity": 2,
+      "name": "Fresh Cut Grapes Mixed - 24 Oz",
+      "price": 11.98
+    },
+    {
+      "quantity": 1,
+      "name": "Fresh Cut Pineapple Chunks - 20 Oz",
+      "price": 5.99
+    },
+    {
+      "quantity": 1,
+      "name": "Signature Select/Farms Baby Peeled Carrots Bag - 2 Lb",
+      "price": 1.99
+    },
+    {
+      "quantity": 1,
+      "name": "Signature Select/Farms Red Potatoes Prepackaged - 5 Lb",
+      "price": 2.99
+    },
+    {
+      "quantity": 2,
+      "name": "Strawberries Prepacked - 2 Lb",
+      "price": 17.98
+    },
+    {
+      "quantity": 2,
+      "name": "White Onion",
+      "price": 3.74
+    },
+    {
+      "quantity": 1,
+      "name": "Bob Evans Mashed Potatoes Original - 24 Oz",
+      "price": 4.0
+    },
+    {
+      "quantity": 1,
+      "name": "Prego Tomato Basil Garlic Pasta Sauce - 24 Oz",
+      "price": 3.99
+    },
+    {
+      "quantity": 1,
+      "name": "Prego Traditional Pasta Sauce - 24 Oz",
+      "price": 3.99
+    },
+    {
+      "quantity": 1,
+      "name": "Just Bare Fully Cooked Lightly Breaded Chicken Breast Bites - 24 OZ",
+      "price": 11.99
+    },
+    {
+      "quantity": 1,
+      "name": "Just Bare Fully Cooked Lightly Breaded Chicken Breast Strips - 24 Oz",
+      "price": 11.99
+    },
+    {
+      "quantity": 2,
+      "name": "Signature Select Ground Beef Loaf 90% Lean 10% Fat",
+      "price": 35.97
+    },
+    {
+      "quantity": 2,
+      "name": "Smithfield Quarter Ham Honey - 1.5 Lb",
+      "price": 19.98
+    },
+    {
+      "quantity": 2,
+      "name": "Baileys Original Irish Cream Liqueur - 750 Ml",
+      "price": 45.98
+    }
+  ],
+  "order_number": "119546861",
+  "pickup_date": "Sunday, March 16, 2025",
+  "pickup_time": "1:00 PM - 10:00 PM",
+  "pickup_address": "95073 |, ",
+  "subtotal": 455.55,
+  "total": 474.55,
+  "taxes_and_fees": 19.0,
+  "savings": {
+    "total": 195.92,
+    "member_price": 142.1,
+    "safeway_for_u": 48.82
+  },
+  "payment_method": "Card ending in 3643"
+}

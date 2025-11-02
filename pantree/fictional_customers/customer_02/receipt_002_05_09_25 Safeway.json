@@ -1,0 +1,108 @@
+{
+  "store": "Safeway",
+  "customer_id": "customer_02",
+  "customer_name": "David Park",
+  "archetype": "health_conscious",
+  "order_number": "515767915",
+  "subject": "05/09/25 Safeway",
+  "email_date": "Fri, 09 May 2025 14:23:15 +0000",
+  "pickup_date": "Friday, May 09, 2025",
+  "pickup_time": "12:00 PM - 8:00 PM",
+  "pickup_address": "2720 41st Ave, Soquel, CA 95073",
+  "items": [
+    {
+      "quantity": 1,
+      "name": "Fresh Spinach - 10 Oz",
+      "price": 3.47
+    },
+    {
+      "quantity": 1,
+      "name": "Green Bell Pepper",
+      "price": 1.12
+    },
+    {
+      "quantity": 1,
+      "name": "Celery Bunch",
+      "price": 1.73
+    },
+    {
+      "quantity": 1,
+      "name": "Organic Kale Bunch",
+      "price": 2.58
+    },
+    {
+      "quantity": 3,
+      "name": "Green Grapes - 2 Lb",
+      "price": 20.21
+    },
+    {
+      "quantity": 1,
+      "name": "Boneless Skinless Chicken Breasts Value Pack - 3.5 Lb",
+      "price": 24.41
+    },
+    {
+      "quantity": 1,
+      "name": "80% Lean 20% Fat Ground Beef Value Pack - 3 Lb",
+      "price": 14.54
+    },
+    {
+      "quantity": 1,
+      "name": "All Natural Chicken Tenders - 1 Lb",
+      "price": 9.87
+    },
+    {
+      "quantity": 1,
+      "name": "Ham Deli Honey - 1 Lb",
+      "price": 8.18
+    },
+    {
+      "quantity": 1,
+      "name": "Cream Cheese - 8 Oz",
+      "price": 2.57
+    },
+    {
+      "quantity": 2,
+      "name": "Heavy Whipping Cream - 16 Oz",
+      "price": 9.74
+    },
+    {
+      "quantity": 1,
+      "name": "English Muffins - 12 Oz",
+      "price": 3.85
+    },
+    {
+      "quantity": 2,
+      "name": "Pretzels - 16 Oz",
+      "price": 8.05
+    },
+    {
+      "quantity": 1,
+      "name": "Energy Drink - 4 Pack",
+      "price": 7.62
+    },
+    {
+      "quantity": 3,
+      "name": "Tomato Sauce - 24 Oz",
+      "price": 9.25
+    },
+    {
+      "quantity": 1,
+      "name": "Vegetable Oil - 48 Fl. Oz.",
+      "price": 5.73
+    },
+    {
+      "quantity": 1,
+      "name": "Vinegar White - 32 Fl. Oz.",
+      "price": 3.77
+    }
+  ],
+  "subtotal": 136.69,
+  "total": 133.67,
+  "taxes_and_fees": 10.25,
+  "savings": {
+    "total": 13.27,
+    "member_price": 11.9,
+    "safeway_for_u": 1.37
+  },
+  "payment_method": "Card ending in 7282"
+}

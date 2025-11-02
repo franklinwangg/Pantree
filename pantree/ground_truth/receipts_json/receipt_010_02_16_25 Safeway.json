@@ -1,0 +1,325 @@
+{
+  "store": "Safeway",
+  "subject": "02/16/25 Safeway",
+  "email_date": "Thu, 3 Jul 2025 05:46:52 +0000 (UTC)",
+  "items": [
+    {
+      "quantity": 3,
+      "name": "Bubly Sparkling Water Coconut Pineapple - 8-12 FZ",
+      "price": 16.47
+    },
+    {
+      "quantity": 1,
+      "name": "Campbell's 100% Tomato Juice - 64 Fl. Oz.",
+      "price": 4.99
+    },
+    {
+      "quantity": 4,
+      "name": "Diet Coke Soda Pop Cola - 2 Liter",
+      "price": 15.16
+    },
+    {
+      "quantity": 3,
+      "name": "Diet Coke Soda Pop Cola 12 Count - 12 Fl. Oz.",
+      "price": 35.97
+    },
+    {
+      "quantity": 2,
+      "name": "Diet Coke Soda Pop Cola 6 Count - 16.9 Fl. Oz.",
+      "price": 13.98
+    },
+    {
+      "quantity": 1,
+      "name": "Martinellis Apple Juice - 128 Fl. Oz.",
+      "price": 13.99
+    },
+    {
+      "quantity": 1,
+      "name": "Tree Top Apple Juice 3 Apple Blend - 64 Fl. Oz.",
+      "price": 4.49
+    },
+    {
+      "quantity": 1,
+      "name": "Welch's 100% Concord Grape Juice - 64 Fl. Oz.",
+      "price": 5.49
+    },
+    {
+      "quantity": 3,
+      "name": "bubly Sparkling Water Mango Cans - 8-12 Fl. Oz.",
+      "price": 16.47
+    },
+    {
+      "quantity": 2,
+      "name": "Daves Killer Bread Cinnamon Raisin Remix Bagel Organic 5 Count - 16.75 Oz",
+      "price": 7.98
+    },
+    {
+      "quantity": 2,
+      "name": "Guerrero Riquisimas Flour Tortillas Soft Taco Size - 10 Count",
+      "price": 8.98
+    },
+    {
+      "quantity": 2,
+      "name": "Sara Lee Onion Delux Bagel - 16.7 Oz",
+      "price": 7.98
+    },
+    {
+      "quantity": 2,
+      "name": "Signature SELECT Buns Hot Dog - 13 Oz",
+      "price": 5.98
+    },
+    {
+      "quantity": 2,
+      "name": "Eggland's Best Three Cheese Frozen Omelet - 2 Count",
+      "price": 11.98
+    },
+    {
+      "quantity": 4,
+      "name": "Del Monte Special Blends Peas & Carrots - 14.5 Oz",
+      "price": 9.96
+    },
+    {
+      "quantity": 2,
+      "name": "S&W Beans Black - 15 Oz",
+      "price": 2.5
+    },
+    {
+      "quantity": 6,
+      "name": "S&W Beans Chili - 15.5 Oz",
+      "price": 7.5
+    },
+    {
+      "quantity": 6,
+      "name": "S&W Beans Kidney - 15.5 Oz",
+      "price": 7.5
+    },
+    {
+      "quantity": 3,
+      "name": "S&W Beans White - 15 Oz",
+      "price": 3.75
+    },
+    {
+      "quantity": 6,
+      "name": "Signature SELECT Diced Petite Tomatoes With Green Chilies - 14.5 Oz",
+      "price": 13.14
+    },
+    {
+      "quantity": 2,
+      "name": "Signature SELECT Whole Kernel Corn Can - 15.25 Oz",
+      "price": 3.0
+    },
+    {
+      "quantity": 1,
+      "name": "Knudsen Cottage Cheese Reduced Fat 2% Milk Fat - 32 Oz",
+      "price": 6.99
+    },
+    {
+      "quantity": 1,
+      "name": "Philadelphia Original Cream Cheese Brick - 8 Oz",
+      "price": 3.99
+    },
+    {
+      "quantity": 1,
+      "name": "Philadelphia Original Cream Cheese Spread Tub - 8 Oz",
+      "price": 4.99
+    },
+    {
+      "quantity": 2,
+      "name": "Sargento Sharp Natural Cheddar Cheese Snack Sticks 12 Count - 9 Oz",
+      "price": 9.98
+    },
+    {
+      "quantity": 2,
+      "name": "Signature Select Creamy Mashed Potatoes Side Dish - 14 Oz",
+      "price": 9.98
+    },
+    {
+      "quantity": 1,
+      "name": "Simply Potatoes Potato Mashed Traditional - 24 Oz",
+      "price": 5.49
+    },
+    {
+      "quantity": 1,
+      "name": "Breyers CarbSmart Vanilla Frozen Dairy Dessert - 48 Oz",
+      "price": 6.99
+    },
+    {
+      "quantity": 1,
+      "name": "Breyers Ice Cream Vanilla Chocolate Strawberry - 1.5 Quart",
+      "price": 6.99
+    },
+    {
+      "quantity": 1,
+      "name": "Jose Ole Frozen Mexican Food Taquitos Chicken 20 Count - 20 Oz",
+      "price": 5.99
+    },
+    {
+      "quantity": 1,
+      "name": "Jose Ole Frozen Mexican Food Taquitos Shredded Steak Corn Tortillas Crispy And Crunchy - 20 Count",
+      "price": 5.99
+    },
+    {
+      "quantity": 1,
+      "name": "Marie Callender's Chicken Pot Pie Frozen Dinner - 4-10 Oz",
+      "price": 12.99
+    },
+    {
+      "quantity": 1,
+      "name": "Marie Callender's Dutch Apple Pie Frozen Dessert - 38 Oz",
+      "price": 8.99
+    },
+    {
+      "quantity": 1,
+      "name": "Ore-Ida Extra Crispy Fast Food French Fries Fried Frozen Potatoes Bag - 26 Oz",
+      "price": 5.99
+    },
+    {
+      "quantity": 1,
+      "name": "Ore-Ida Golden Tater Tots Seasoned Shredded Frozen Potatoes Bag - 32 Oz",
+      "price": 7.49
+    },
+    {
+      "quantity": 1,
+      "name": "Signature SELECT Dairy Whipped Topping - 8 Oz",
+      "price": 2.49
+    },
+    {
+      "quantity": 1,
+      "name": "Signature SELECT French Fried Crinkle Cut Potatoes - 32 Oz",
+      "price": 4.0
+    },
+    {
+      "quantity": 1,
+      "name": "Signature SELECT Margherita Ultra Thin Crust Frozen Pizza - 12 Oz",
+      "price": 6.49
+    },
+    {
+      "quantity": 2,
+      "name": "Signature SELECT Pepperoni Ultra Thin Crust Frozen Pizza - 14.2 Oz",
+      "price": 12.98
+    },
+    {
+      "quantity": 4,
+      "name": "Signature Select Broccoli Florets 12 Oz - 12 OZ",
+      "price": 9.96
+    },
+    {
+      "quantity": 2,
+      "name": "Blueberries Prepacked - 18 Oz",
+      "price": 9.54
+    },
+    {
+      "quantity": 1,
+      "name": "Chocolate Covered Strawberries 8-9 Count - 14 Oz",
+      "price": 8.99
+    },
+    {
+      "quantity": 1,
+      "name": "NatureSweet Cherubs Fresh Heavenly Salad Grape Tomatoes - 16.5 OZ",
+      "price": 5.99
+    },
+    {
+      "quantity": 2,
+      "name": "Ready Pac Apple And Butter Lettuce Salad With Chicken - 5.8 Oz",
+      "price": 8.98
+    },
+    {
+      "quantity": 2,
+      "name": "Ready Pac Bistro Bowl Chicken BLT Salad - 6.1 Oz",
+      "price": 8.98
+    },
+    {
+      "quantity": 2,
+      "name": "Ready Pac Bistro Bowl Cranberry Walnut Salad - 4.5 Oz",
+      "price": 8.98
+    },
+    {
+      "quantity": 2,
+      "name": "Ready Pac Bistro Bowl Kickin' BBQ Style Chicken Salad - 7 Oz",
+      "price": 8.98
+    },
+    {
+      "quantity": 2,
+      "name": "Ready Pac Bistro Bowl Spinach Dijon Salad - 4.75 Oz",
+      "price": 8.98
+    },
+    {
+      "quantity": 2,
+      "name": "Strawberries Prepacked - 2 Lb",
+      "price": 9.54
+    },
+    {
+      "quantity": 4,
+      "name": "Barilla Protein+ Rotini Pasta - 14.5 Oz",
+      "price": 15.96
+    },
+    {
+      "quantity": 2,
+      "name": "Barilla Protein+ Spaghetti Pasta - 14.5 Oz",
+      "price": 7.98
+    },
+    {
+      "quantity": 4,
+      "name": "Kraft Thick n Creamy Macaroni & Cheese Dinner Box - 7.25 Oz",
+      "price": 8.76
+    },
+    {
+      "quantity": 3,
+      "name": "Prego Tomato Basil Garlic Pasta Sauce - 24 Oz",
+      "price": 11.97
+    },
+    {
+      "quantity": 3,
+      "name": "Prego Traditional Pasta Sauce - 24 Oz",
+      "price": 11.97
+    },
+    {
+      "quantity": 2,
+      "name": "Boneless Pork Top Loin Chop Value Pack - 3 Lb",
+      "price": 17.94
+    },
+    {
+      "quantity": 1,
+      "name": "Hebrew National Beef Franks Hot Dogs -20-34.1 Oz",
+      "price": 16.99
+    },
+    {
+      "quantity": 1,
+      "name": "Hormel Herb Pork Loin Filet - 18.4 OZ",
+      "price": 5.99
+    },
+    {
+      "quantity": 1,
+      "name": "Hormel Lemon Garlic Pork Loin Fillet - 24 oz",
+      "price": 5.99
+    },
+    {
+      "quantity": 1,
+      "name": "Real Good Food Chicken Tender Strips - 20 OZ",
+      "price": 11.99
+    },
+    {
+      "quantity": 2,
+      "name": "Signature Farms Boneless Skinless Chicken Breasts Value Pack - 3.5 Lb",
+      "price": 27.93
+    },
+    {
+      "quantity": 1,
+      "name": "Signature SELECT Crispy Chicken Strips Fully Cooked Chicken Breast With Rib Meat Frozen - 25 Oz",
+      "price": 12.49
+    }
+  ],
+  "order_number": "116438426",
+  "pickup_date": "Sunday, February 16, 2025",
+  "pickup_time": "1:00 PM - 8:00 PM",
+  "pickup_address": "95073 |, ",
+  "subtotal": 507.62,
+  "total": 520.16,
+  "taxes_and_fees": 12.54,
+  "savings": {
+    "total": 263.15,
+    "member_price": 235.94,
+    "safeway_for_u": 27.21
+  },
+  "payment_method": "Card ending in 4250"
+}

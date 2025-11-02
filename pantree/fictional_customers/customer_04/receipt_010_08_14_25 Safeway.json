@@ -1,0 +1,223 @@
+{
+  "store": "Safeway",
+  "customer_id": "customer_04",
+  "customer_name": "Michael Chen",
+  "archetype": "busy_family",
+  "order_number": "933390877",
+  "subject": "08/14/25 Safeway",
+  "email_date": "Thu, 14 Aug 2025 14:23:15 +0000",
+  "pickup_date": "Thursday, August 14, 2025",
+  "pickup_time": "10:00 AM - 6:00 PM",
+  "pickup_address": "2720 41st Ave, Soquel, CA 95073",
+  "items": [
+    {
+      "quantity": 1,
+      "name": "Russet Potatoes - 5 Lb",
+      "price": 4.34
+    },
+    {
+      "quantity": 1,
+      "name": "Carrots - 2 Lb Bag",
+      "price": 2.34
+    },
+    {
+      "quantity": 1,
+      "name": "Russet Potatoes - 5 Lb",
+      "price": 4.59
+    },
+    {
+      "quantity": 1,
+      "name": "Russet Potatoes - 5 Lb",
+      "price": 5.78
+    },
+    {
+      "quantity": 1,
+      "name": "Bananas - 1 Lb",
+      "price": 0.99
+    },
+    {
+      "quantity": 1,
+      "name": "Fresh Cilantro Bunch",
+      "price": 1.41
+    },
+    {
+      "quantity": 4,
+      "name": "Fresh Asparagus - 1 Lb",
+      "price": 21.3
+    },
+    {
+      "quantity": 1,
+      "name": "Fresh Broccoli Crowns",
+      "price": 3.8
+    },
+    {
+      "quantity": 1,
+      "name": "80% Lean 20% Fat Ground Beef Value Pack - 3 Lb",
+      "price": 15.14
+    },
+    {
+      "quantity": 1,
+      "name": "80% Lean 20% Fat Ground Beef Value Pack - 3 Lb",
+      "price": 18.16
+    },
+    {
+      "quantity": 1,
+      "name": "Chicken Thighs Bone-In - 3 Lb",
+      "price": 13.1
+    },
+    {
+      "quantity": 1,
+      "name": "Chicken Thighs Bone-In - 3 Lb",
+      "price": 11.52
+    },
+    {
+      "quantity": 1,
+      "name": "Pork Loin Chops Value Pack - 4 Lb",
+      "price": 13.22
+    },
+    {
+      "quantity": 2,
+      "name": "Bacon Thick Cut - 16 Oz",
+      "price": 17.37
+    },
+    {
+      "quantity": 3,
+      "name": "Pork Sausage Links - 1 Lb",
+      "price": 24.48
+    },
+    {
+      "quantity": 3,
+      "name": "Sour Cream - 16 Oz",
+      "price": 9.23
+    },
+    {
+      "quantity": 2,
+      "name": "Shredded Cheese Mozzarella - 8 Oz",
+      "price": 9.63
+    },
+    {
+      "quantity": 3,
+      "name": "Cream Cheese - 8 Oz",
+      "price": 8.9
+    },
+    {
+      "quantity": 1,
+      "name": "Cream Cheese - 8 Oz",
+      "price": 3.31
+    },
+    {
+      "quantity": 3,
+      "name": "Heavy Whipping Cream - 16 Oz",
+      "price": 17.0
+    },
+    {
+      "quantity": 2,
+      "name": "Half and Half - 32 Oz",
+      "price": 8.37
+    },
+    {
+      "quantity": 1,
+      "name": "Wheat Bread Whole Grain - 24 Oz",
+      "price": 4.82
+    },
+    {
+      "quantity": 3,
+      "name": "Flour All Purpose - 5 Lb",
+      "price": 15.77
+    },
+    {
+      "quantity": 1,
+      "name": "Pasta Penne - 16 Oz",
+      "price": 2.75
+    },
+    {
+      "quantity": 1,
+      "name": "Brown Rice - 2 Lb",
+      "price": 5.14
+    },
+    {
+      "quantity": 1,
+      "name": "Granola Bars Variety Pack - 12 Count",
+      "price": 5.22
+    },
+    {
+      "quantity": 1,
+      "name": "Crackers Saltine - 16 Oz",
+      "price": 4.08
+    },
+    {
+      "quantity": 1,
+      "name": "Crackers Saltine - 16 Oz",
+      "price": 4.55
+    },
+    {
+      "quantity": 1,
+      "name": "Popcorn Microwave Butter - 6 Count",
+      "price": 4.36
+    },
+    {
+      "quantity": 1,
+      "name": "Cheese Crackers - 12 Oz",
+      "price": 5.03
+    },
+    {
+      "quantity": 1,
+      "name": "Nuts Mixed Roasted - 16 Oz",
+      "price": 9.92
+    },
+    {
+      "quantity": 1,
+      "name": "Cheese Crackers - 12 Oz",
+      "price": 4.35
+    },
+    {
+      "quantity": 3,
+      "name": "Coca-Cola 12 Pack Cans - 12 Fl. Oz.",
+      "price": 21.88
+    },
+    {
+      "quantity": 1,
+      "name": "Orange Juice - 64 Fl. Oz.",
+      "price": 5.23
+    },
+    {
+      "quantity": 1,
+      "name": "Sparkling Water Variety - 12 Pack",
+      "price": 7.39
+    },
+    {
+      "quantity": 3,
+      "name": "Sports Drink Variety - 8 Pack",
+      "price": 23.32
+    },
+    {
+      "quantity": 1,
+      "name": "Sugar Granulated - 4 Lb",
+      "price": 3.86
+    },
+    {
+      "quantity": 2,
+      "name": "Sugar Granulated - 4 Lb",
+      "price": 8.04
+    },
+    {
+      "quantity": 2,
+      "name": "Maple Syrup - 24 Oz",
+      "price": 16.71
+    },
+    {
+      "quantity": 1,
+      "name": "Maple Syrup - 24 Oz",
+      "price": 7.54
+    }
+  ],
+  "subtotal": 373.94,
+  "total": 351.28,
+  "taxes_and_fees": 26.1,
+  "savings": {
+    "total": 48.76,
+    "member_price": 40.21,
+    "safeway_for_u": 8.55
+  },
+  "payment_method": "Card ending in 1777"
+}

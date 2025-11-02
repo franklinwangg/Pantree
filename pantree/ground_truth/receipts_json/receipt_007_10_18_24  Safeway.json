@@ -1,0 +1,245 @@
+{
+  "store": "Safeway",
+  "subject": "10/18/24  Safeway",
+  "email_date": "Thu, 3 Jul 2025 05:49:26 +0000 (UTC)",
+  "items": [
+    {
+      "quantity": 1,
+      "name": "Signature SELECT Original Steak Sauce - 10 Oz",
+      "price": 3.99
+    },
+    {
+      "quantity": 2,
+      "name": "Mt. Olive Pickles Chips Bread & Butter Chips Old-Fashioned Sweet - 24 Fl. Oz.",
+      "price": 7.98
+    },
+    {
+      "quantity": 1,
+      "name": "Mezzetta Peperoncini Deli-Sliced Greek Golden - 16 Oz",
+      "price": 4.29
+    },
+    {
+      "quantity": 1,
+      "name": "Welch's 100% Concord Grape Juice - 64 Fl. Oz.",
+      "price": 5.49
+    },
+    {
+      "quantity": 1,
+      "name": "Signature SELECT Juice Apple - 64 Fl. Oz.",
+      "price": 2.29
+    },
+    {
+      "quantity": 3,
+      "name": "Signature SELECT Diced Petite Tomatoes With Green Chilies - 14.5 Oz",
+      "price": 6.57
+    },
+    {
+      "quantity": 3,
+      "name": "Rice-A-Roni Rice Spanish Box - 6.8 Oz",
+      "price": 2.97
+    },
+    {
+      "quantity": 1,
+      "name": "Pace Chunky Mild Salsa - 16 Oz",
+      "price": 4.49
+    },
+    {
+      "quantity": 2,
+      "name": "Barilla Protein+ Rotini Pasta - 14.5 Oz",
+      "price": 5.0
+    },
+    {
+      "quantity": 1,
+      "name": "Prego Traditional Pasta Sauce - 24 Oz",
+      "price": 3.99
+    },
+    {
+      "quantity": 1,
+      "name": "Prego Tomato Basil Garlic Pasta Sauce - 24 Oz",
+      "price": 3.99
+    },
+    {
+      "quantity": 1,
+      "name": "Pepperidge Farm Frozen Garlic Bread - 10 Oz",
+      "price": 4.49
+    },
+    {
+      "quantity": 2,
+      "name": "Signature SELECT French Fried Crinkle Cut Potatoes - 32 Oz",
+      "price": 9.0
+    },
+    {
+      "quantity": 2,
+      "name": "Ore-Ida Extra Crispy Tater Tots Seasoned Shredded Frozen Potatoes Bag - 28 Oz",
+      "price": 14.98
+    },
+    {
+      "quantity": 1,
+      "name": "Jose Ole Frozen Mexican Food Taquitos Shredded Steak Corn Tortillas Crispy And Crunchy - 20 Count",
+      "price": 7.99
+    },
+    {
+      "quantity": 1,
+      "name": "Jose Ole Frozen Mexican Food Taquitos Chicken 20 Count - 20 Oz",
+      "price": 7.99
+    },
+    {
+      "quantity": 2,
+      "name": "Signature Select Macaroni & Cheese Side Dish - 12 Oz",
+      "price": 9.98
+    },
+    {
+      "quantity": 6,
+      "name": "Honeycrisp Apple",
+      "price": 11.97
+    },
+    {
+      "quantity": 2,
+      "name": "Iceberg Lettuce",
+      "price": 5.98
+    },
+    {
+      "quantity": 3,
+      "name": "White Onion",
+      "price": 5.6
+    },
+    {
+      "quantity": 3,
+      "name": "Yellow Bell Pepper",
+      "price": 8.07
+    },
+    {
+      "quantity": 3,
+      "name": "Red Bell Pepper",
+      "price": 6.0
+    },
+    {
+      "quantity": 1,
+      "name": "Organic Romaine Hearts Prepackaged - 3 Count",
+      "price": 4.99
+    },
+    {
+      "quantity": 2,
+      "name": "Bob Evans Mashed Potatoes Original - 24 Oz",
+      "price": 8.0
+    },
+    {
+      "quantity": 1,
+      "name": "Oroweat Country Buttermilk Bread - 24 Oz",
+      "price": 5.99
+    },
+    {
+      "quantity": 1,
+      "name": "Oroweat Whole Grains Healthy Multi Grain Bread - 24 Oz",
+      "price": 6.99
+    },
+    {
+      "quantity": 1,
+      "name": "Heinz Tomato Ketchup Value Size Bottle - 64 Oz",
+      "price": 9.49
+    },
+    {
+      "quantity": 1,
+      "name": "Challenge Butter Spreadable with Canola Oil & Sea Salt - 15 Oz",
+      "price": 6.49
+    },
+    {
+      "quantity": 1,
+      "name": "Blueberries Prepacked - 18 Oz",
+      "price": 8.99
+    },
+    {
+      "quantity": 1,
+      "name": "Value Corner Milk Reduced Fat 2% - 1 Gallon",
+      "price": 5.19
+    },
+    {
+      "quantity": 2,
+      "name": "Marie Callender's Chicken Pot Pie Frozen Dinner - 10 Oz",
+      "price": 7.98
+    },
+    {
+      "quantity": 1,
+      "name": "Sargento Light String Cheese Reduced Fat Low Moisture Part-Skim Mozzarella Cheese Snacks - 12 Count",
+      "price": 5.99
+    },
+    {
+      "quantity": 2,
+      "name": "Hebrew National Bun Length Beef Franks Hot Dogs -6-12 Oz",
+      "price": 16.98
+    },
+    {
+      "quantity": 3,
+      "name": "Signature Farms 96% Lean 4% Fat Ground Beef - 1.35 Lb",
+      "price": 52.61
+    },
+    {
+      "quantity": 4,
+      "name": "Signature SELECT Pepperoni Ultra Thin Crust Frozen Pizza - 14.2 Oz",
+      "price": 19.96
+    },
+    {
+      "quantity": 1,
+      "name": "Ovenjoy Hamburger Buns - 12 Oz",
+      "price": 2.99
+    },
+    {
+      "quantity": 3,
+      "name": "Birds Eye Baby Broccoli Florets Frozen Vegetables - 12.6 Oz",
+      "price": 10.47
+    },
+    {
+      "quantity": 1,
+      "name": "Sargento Sharp Natural Cheddar Cheese Snack Sticks 12 Count - 9 Oz",
+      "price": 5.99
+    },
+    {
+      "quantity": 1,
+      "name": "Yummy Dino Buddies - 35 Oz",
+      "price": 9.49
+    },
+    {
+      "quantity": 2,
+      "name": "Signature SELECT Buns Hot Dog - 13 Oz",
+      "price": 6.98
+    },
+    {
+      "quantity": 1,
+      "name": "NatureSweet Cherub Salad Tomatoes Heavenly - 10 Oz",
+      "price": 3.99
+    },
+    {
+      "quantity": 1,
+      "name": "Jb Lightly Breaded Chicken Brst Bite - 24 OZ",
+      "price": 15.49
+    },
+    {
+      "quantity": 2,
+      "name": "Hormel Black Label Bacon Microwave Ready - 12 Oz",
+      "price": 23.98
+    },
+    {
+      "quantity": 2,
+      "name": "LaCroix Guava Sao Paulo Core Sparkling Water - 8-12 Oz",
+      "price": 8.0
+    },
+    {
+      "quantity": 1,
+      "name": "Quaker Simply Granola Protein Maple Brown Sugar - 18 Oz",
+      "price": 6.49
+    }
+  ],
+  "order_number": "104667135",
+  "pickup_date": null,
+  "pickup_time": "8:00 PM - 10:00 PM",
+  "pickup_address": null,
+  "subtotal": 373.2,
+  "total": 391.72,
+  "taxes_and_fees": 8.52,
+  "savings": {
+    "total": 74.54,
+    "member_price": 59.12,
+    "safeway_for_u": 3.42
+  },
+  "payment_method": "Card ending in 9751"
+}

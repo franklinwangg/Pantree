@@ -1,0 +1,138 @@
+{
+  "store": "Safeway",
+  "customer_id": "customer_02",
+  "customer_name": "David Park",
+  "archetype": "health_conscious",
+  "order_number": "116327305",
+  "subject": "07/09/25 Safeway",
+  "email_date": "Wed, 09 Jul 2025 14:23:15 +0000",
+  "pickup_date": "Wednesday, July 09, 2025",
+  "pickup_time": "12:00 PM - 8:00 PM",
+  "pickup_address": "2720 41st Ave, Soquel, CA 95073",
+  "items": [
+    {
+      "quantity": 1,
+      "name": "White Onion",
+      "price": 1.41
+    },
+    {
+      "quantity": 1,
+      "name": "Bananas - 1 Lb",
+      "price": 1.05
+    },
+    {
+      "quantity": 1,
+      "name": "White Onion",
+      "price": 1.82
+    },
+    {
+      "quantity": 2,
+      "name": "Green Bell Pepper",
+      "price": 3.54
+    },
+    {
+      "quantity": 1,
+      "name": "Sweet Mini Peppers - 1 Lb",
+      "price": 5.44
+    },
+    {
+      "quantity": 2,
+      "name": "Organic Baby Carrots - 1 Lb",
+      "price": 7.78
+    },
+    {
+      "quantity": 1,
+      "name": "Organic Baby Carrots - 1 Lb",
+      "price": 3.42
+    },
+    {
+      "quantity": 3,
+      "name": "Chicken Thighs Bone-In - 3 Lb",
+      "price": 30.41
+    },
+    {
+      "quantity": 1,
+      "name": "Chicken Thighs Bone-In - 3 Lb",
+      "price": 14.12
+    },
+    {
+      "quantity": 1,
+      "name": "Large Eggs Grade A - 18 Count",
+      "price": 6.64
+    },
+    {
+      "quantity": 1,
+      "name": "Beef Sirloin Steak - 2 Lb",
+      "price": 18.31
+    },
+    {
+      "quantity": 2,
+      "name": "Bacon Thick Cut - 16 Oz",
+      "price": 16.11
+    },
+    {
+      "quantity": 1,
+      "name": "Whole Milk - 1 Gallon",
+      "price": 4.45
+    },
+    {
+      "quantity": 2,
+      "name": "Shredded Cheese Mozzarella - 8 Oz",
+      "price": 10.13
+    },
+    {
+      "quantity": 2,
+      "name": "Half and Half - 32 Oz",
+      "price": 10.43
+    },
+    {
+      "quantity": 2,
+      "name": "White Bread Sandwich - 24 Oz",
+      "price": 9.53
+    },
+    {
+      "quantity": 1,
+      "name": "Pasta Spaghetti - 16 Oz",
+      "price": 2.36
+    },
+    {
+      "quantity": 1,
+      "name": "Granola Bars Variety Pack - 12 Count",
+      "price": 5.78
+    },
+    {
+      "quantity": 2,
+      "name": "Nuts Mixed Roasted - 16 Oz",
+      "price": 19.4
+    },
+    {
+      "quantity": 1,
+      "name": "Orange Juice - 64 Fl. Oz.",
+      "price": 6.03
+    },
+    {
+      "quantity": 3,
+      "name": "Bottled Water - 24 Pack",
+      "price": 15.84
+    },
+    {
+      "quantity": 2,
+      "name": "Almond Milk Unsweetened - 64 Fl. Oz.",
+      "price": 9.65
+    },
+    {
+      "quantity": 2,
+      "name": "Cereal Corn Flakes - 18 Oz",
+      "price": 8.97
+    }
+  ],
+  "subtotal": 212.62000000000003,
+  "total": 205.5,
+  "taxes_and_fees": 15.39,
+  "savings": {
+    "total": 22.51,
+    "member_price": 17.2,
+    "safeway_for_u": 5.31
+  },
+  "payment_method": "Card ending in 8555"
+}

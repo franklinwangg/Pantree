@@ -1,0 +1,93 @@
+{
+  "store": "Safeway",
+  "customer_id": "customer_09",
+  "customer_name": "Emily White",
+  "archetype": "single_professional",
+  "order_number": "241121461",
+  "subject": "06/10/25 Safeway",
+  "email_date": "Tue, 10 Jun 2025 14:23:15 +0000",
+  "pickup_date": "Tuesday, June 10, 2025",
+  "pickup_time": "8:00 AM - 4:00 PM",
+  "pickup_address": "2720 41st Ave, Soquel, CA 95073",
+  "items": [
+    {
+      "quantity": 3,
+      "name": "White Onion",
+      "price": 5.61
+    },
+    {
+      "quantity": 1,
+      "name": "Fresh Blueberries - 6 Oz",
+      "price": 5.23
+    },
+    {
+      "quantity": 1,
+      "name": "Chicken Thighs Bone-In - 3 Lb",
+      "price": 10.57
+    },
+    {
+      "quantity": 1,
+      "name": "Chicken Thighs Bone-In - 3 Lb",
+      "price": 10.68
+    },
+    {
+      "quantity": 1,
+      "name": "Pork Sausage Links - 1 Lb",
+      "price": 6.43
+    },
+    {
+      "quantity": 3,
+      "name": "Cream Cheese - 8 Oz",
+      "price": 10.32
+    },
+    {
+      "quantity": 1,
+      "name": "Half and Half - 32 Oz",
+      "price": 5.27
+    },
+    {
+      "quantity": 1,
+      "name": "Wheat Bread Whole Grain - 24 Oz",
+      "price": 3.83
+    },
+    {
+      "quantity": 1,
+      "name": "Flour All Purpose - 5 Lb",
+      "price": 4.82
+    },
+    {
+      "quantity": 3,
+      "name": "Pasta Penne - 16 Oz",
+      "price": 6.49
+    },
+    {
+      "quantity": 3,
+      "name": "Potato Chips Classic - 10 Oz",
+      "price": 17.12
+    },
+    {
+      "quantity": 1,
+      "name": "Fruit Snacks - 22 Count",
+      "price": 7.32
+    },
+    {
+      "quantity": 1,
+      "name": "Sports Drink Variety - 8 Pack",
+      "price": 8.07
+    },
+    {
+      "quantity": 1,
+      "name": "Chicken Broth - 32 Oz",
+      "price": 2.75
+    }
+  ],
+  "subtotal": 104.50999999999999,
+  "total": 99.57,
+  "taxes_and_fees": 8.08,
+  "savings": {
+    "total": 13.02,
+    "member_price": 11.67,
+    "safeway_for_u": 1.35
+  },
+  "payment_method": "Card ending in 2672"
+}

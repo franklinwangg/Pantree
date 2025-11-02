@@ -1,0 +1,380 @@
+{
+  "store": "Safeway",
+  "subject": "11/18/24 Safeway",
+  "email_date": "Thu, 3 Jul 2025 05:48:50 +0000 (UTC)",
+  "items": [
+    {
+      "quantity": 6,
+      "name": "Diet Coke Soda Pop Cola 6 Count - 16.9 Fl. Oz.",
+      "price": 47.94
+    },
+    {
+      "quantity": 1,
+      "name": "Coca-Cola Soda Pop Flavored Vanilla - 12-12 Fl. Oz.",
+      "price": 10.99
+    },
+    {
+      "quantity": 1,
+      "name": "Coca-Cola Zero Sugar Soda Fridge Pack Cans - 12-12 Fl. Oz.",
+      "price": 10.99
+    },
+    {
+      "quantity": 1,
+      "name": "Fanta Soda Pop Orange Fruit Flavored 12 Count - 12 Fl. Oz.",
+      "price": 10.99
+    },
+    {
+      "quantity": 1,
+      "name": "Signature SELECT Cereal Corn Flakes - 18 Oz",
+      "price": 3.99
+    },
+    {
+      "quantity": 1,
+      "name": "Campbell's 100% Tomato Juice - 64 Fl. Oz.",
+      "price": 4.99
+    },
+    {
+      "quantity": 1,
+      "name": "Tree Top Apple Juice 3 Apple Blend - 64 Fl. Oz.",
+      "price": 4.49
+    },
+    {
+      "quantity": 1,
+      "name": "Martinellis Apple Juice - 128 Fl. Oz.",
+      "price": 13.99
+    },
+    {
+      "quantity": 4,
+      "name": "Martinelli's Cider Sparkling Gold Medal 150 years - 25.4 Fl. Oz.",
+      "price": 12.0
+    },
+    {
+      "quantity": 3,
+      "name": "Signature SELECT Diced Petite Tomatoes With Green Chilies - 14.5 Oz",
+      "price": 6.57
+    },
+    {
+      "quantity": 3,
+      "name": "S&W Beans Chili - 15.5 Oz",
+      "price": 5.01
+    },
+    {
+      "quantity": 3,
+      "name": "S&W Beans White - 15 Oz",
+      "price": 5.01
+    },
+    {
+      "quantity": 2,
+      "name": "Rice-A-Roni Cheddar Broccoli - 6.5 Oz",
+      "price": 4.0
+    },
+    {
+      "quantity": 1,
+      "name": "Pace Chunky Mild Salsa - 16 Oz",
+      "price": 4.49
+    },
+    {
+      "quantity": 2,
+      "name": "Barilla Protein+ Spaghetti Pasta - 14.5 Oz",
+      "price": 7.98
+    },
+    {
+      "quantity": 4,
+      "name": "Barilla Protein+ Rotini Pasta - 14.5 Oz",
+      "price": 15.96
+    },
+    {
+      "quantity": 1,
+      "name": "Prego Traditional Pasta Sauce - 24 Oz",
+      "price": 3.99
+    },
+    {
+      "quantity": 1,
+      "name": "Prego Tomato Basil Garlic Pasta Sauce - 24 Oz",
+      "price": 3.99
+    },
+    {
+      "quantity": 1,
+      "name": "Signature SELECT Napkins 1 Ply Everyday Wrapper - 500 Count",
+      "price": 4.99
+    },
+    {
+      "quantity": 2,
+      "name": "Signature SELECT Designer 10 Inch Plates - 24 Count",
+      "price": 7.98
+    },
+    {
+      "quantity": 2,
+      "name": "Sargento Shredded Sharp Natural Cheddar Cheese - 8 Oz",
+      "price": 9.58
+    },
+    {
+      "quantity": 1,
+      "name": "Pillsbury Grands! Cinnamon Rolls Big With Cream Cheese Icing 5 Count - 17.5 Oz",
+      "price": 7.69
+    },
+    {
+      "quantity": 1,
+      "name": "Lucerne Unsalted Sweet Cream Butter Quarters - 16 Oz",
+      "price": 5.99
+    },
+    {
+      "quantity": 1,
+      "name": "Marie Callender's Pumpkin Pie Frozen Dessert - 36 Oz",
+      "price": 6.99
+    },
+    {
+      "quantity": 1,
+      "name": "Pepperidge Farm Frozen Garlic Bread - 10 Oz",
+      "price": 4.0
+    },
+    {
+      "quantity": 1,
+      "name": "Jose Ole Frozen Mexican Food Taquitos Shredded Steak Corn Tortillas Crispy And Crunchy - 20 Count",
+      "price": 7.99
+    },
+    {
+      "quantity": 2,
+      "name": "White Onion",
+      "price": 3.74
+    },
+    {
+      "quantity": 4,
+      "name": "Red Bell Pepper",
+      "price": 8.0
+    },
+    {
+      "quantity": 1,
+      "name": "Signature Select/Farms Russet Potatoes In Bag - 10 Lb",
+      "price": 6.99
+    },
+    {
+      "quantity": 1,
+      "name": "O Organics Organic Carrots Prepacked - 5 Lb",
+      "price": 5.99
+    },
+    {
+      "quantity": 2,
+      "name": "80% Lean 20% Fat Ground Beef Value Pack - 3 Lb",
+      "price": 53.94
+    },
+    {
+      "quantity": 1,
+      "name": "Bob Evans Mashed Potatoes Original - 24 Oz",
+      "price": 4.0
+    },
+    {
+      "quantity": 1,
+      "name": "Oroweat Country Buttermilk Bread - 24 Oz",
+      "price": 6.99
+    },
+    {
+      "quantity": 1,
+      "name": "Jif Peanut Butter Creamy - 28 Oz",
+      "price": 6.99
+    },
+    {
+      "quantity": 1,
+      "name": "Lucerne Cheese Finely Shredded Parmesan - 6 Oz",
+      "price": 4.29
+    },
+    {
+      "quantity": 1,
+      "name": "Land O Lakes Spreadable Butter with Canola Oil - 15 Oz",
+      "price": 4.99
+    },
+    {
+      "quantity": 2,
+      "name": "Blueberries Prepacked - 18 Oz",
+      "price": 13.98
+    },
+    {
+      "quantity": 3,
+      "name": "S&W Beans Kidney Low Sodium - 15.5 Oz",
+      "price": 5.01
+    },
+    {
+      "quantity": 1,
+      "name": "New York Bakery Texas Toast Real Garlic 8 Count - 11.25 Oz",
+      "price": 4.49
+    },
+    {
+      "quantity": 1,
+      "name": "Guerrero Tortillas Flour Soft Taco De Harina Riquisimas Bag 10 Count - 14.5 Oz",
+      "price": 4.49
+    },
+    {
+      "quantity": 6,
+      "name": "Diet Coke Soda Pop Cola - 2 Liter",
+      "price": 19.74
+    },
+    {
+      "quantity": 1,
+      "name": "Ocean Spray Sauce Whole Berry Cranberry - 14 Oz",
+      "price": 2.5
+    },
+    {
+      "quantity": 1,
+      "name": "Signature Farms Boneless Skinless Chicken Breasts Value Pack - 3.5 Lb",
+      "price": 20.96
+    },
+    {
+      "quantity": 1,
+      "name": "Lucerne Coffee Creamer Irish Cream - 32 Fl. Oz.",
+      "price": 3.99
+    },
+    {
+      "quantity": 2,
+      "name": "Marie Callender's Chicken Pot Pie Frozen Dinner - 10 Oz",
+      "price": 7.98
+    },
+    {
+      "quantity": 1,
+      "name": "Lucerne Coffee Creamer Macchiato Caramel - 32 Fl. Oz.",
+      "price": 3.99
+    },
+    {
+      "quantity": 1,
+      "name": "Reddi Wip Extra Creamy Whipped Topping Made With Real Cream Spray Can - 6.5 Oz",
+      "price": 3.5
+    },
+    {
+      "quantity": 2,
+      "name": "CHIPS AHOY! Original Chocolate Chip Cookies - 13 Oz",
+      "price": 9.98
+    },
+    {
+      "quantity": 1,
+      "name": "Jell-O Original Chocolate Vanilla Swirls Ready to Eat Pudding Cups Snack - 4 Count",
+      "price": 4.59
+    },
+    {
+      "quantity": 4,
+      "name": "Signature SELECT Pepperoni Ultra Thin Crust Frozen Pizza - 14.2 Oz",
+      "price": 25.96
+    },
+    {
+      "quantity": 1,
+      "name": "Pillsbury Grands! Pumpkin Spice Rolls Big 5 Count - 17.5 Oz",
+      "price": 7.49
+    },
+    {
+      "quantity": 1,
+      "name": "De Wafelbakkers Buttermilk Pancakes Pack - 18 Count",
+      "price": 4.99
+    },
+    {
+      "quantity": 1,
+      "name": "Breyers CarbSmart Vanilla Frozen Dairy Dessert - 48 Oz",
+      "price": 6.49
+    },
+    {
+      "quantity": 1,
+      "name": "Ovenjoy Hamburger Buns - 12 Oz",
+      "price": 2.99
+    },
+    {
+      "quantity": 5,
+      "name": "Birds Eye Baby Broccoli Florets Frozen Vegetables - 12.6 Oz",
+      "price": 17.45
+    },
+    {
+      "quantity": 1,
+      "name": "Drumstick Mini Drums Vanilla Sundae Cones - 20 Count",
+      "price": 8.99
+    },
+    {
+      "quantity": 1,
+      "name": "Marie Callender's Dutch Apple Pie Frozen Dessert - 38 Oz",
+      "price": 6.99
+    },
+    {
+      "quantity": 1,
+      "name": "Signature SELECT Buns Hot Dog - 13 Oz",
+      "price": 3.49
+    },
+    {
+      "quantity": 1,
+      "name": "NatureSweet Cherubs Fresh Heavenly Salad Grape Tomatoes - 10 Oz",
+      "price": 3.99
+    },
+    {
+      "quantity": 2,
+      "name": "Open Nature All Natural Chicken Tenders - 1 Lb",
+      "price": 18.98
+    },
+    {
+      "quantity": 2,
+      "name": "Just Bare Fully Cooked Lightly Breaded Chicken Breast Bites - 24 OZ",
+      "price": 25.98
+    },
+    {
+      "quantity": 1,
+      "name": "Eggland's Best Cage Free Large White Eggs - 18 Count",
+      "price": 7.99
+    },
+    {
+      "quantity": 1,
+      "name": "Breyers CarbSmart Brownie A La Mode Frozen Dairy Dessert - 48 Oz",
+      "price": 6.49
+    },
+    {
+      "quantity": 2,
+      "name": "Hormel Lemon Garlic Pork Loin Fillet - 24 oz",
+      "price": 13.98
+    },
+    {
+      "quantity": 1,
+      "name": "Ortega Yellow Corn Taco Shells 12ct - 4.9 OZ",
+      "price": 3.99
+    },
+    {
+      "quantity": 1,
+      "name": "Thomas' Limited Edition Buttermilk English Muffins - 13 Oz",
+      "price": 5.29
+    },
+    {
+      "quantity": 1,
+      "name": "Signature SELECT Yellow Corn Tortilla Chips - 11 Oz",
+      "price": 2.49
+    },
+    {
+      "quantity": 1,
+      "name": "Signature SELECT White Corn Tortilla Chips - 11 Oz",
+      "price": 2.49
+    },
+    {
+      "quantity": 1,
+      "name": "Kodiak Quick Mix Buttermilk Flapjack & Waffle Mix Bottle - 6 Oz",
+      "price": 8.49
+    },
+    {
+      "quantity": 1,
+      "name": "Kodiak French Toast Sticks Buttermilk - 14.5 Oz",
+      "price": 6.99
+    },
+    {
+      "quantity": 1,
+      "name": "Jell O Original Strawberry Snack Cups Gelatin 8 Count - 27 Oz",
+      "price": 6.99
+    },
+    {
+      "quantity": 1,
+      "name": "Smithfield Boneless Quarter Ham - 24 OZ",
+      "price": 9.99
+    }
+  ],
+  "order_number": "106783648",
+  "pickup_date": null,
+  "pickup_time": "5:00 PM - 7:00 PM",
+  "pickup_address": null,
+  "subtotal": 586.18,
+  "total": 617.17,
+  "taxes_and_fees": 20.99,
+  "savings": {
+    "total": 148.47,
+    "member_price": 122.96,
+    "safeway_for_u": 17.51
+  },
+  "payment_method": "Card ending in 9751"
+}

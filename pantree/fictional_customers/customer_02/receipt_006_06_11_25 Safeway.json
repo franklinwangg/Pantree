@@ -1,0 +1,143 @@
+{
+  "store": "Safeway",
+  "customer_id": "customer_02",
+  "customer_name": "David Park",
+  "archetype": "health_conscious",
+  "order_number": "593266149",
+  "subject": "06/11/25 Safeway",
+  "email_date": "Wed, 11 Jun 2025 14:23:15 +0000",
+  "pickup_date": "Wednesday, June 11, 2025",
+  "pickup_time": "2:00 PM - 10:00 PM",
+  "pickup_address": "2720 41st Ave, Soquel, CA 95073",
+  "items": [
+    {
+      "quantity": 4,
+      "name": "Green Bell Pepper",
+      "price": 4.16
+    },
+    {
+      "quantity": 2,
+      "name": "Bananas - 1 Lb",
+      "price": 1.96
+    },
+    {
+      "quantity": 3,
+      "name": "Garlic Bulb",
+      "price": 3.58
+    },
+    {
+      "quantity": 1,
+      "name": "Carrots - 2 Lb Bag",
+      "price": 2.46
+    },
+    {
+      "quantity": 3,
+      "name": "Organic Kale Bunch",
+      "price": 10.07
+    },
+    {
+      "quantity": 1,
+      "name": "Seedless Cucumbers - 2 Count",
+      "price": 3.93
+    },
+    {
+      "quantity": 2,
+      "name": "Organic Kale Bunch",
+      "price": 6.65
+    },
+    {
+      "quantity": 2,
+      "name": "Boneless Skinless Chicken Breasts Value Pack - 3.5 Lb",
+      "price": 41.0
+    },
+    {
+      "quantity": 1,
+      "name": "Large Eggs Grade A - 18 Count",
+      "price": 4.96
+    },
+    {
+      "quantity": 1,
+      "name": "Large Eggs Grade A - 18 Count",
+      "price": 6.69
+    },
+    {
+      "quantity": 1,
+      "name": "Large Eggs Grade A - 18 Count",
+      "price": 6.12
+    },
+    {
+      "quantity": 1,
+      "name": "96% Lean 4% Fat Ground Beef - 1.35 Lb",
+      "price": 16.3
+    },
+    {
+      "quantity": 1,
+      "name": "Pork Sausage Links - 1 Lb",
+      "price": 6.07
+    },
+    {
+      "quantity": 1,
+      "name": "Sour Cream - 16 Oz",
+      "price": 3.83
+    },
+    {
+      "quantity": 3,
+      "name": "Sour Cream - 16 Oz",
+      "price": 10.92
+    },
+    {
+      "quantity": 4,
+      "name": "String Cheese Mozzarella - 12 Oz",
+      "price": 27.36
+    },
+    {
+      "quantity": 1,
+      "name": "Greek Yogurt Plain - 32 Oz",
+      "price": 5.13
+    },
+    {
+      "quantity": 1,
+      "name": "Wheat Bread Whole Grain - 24 Oz",
+      "price": 4.74
+    },
+    {
+      "quantity": 1,
+      "name": "Oatmeal Quick Oats - 42 Oz",
+      "price": 5.84
+    },
+    {
+      "quantity": 1,
+      "name": "Potato Chips Classic - 10 Oz",
+      "price": 5.41
+    },
+    {
+      "quantity": 2,
+      "name": "Pretzels - 16 Oz",
+      "price": 8.33
+    },
+    {
+      "quantity": 1,
+      "name": "Coca-Cola 12 Pack Cans - 12 Fl. Oz.",
+      "price": 5.99
+    },
+    {
+      "quantity": 2,
+      "name": "Diet Coke 12 Pack Cans - 12 Fl. Oz.",
+      "price": 13.17
+    },
+    {
+      "quantity": 1,
+      "name": "Soy Sauce - 15 Fl. Oz.",
+      "price": 4.37
+    }
+  ],
+  "subtotal": 209.04000000000002,
+  "total": 169.39,
+  "taxes_and_fees": 12.49,
+  "savings": {
+    "total": 52.14,
+    "member_price": 49.0,
+    "safeway_for_u": 3.14
+  },
+  "payment_method": "Card ending in 7026"
+}

@@ -1,0 +1,143 @@
+{
+  "store": "Safeway",
+  "customer_id": "customer_02",
+  "customer_name": "David Park",
+  "archetype": "health_conscious",
+  "order_number": "213124675",
+  "subject": "07/29/25 Safeway",
+  "email_date": "Tue, 29 Jul 2025 14:23:15 +0000",
+  "pickup_date": "Tuesday, July 29, 2025",
+  "pickup_time": "10:00 AM - 6:00 PM",
+  "pickup_address": "2720 41st Ave, Soquel, CA 95073",
+  "items": [
+    {
+      "quantity": 1,
+      "name": "Green Bell Pepper",
+      "price": 1.86
+    },
+    {
+      "quantity": 1,
+      "name": "Garlic Bulb",
+      "price": 1.4
+    },
+    {
+      "quantity": 1,
+      "name": "Russet Potatoes - 5 Lb",
+      "price": 5.0
+    },
+    {
+      "quantity": 2,
+      "name": "Lettuce Iceberg",
+      "price": 4.67
+    },
+    {
+      "quantity": 1,
+      "name": "Seedless Cucumbers - 2 Count",
+      "price": 4.1
+    },
+    {
+      "quantity": 1,
+      "name": "Sweet Potatoes - 3 Lb",
+      "price": 4.15
+    },
+    {
+      "quantity": 1,
+      "name": "Organic Avocados - 4 Count",
+      "price": 7.55
+    },
+    {
+      "quantity": 1,
+      "name": "Chicken Thighs Bone-In - 3 Lb",
+      "price": 13.85
+    },
+    {
+      "quantity": 2,
+      "name": "Large Eggs Grade A - 18 Count",
+      "price": 8.02
+    },
+    {
+      "quantity": 1,
+      "name": "80% Lean 20% Fat Ground Beef Value Pack - 3 Lb",
+      "price": 16.25
+    },
+    {
+      "quantity": 2,
+      "name": "Large Eggs Grade A - 18 Count",
+      "price": 9.38
+    },
+    {
+      "quantity": 1,
+      "name": "Bacon Thick Cut - 16 Oz",
+      "price": 8.89
+    },
+    {
+      "quantity": 1,
+      "name": "Salmon Fillets Fresh - 1 Lb",
+      "price": 15.98
+    },
+    {
+      "quantity": 2,
+      "name": "Pork Sausage Links - 1 Lb",
+      "price": 14.51
+    },
+    {
+      "quantity": 1,
+      "name": "Butter Salted - 16 Oz",
+      "price": 6.72
+    },
+    {
+      "quantity": 1,
+      "name": "Cream Cheese - 8 Oz",
+      "price": 3.03
+    },
+    {
+      "quantity": 1,
+      "name": "Parmesan Cheese Grated - 8 Oz",
+      "price": 7.33
+    },
+    {
+      "quantity": 2,
+      "name": "Parmesan Cheese Grated - 8 Oz",
+      "price": 12.73
+    },
+    {
+      "quantity": 3,
+      "name": "Wheat Bread Whole Grain - 24 Oz",
+      "price": 12.57
+    },
+    {
+      "quantity": 1,
+      "name": "Pasta Spaghetti - 16 Oz",
+      "price": 1.99
+    },
+    {
+      "quantity": 1,
+      "name": "Tortilla Chips - 13 Oz",
+      "price": 5.3
+    },
+    {
+      "quantity": 1,
+      "name": "Coca-Cola 12 Pack Cans - 12 Fl. Oz.",
+      "price": 6.56
+    },
+    {
+      "quantity": 1,
+      "name": "Coffee Ground Medium Roast - 30 Oz",
+      "price": 9.72
+    },
+    {
+      "quantity": 4,
+      "name": "Soy Sauce - 15 Fl. Oz.",
+      "price": 15.34
+    }
+  ],
+  "subtotal": 196.9,
+  "total": 181.95,
+  "taxes_and_fees": 12.82,
+  "savings": {
+    "total": 27.77,
+    "member_price": 21.32,
+    "safeway_for_u": 6.45
+  },
+  "payment_method": "Card ending in 8480"
+}

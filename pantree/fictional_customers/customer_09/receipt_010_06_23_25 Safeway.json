@@ -1,0 +1,113 @@
+{
+  "store": "Safeway",
+  "customer_id": "customer_09",
+  "customer_name": "Emily White",
+  "archetype": "single_professional",
+  "order_number": "294759537",
+  "subject": "06/23/25 Safeway",
+  "email_date": "Mon, 23 Jun 2025 14:23:15 +0000",
+  "pickup_date": "Monday, June 23, 2025",
+  "pickup_time": "2:00 PM - 10:00 PM",
+  "pickup_address": "2720 41st Ave, Soquel, CA 95073",
+  "items": [
+    {
+      "quantity": 1,
+      "name": "Garlic Bulb",
+      "price": 0.92
+    },
+    {
+      "quantity": 1,
+      "name": "Fresh Broccoli Crowns",
+      "price": 3.45
+    },
+    {
+      "quantity": 4,
+      "name": "Large Eggs Grade A - 18 Count",
+      "price": 26.7
+    },
+    {
+      "quantity": 1,
+      "name": "80% Lean 20% Fat Ground Beef Value Pack - 3 Lb",
+      "price": 14.58
+    },
+    {
+      "quantity": 1,
+      "name": "Salmon Fillets Fresh - 1 Lb",
+      "price": 15.04
+    },
+    {
+      "quantity": 1,
+      "name": "96% Lean 4% Fat Ground Beef - 1.35 Lb",
+      "price": 19.81
+    },
+    {
+      "quantity": 2,
+      "name": "Shredded Cheese Mozzarella - 8 Oz",
+      "price": 9.75
+    },
+    {
+      "quantity": 1,
+      "name": "Greek Yogurt Plain - 32 Oz",
+      "price": 5.73
+    },
+    {
+      "quantity": 1,
+      "name": "Brown Rice - 2 Lb",
+      "price": 5.55
+    },
+    {
+      "quantity": 1,
+      "name": "Granola Bars Variety Pack - 12 Count",
+      "price": 5.73
+    },
+    {
+      "quantity": 3,
+      "name": "Potato Chips Classic - 10 Oz",
+      "price": 14.17
+    },
+    {
+      "quantity": 2,
+      "name": "Rice Cakes - 9 Oz",
+      "price": 8.72
+    },
+    {
+      "quantity": 1,
+      "name": "Fruit Snacks - 22 Count",
+      "price": 7.26
+    },
+    {
+      "quantity": 3,
+      "name": "Bottled Water - 24 Pack",
+      "price": 17.18
+    },
+    {
+      "quantity": 1,
+      "name": "Coffee Ground Medium Roast - 30 Oz",
+      "price": 10.48
+    },
+    {
+      "quantity": 2,
+      "name": "Sugar Granulated - 4 Lb",
+      "price": 7.34
+    },
+    {
+      "quantity": 2,
+      "name": "Vegetable Oil - 48 Fl. Oz.",
+      "price": 10.48
+    },
+    {
+      "quantity": 2,
+      "name": "Canned Tomatoes Diced - 14.5 Oz",
+      "price": 4.06
+    }
+  ],
+  "subtotal": 186.95,
+  "total": 172.36,
+  "taxes_and_fees": 10.4,
+  "savings": {
+    "total": 24.99,
+    "member_price": 18.47,
+    "safeway_for_u": 6.52
+  },
+  "payment_method": "Card ending in 4331"
+}

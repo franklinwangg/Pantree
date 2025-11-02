@@ -1,0 +1,61 @@
+{
+  "total_customers": 10,
+  "archetypes": {
+    "busy_family": 3,
+    "health_conscious": 2,
+    "budget_conscious": 3,
+    "single_professional": 2
+  },
+  "customers": [
+    {
+      "id": "customer_01",
+      "name": "Sarah Mitchell",
+      "archetype": "health_conscious"
+    },
+    {
+      "id": "customer_02",
+      "name": "David Park",
+      "archetype": "health_conscious"
+    },
+    {
+      "id": "customer_03",
+      "name": "Jennifer Rodriguez",
+      "archetype": "busy_family"
+    },
+    {
+      "id": "customer_04",
+      "name": "Michael Chen",
+      "archetype": "busy_family"
+    },
+    {
+      "id": "customer_05",
+      "name": "Lisa Thompson",
+      "archetype": "busy_family"
+    },
+    {
+      "id": "customer_06",
+      "name": "Robert Martinez",
+      "archetype": "budget_conscious"
+    },
+    {
+      "id": "customer_07",
+      "name": "Amanda Johnson",
+      "archetype": "budget_conscious"
+    },
+    {
+      "id": "customer_08",
+      "name": "Chris Anderson",
+      "archetype": "single_professional"
+    },
+    {
+      "id": "customer_09",
+      "name": "Emily White",
+      "archetype": "single_professional"
+    },
+    {
+      "id": "customer_10",
+      "name": "James Taylor",
+      "archetype": "budget_conscious"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "store": "Safeway",
+  "customer_id": "customer_08",
+  "customer_name": "Chris Anderson",
+  "archetype": "single_professional",
+  "order_number": "158649351",
+  "subject": "06/11/25 Safeway",
+  "email_date": "Wed, 11 Jun 2025 14:23:15 +0000",
+  "pickup_date": "Wednesday, June 11, 2025",
+  "pickup_time": "12:00 PM - 8:00 PM",
+  "pickup_address": "2720 41st Ave, Soquel, CA 95073",
+  "items": [
+    {
+      "quantity": 1,
+      "name": "Roma Tomatoes - 1 Lb",
+      "price": 1.61
+    },
+    {
+      "quantity": 4,
+      "name": "Fresh Cilantro Bunch",
+      "price": 6.5
+    },
+    {
+      "quantity": 1,
+      "name": "Chicken Thighs Bone-In - 3 Lb",
+      "price": 14.6
+    },
+    {
+      "quantity": 3,
+      "name": "80% Lean 20% Fat Ground Beef Value Pack - 3 Lb",
+      "price": 51.88
+    },
+    {
+      "quantity": 4,
+      "name": "Beef Sirloin Steak - 2 Lb",
+      "price": 67.7
+    },
+    {
+      "quantity": 1,
+      "name": "Beef Sirloin Steak - 2 Lb",
+      "price": 16.72
+    },
+    {
+      "quantity": 1,
+      "name": "Yogurt Cups Variety Pack - 6 Count",
+      "price": 5.31
+    },
+    {
+      "quantity": 3,
+      "name": "Oatmeal Quick Oats - 42 Oz",
+      "price": 16.88
+    },
+    {
+      "quantity": 1,
+      "name": "Potato Chips Classic - 10 Oz",
+      "price": 4.73
+    },
+    {
+      "quantity": 2,
+      "name": "Cookies Chocolate Chip - 13 Oz",
+      "price": 8.99
+    },
+    {
+      "quantity": 4,
+      "name": "Iced Tea Lemon - 64 Fl. Oz.",
+      "price": 16.01
+    },
+    {
+      "quantity": 2,
+      "name": "Peanut Butter Creamy - 40 Oz",
+      "price": 15.22
+    }
+  ],
+  "subtotal": 226.15,
+  "total": 209.41,
+  "taxes_and_fees": 17.13,
+  "savings": {
+    "total": 33.87,
+    "member_price": 30.19,
+    "safeway_for_u": 3.68
+  },
+  "payment_method": "Card ending in 9965"
+}

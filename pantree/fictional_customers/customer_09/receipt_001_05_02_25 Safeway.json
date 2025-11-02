@@ -1,0 +1,113 @@
+{
+  "store": "Safeway",
+  "customer_id": "customer_09",
+  "customer_name": "Emily White",
+  "archetype": "single_professional",
+  "order_number": "607156277",
+  "subject": "05/02/25 Safeway",
+  "email_date": "Fri, 02 May 2025 14:23:15 +0000",
+  "pickup_date": "Friday, May 02, 2025",
+  "pickup_time": "12:00 PM - 8:00 PM",
+  "pickup_address": "2720 41st Ave, Soquel, CA 95073",
+  "items": [
+    {
+      "quantity": 2,
+      "name": "Fresh Spinach - 10 Oz",
+      "price": 6.87
+    },
+    {
+      "quantity": 2,
+      "name": "Green Bell Pepper",
+      "price": 2.56
+    },
+    {
+      "quantity": 1,
+      "name": "Sweet Mini Peppers - 1 Lb",
+      "price": 4.72
+    },
+    {
+      "quantity": 1,
+      "name": "Large Eggs Grade A - 18 Count",
+      "price": 6.0
+    },
+    {
+      "quantity": 1,
+      "name": "Boneless Skinless Chicken Breasts Value Pack - 3.5 Lb",
+      "price": 24.26
+    },
+    {
+      "quantity": 1,
+      "name": "Boneless Skinless Chicken Breasts Value Pack - 3.5 Lb",
+      "price": 24.12
+    },
+    {
+      "quantity": 1,
+      "name": "Pork Sausage Links - 1 Lb",
+      "price": 6.27
+    },
+    {
+      "quantity": 2,
+      "name": "Turkey Breast Sliced Deli - 1 Lb",
+      "price": 24.15
+    },
+    {
+      "quantity": 2,
+      "name": "Shredded Cheese Mozzarella - 8 Oz",
+      "price": 8.41
+    },
+    {
+      "quantity": 2,
+      "name": "Shredded Cheese Mozzarella - 8 Oz",
+      "price": 9.66
+    },
+    {
+      "quantity": 1,
+      "name": "Greek Yogurt Plain - 32 Oz",
+      "price": 7.07
+    },
+    {
+      "quantity": 2,
+      "name": "Cottage Cheese - 16 Oz",
+      "price": 9.33
+    },
+    {
+      "quantity": 1,
+      "name": "Pasta Spaghetti - 16 Oz",
+      "price": 1.85
+    },
+    {
+      "quantity": 1,
+      "name": "Crackers Saltine - 16 Oz",
+      "price": 4.65
+    },
+    {
+      "quantity": 3,
+      "name": "Cheese Crackers - 12 Oz",
+      "price": 13.28
+    },
+    {
+      "quantity": 2,
+      "name": "Orange Juice - 64 Fl. Oz.",
+      "price": 13.07
+    },
+    {
+      "quantity": 1,
+      "name": "Cranberry Juice - 64 Fl. Oz.",
+      "price": 6.07
+    },
+    {
+      "quantity": 2,
+      "name": "Mustard Yellow - 20 Oz",
+      "price": 6.82
+    }
+  ],
+  "subtotal": 179.15999999999997,
+  "total": 171.33,
+  "taxes_and_fees": 11.45,
+  "savings": {
+    "total": 19.28,
+    "member_price": 16.23,
+    "safeway_for_u": 3.05
+  },
+  "payment_method": "Card ending in 7561"
+}

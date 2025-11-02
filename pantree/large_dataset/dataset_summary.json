@@ -1,0 +1,28 @@
+{
+  "generation_date": "2025-10-26T14:34:50.943547",
+  "total_customers": 100000,
+  "receipts_per_customer": 17,
+  "total_receipts": 1700000,
+  "total_batches": 100,
+  "batch_size": 1000,
+  "archetypes": {
+    "health_conscious": 10000,
+    "busy_family": 10000,
+    "budget_conscious": 10000,
+    "single_professional": 10000,
+    "vegan_vegetarian": 10000,
+    "senior_couple": 10000,
+    "college_student": 10000,
+    "gourmet_foodie": 10000,
+    "meal_prepper": 10000,
+    "convenience_shopper": 10000
+  },
+  "statistics": {
+    "total_spent": 344745998.09,
+    "total_savings": 56502936.89,
+    "total_items": 36468828,
+    "avg_spent_per_customer": 3447.46,
+    "avg_items_per_receipt": 21.5
+  },
+  "generation_time_seconds": 166.16
+}

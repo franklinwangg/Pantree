@@ -1,0 +1,153 @@
+{
+  "store": "Safeway",
+  "customer_id": "customer_10",
+  "customer_name": "James Taylor",
+  "archetype": "budget_conscious",
+  "order_number": "749882971",
+  "subject": "08/04/25 Safeway",
+  "email_date": "Mon, 04 Aug 2025 14:23:15 +0000",
+  "pickup_date": "Monday, August 04, 2025",
+  "pickup_time": "8:00 AM - 4:00 PM",
+  "pickup_address": "2720 41st Ave, Soquel, CA 95073",
+  "items": [
+    {
+      "quantity": 4,
+      "name": "Fresh Spinach - 10 Oz",
+      "price": 16.34
+    },
+    {
+      "quantity": 1,
+      "name": "White Onion",
+      "price": 2.02
+    },
+    {
+      "quantity": 1,
+      "name": "Garlic Bulb",
+      "price": 0.92
+    },
+    {
+      "quantity": 1,
+      "name": "Organic Avocados - 4 Count",
+      "price": 8.75
+    },
+    {
+      "quantity": 1,
+      "name": "Sweet Potatoes - 3 Lb",
+      "price": 5.49
+    },
+    {
+      "quantity": 1,
+      "name": "80% Lean 20% Fat Ground Beef Value Pack - 3 Lb",
+      "price": 13.09
+    },
+    {
+      "quantity": 1,
+      "name": "Chicken Thighs Bone-In - 3 Lb",
+      "price": 10.36
+    },
+    {
+      "quantity": 2,
+      "name": "Chicken Thighs Bone-In - 3 Lb",
+      "price": 22.15
+    },
+    {
+      "quantity": 1,
+      "name": "Chicken Thighs Bone-In - 3 Lb",
+      "price": 10.45
+    },
+    {
+      "quantity": 1,
+      "name": "Bacon Thick Cut - 16 Oz",
+      "price": 9.57
+    },
+    {
+      "quantity": 1,
+      "name": "All Natural Chicken Tenders - 1 Lb",
+      "price": 10.34
+    },
+    {
+      "quantity": 1,
+      "name": "Cream Cheese - 8 Oz",
+      "price": 2.98
+    },
+    {
+      "quantity": 1,
+      "name": "Whole Milk - 1 Gallon",
+      "price": 5.0
+    },
+    {
+      "quantity": 1,
+      "name": "Parmesan Cheese Grated - 8 Oz",
+      "price": 6.22
+    },
+    {
+      "quantity": 1,
+      "name": "White Rice Long Grain - 5 Lb",
+      "price": 6.53
+    },
+    {
+      "quantity": 4,
+      "name": "White Bread Sandwich - 24 Oz",
+      "price": 19.1
+    },
+    {
+      "quantity": 1,
+      "name": "Dinner Rolls - 12 Count",
+      "price": 3.76
+    },
+    {
+      "quantity": 1,
+      "name": "Potato Chips Classic - 10 Oz",
+      "price": 5.32
+    },
+    {
+      "quantity": 3,
+      "name": "Crackers Saltine - 16 Oz",
+      "price": 11.28
+    },
+    {
+      "quantity": 1,
+      "name": "Nuts Mixed Roasted - 16 Oz",
+      "price": 9.92
+    },
+    {
+      "quantity": 2,
+      "name": "Orange Juice - 64 Fl. Oz.",
+      "price": 10.69
+    },
+    {
+      "quantity": 2,
+      "name": "Bottled Water - 24 Pack",
+      "price": 9.48
+    },
+    {
+      "quantity": 1,
+      "name": "Energy Drink - 4 Pack",
+      "price": 8.77
+    },
+    {
+      "quantity": 2,
+      "name": "Cranberry Juice - 64 Fl. Oz.",
+      "price": 12.49
+    },
+    {
+      "quantity": 1,
+      "name": "Vegetable Oil - 48 Fl. Oz.",
+      "price": 5.83
+    },
+    {
+      "quantity": 1,
+      "name": "Honey - 24 Oz",
+      "price": 9.33
+    }
+  ],
+  "subtotal": 236.18,
+  "total": 227.41,
+  "taxes_and_fees": 16.76,
+  "savings": {
+    "total": 25.53,
+    "member_price": 22.62,
+    "safeway_for_u": 2.91
+  },
+  "payment_method": "Card ending in 5921"
+}

@@ -1,0 +1,138 @@
+{
+  "store": "Safeway",
+  "customer_id": "customer_10",
+  "customer_name": "James Taylor",
+  "archetype": "budget_conscious",
+  "order_number": "752554011",
+  "subject": "10/02/25 Safeway",
+  "email_date": "Thu, 02 Oct 2025 14:23:15 +0000",
+  "pickup_date": "Thursday, October 02, 2025",
+  "pickup_time": "10:00 AM - 6:00 PM",
+  "pickup_address": "2720 41st Ave, Soquel, CA 95073",
+  "items": [
+    {
+      "quantity": 1,
+      "name": "Garlic Bulb",
+      "price": 0.97
+    },
+    {
+      "quantity": 1,
+      "name": "White Onion",
+      "price": 1.97
+    },
+    {
+      "quantity": 1,
+      "name": "Sweet Potatoes - 3 Lb",
+      "price": 4.14
+    },
+    {
+      "quantity": 3,
+      "name": "Fresh Blueberries - 6 Oz",
+      "price": 17.39
+    },
+    {
+      "quantity": 1,
+      "name": "Chicken Thighs Bone-In - 3 Lb",
+      "price": 10.1
+    },
+    {
+      "quantity": 3,
+      "name": "Large Eggs Grade A - 18 Count",
+      "price": 18.89
+    },
+    {
+      "quantity": 2,
+      "name": "Bacon Thick Cut - 16 Oz",
+      "price": 17.82
+    },
+    {
+      "quantity": 1,
+      "name": "Turkey Breast Sliced Deli - 1 Lb",
+      "price": 12.3
+    },
+    {
+      "quantity": 3,
+      "name": "Whole Milk - 1 Gallon",
+      "price": 12.86
+    },
+    {
+      "quantity": 1,
+      "name": "Shredded Cheese Mozzarella - 8 Oz",
+      "price": 4.37
+    },
+    {
+      "quantity": 1,
+      "name": "Yogurt Cups Variety Pack - 6 Count",
+      "price": 5.46
+    },
+    {
+      "quantity": 3,
+      "name": "White Rice Long Grain - 5 Lb",
+      "price": 15.83
+    },
+    {
+      "quantity": 1,
+      "name": "Flour All Purpose - 5 Lb",
+      "price": 4.08
+    },
+    {
+      "quantity": 1,
+      "name": "Pasta Spaghetti - 16 Oz",
+      "price": 2.87
+    },
+    {
+      "quantity": 2,
+      "name": "Crackers Saltine - 16 Oz",
+      "price": 9.76
+    },
+    {
+      "quantity": 1,
+      "name": "Granola Bars Variety Pack - 12 Count",
+      "price": 6.99
+    },
+    {
+      "quantity": 2,
+      "name": "Candy Chocolate Bar Variety - 18 Oz",
+      "price": 23.63
+    },
+    {
+      "quantity": 2,
+      "name": "Cookies Chocolate Chip - 13 Oz",
+      "price": 11.76
+    },
+    {
+      "quantity": 2,
+      "name": "Coca-Cola 12 Pack Cans - 12 Fl. Oz.",
+      "price": 13.45
+    },
+    {
+      "quantity": 1,
+      "name": "Coca-Cola 12 Pack Cans - 12 Fl. Oz.",
+      "price": 7.65
+    },
+    {
+      "quantity": 2,
+      "name": "Diet Coke 12 Pack Cans - 12 Fl. Oz.",
+      "price": 12.01
+    },
+    {
+      "quantity": 1,
+      "name": "Sugar Granulated - 4 Lb",
+      "price": 4.46
+    },
+    {
+      "quantity": 1,
+      "name": "Mayonnaise - 30 Oz",
+      "price": 6.6
+    }
+  ],
+  "subtotal": 225.35999999999996,
+  "total": 222.56,
+  "taxes_and_fees": 15.46,
+  "savings": {
+    "total": 18.26,
+    "member_price": 13.96,
+    "safeway_for_u": 4.3
+  },
+  "payment_method": "Card ending in 6846"
+}
