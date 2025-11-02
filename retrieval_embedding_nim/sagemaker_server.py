@@ -9,8 +9,6 @@ import sagemaker
 from sagemaker.model import Model
 import boto3
 
-# print("SAGEMAKER ROLE : ", sagemaker.get_execution_role())
-
 # ---------------------------------------------------------------------
 # 1. Load config from .env
 # ---------------------------------------------------------------------
@@ -25,10 +23,15 @@ INSTANCE_TYPE   = os.getenv("INSTANCE_TYPE", "ml.g5.2xlarge")
 INSTANCE_COUNT  = int(os.getenv("INSTANCE_COUNT", "1"))
 
 ENDPOINT_NAME   = f"{MODEL_NAME}-endpoint"
-IMAGE_URI       = (
-    f"763104351884.dkr.ecr.{AWS_REGION}.amazonaws.com/"
-    f"nvidia/nim/{MODEL_NAME}:{IMAGE_TAG}"
-)
+# IMAGE_URI       = (
+#     f"763104351884.dkr.ecr.{AWS_REGION}.amazonaws.com/"
+#     f"nvidia/nim/{MODEL_NAME}:{IMAGE_TAG}"
+# )
+
+IMAGE_URI = "729386419841.dkr.ecr.us-west-2.amazonaws.com/nv-embedqa-e5-v5:1.10.0"
+
+# IMAGE = f"nvcr.io/nim/nvidia/{MODEL}:1.10.0"
+
 
 # ---------------------------------------------------------------------
 # 2. Validate configuration
