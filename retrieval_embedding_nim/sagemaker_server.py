@@ -1,13 +1,20 @@
 """
 Deploys an NVIDIA NIM container (e.g., nv-embedqa-e5-v5) as a managed
 AWS SageMaker inference endpoint using parameters from a .env file.
+If an endpoint with the same name already exists, it is deleted first.
 """
 
 import os
+import logging
+
 from dotenv import load_dotenv
 import sagemaker
 from sagemaker.model import Model
 import boto3
+from botocore.exceptions import ClientError
+
+logging.basicConfig(level=logging.INFO)
+# sagemaker.logging_config.configure_logger()
 
 # ---------------------------------------------------------------------
 # 1. Load config from .env
@@ -19,19 +26,11 @@ IMAGE_TAG       = os.getenv("IMAGE_TAG", "1.10.0")
 AWS_REGION      = os.getenv("AWS_REGION", "us-west-2")
 ROLE_ARN        = os.getenv("SAGEMAKER_ROLE_ARN")
 NGC_API_KEY     = os.getenv("NGC_API_KEY")
-INSTANCE_TYPE   = os.getenv("INSTANCE_TYPE", "ml.g5.2xlarge")
+INSTANCE_TYPE   = os.getenv("INSTANCE_TYPE", "ml.g4dn.xlarge")
 INSTANCE_COUNT  = int(os.getenv("INSTANCE_COUNT", "1"))
-
 ENDPOINT_NAME   = f"{MODEL_NAME}-endpoint"
-# IMAGE_URI       = (
-#     f"763104351884.dkr.ecr.{AWS_REGION}.amazonaws.com/"
-#     f"nvidia/nim/{MODEL_NAME}:{IMAGE_TAG}"
-# )
 
-IMAGE_URI = "729386419841.dkr.ecr.us-west-2.amazonaws.com/nv-embedqa-e5-v5:1.10.0"
-
-# IMAGE = f"nvcr.io/nim/nvidia/{MODEL}:1.10.0"
-
+IMAGE_URI = f"729386419841.dkr.ecr.us-west-2.amazonaws.com/{MODEL_NAME}:{IMAGE_TAG}"
 
 # ---------------------------------------------------------------------
 # 2. Validate configuration
@@ -47,38 +46,57 @@ print(f"   Endpoint name: {ENDPOINT_NAME}")
 print(f"   Instance type: {INSTANCE_TYPE}")
 
 # ---------------------------------------------------------------------
-# 3. Create and deploy the SageMaker model
+# 3. Initialize SageMaker + boto3 clients
 # ---------------------------------------------------------------------
-
-# session = sagemaker.Session(boto_session=boto3.Session(profile_name="personal"))
-
 session = sagemaker.Session(
     boto_session=boto3.Session(profile_name="personal", region_name=AWS_REGION)
 )
+sm_client = session.sagemaker_client
 
 print(f"📍 SageMaker session region: {session.boto_region_name}")
 
+# ---------------------------------------------------------------------
+# 4. Clean up any existing endpoint/config with the same name
+# ---------------------------------------------------------------------
+def safe_delete_endpoint_and_config(endpoint_name):
+    try:
+        print(f"🧹 Checking for existing endpoint: {endpoint_name}")
+        sm_client.delete_endpoint(EndpointName=endpoint_name)
+        print(f"   ⏳ Deleting old endpoint...")
+    except ClientError as e:
+        if "Could not find endpoint" in str(e):
+            print("   ✅ No existing endpoint found.")
+        else:
+            print(f"   ⚠️ Skipping endpoint delete: {e}")
 
-# model = Model(
-#     image_uri=IMAGE_URI,
-#     role=ROLE_ARN,
-#     name=MODEL_NAME,
-#     env={"NGC_API_KEY": NGC_API_KEY},  # passed into container
-# )
+    try:
+        sm_client.delete_endpoint_config(EndpointConfigName=endpoint_name)
+        print(f"   ⏳ Deleting old endpoint configuration...")
+    except ClientError as e:
+        if "Could not find endpoint configuration" in str(e):
+            print("   ✅ No existing endpoint config found.")
+        else:
+            print(f"   ⚠️ Skipping endpoint config delete: {e}")
+
+safe_delete_endpoint_and_config(ENDPOINT_NAME)
+
+# ---------------------------------------------------------------------
+# 5. Create and deploy model
+# ---------------------------------------------------------------------
 model = Model(
     image_uri=IMAGE_URI,
     role=ROLE_ARN,
     name=MODEL_NAME,
     env={"NGC_API_KEY": NGC_API_KEY},
-    sagemaker_session=session
+    sagemaker_session=session,
 )
-
 
 predictor = model.deploy(
     initial_instance_count=INSTANCE_COUNT,
     instance_type=INSTANCE_TYPE,
     endpoint_name=ENDPOINT_NAME,
-    wait=True,  # waits until "InService"
+    wait=True,  # block until ready
+    container_startup_health_check_timeout=300,
 )
 
 print("\n✅ Deployment complete!")
