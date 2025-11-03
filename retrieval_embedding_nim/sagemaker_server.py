@@ -83,13 +83,28 @@ safe_delete_endpoint_and_config(ENDPOINT_NAME)
 # ---------------------------------------------------------------------
 # 5. Create and deploy model
 # ---------------------------------------------------------------------
+# model = Model(
+#     image_uri=IMAGE_URI,
+#     role=ROLE_ARN,
+#     name=MODEL_NAME,
+#     env={"NGC_API_KEY": NGC_API_KEY},
+#     sagemaker_session=session,
+# )
 model = Model(
     image_uri=IMAGE_URI,
     role=ROLE_ARN,
     name=MODEL_NAME,
-    env={"NGC_API_KEY": NGC_API_KEY},
+    env={
+        "NGC_API_KEY": NGC_API_KEY,
+        "NVIDIA_API_KEY": NGC_API_KEY,
+        "NVIDIA_TRITON_SERVER_ENABLE_GPU": "true",
+        "NVIDIA_TRITON_SERVER_HTTP_PORT": "8000",
+        "NVIDIA_TRITON_SERVER_GRPC_PORT": "8001",
+        "NVIDIA_TRITON_SERVER_METRICS_PORT": "8002"
+    },
     sagemaker_session=session,
 )
+
 
 predictor = model.deploy(
     initial_instance_count=INSTANCE_COUNT,
