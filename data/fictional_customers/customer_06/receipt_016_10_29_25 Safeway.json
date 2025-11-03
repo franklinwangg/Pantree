@@ -1,0 +1,143 @@
+{
+  "store": "Safeway",
+  "customer_id": "customer_06",
+  "customer_name": "Robert Martinez",
+  "archetype": "budget_conscious",
+  "order_number": "900014045",
+  "subject": "10/29/25 Safeway",
+  "email_date": "Wed, 29 Oct 2025 14:23:15 +0000",
+  "pickup_date": "Wednesday, October 29, 2025",
+  "pickup_time": "2:00 PM - 10:00 PM",
+  "pickup_address": "2720 41st Ave, Soquel, CA 95073",
+  "items": [
+    {
+      "quantity": 1,
+      "name": "Bananas - 1 Lb",
+      "price": 1.06
+    },
+    {
+      "quantity": 2,
+      "name": "Garlic Bulb",
+      "price": 1.96
+    },
+    {
+      "quantity": 2,
+      "name": "Roma Tomatoes - 1 Lb",
+      "price": 5.65
+    },
+    {
+      "quantity": 1,
+      "name": "Sweet Potatoes - 3 Lb",
+      "price": 5.34
+    },
+    {
+      "quantity": 2,
+      "name": "Fresh Broccoli Crowns",
+      "price": 5.84
+    },
+    {
+      "quantity": 1,
+      "name": "Large Eggs Grade A - 18 Count",
+      "price": 4.44
+    },
+    {
+      "quantity": 1,
+      "name": "80% Lean 20% Fat Ground Beef Value Pack - 3 Lb",
+      "price": 15.38
+    },
+    {
+      "quantity": 2,
+      "name": "Salmon Fillets Fresh - 1 Lb",
+      "price": 33.78
+    },
+    {
+      "quantity": 1,
+      "name": "Cream Cheese - 8 Oz",
+      "price": 2.7
+    },
+    {
+      "quantity": 2,
+      "name": "Whole Milk - 1 Gallon",
+      "price": 11.97
+    },
+    {
+      "quantity": 2,
+      "name": "Parmesan Cheese Grated - 8 Oz",
+      "price": 12.13
+    },
+    {
+      "quantity": 1,
+      "name": "White Rice Long Grain - 5 Lb",
+      "price": 5.97
+    },
+    {
+      "quantity": 2,
+      "name": "White Bread Sandwich - 24 Oz",
+      "price": 8.97
+    },
+    {
+      "quantity": 1,
+      "name": "English Muffins - 12 Oz",
+      "price": 3.05
+    },
+    {
+      "quantity": 4,
+      "name": "Granola Bars Variety Pack - 12 Count",
+      "price": 28.24
+    },
+    {
+      "quantity": 4,
+      "name": "Rice Cakes - 9 Oz",
+      "price": 14.76
+    },
+    {
+      "quantity": 2,
+      "name": "Bottled Water - 24 Pack",
+      "price": 11.58
+    },
+    {
+      "quantity": 3,
+      "name": "Bottled Water - 24 Pack",
+      "price": 10.51
+    },
+    {
+      "quantity": 1,
+      "name": "Orange Juice - 64 Fl. Oz.",
+      "price": 7.08
+    },
+    {
+      "quantity": 1,
+      "name": "Iced Tea Lemon - 64 Fl. Oz.",
+      "price": 3.89
+    },
+    {
+      "quantity": 3,
+      "name": "Coffee Ground Medium Roast - 30 Oz",
+      "price": 33.39
+    },
+    {
+      "quantity": 1,
+      "name": "Salt Iodized - 26 Oz",
+      "price": 1.62
+    },
+    {
+      "quantity": 1,
+      "name": "Vegetable Oil - 48 Fl. Oz.",
+      "price": 7.4
+    },
+    {
+      "quantity": 1,
+      "name": "Soy Sauce - 15 Fl. Oz.",
+      "price": 4.21
+    }
+  ],
+  "subtotal": 240.92000000000002,
+  "total": 213.75,
+  "taxes_and_fees": 14.15,
+  "savings": {
+    "total": 41.32,
+    "member_price": 32.34,
+    "safeway_for_u": 8.98
+  },
+  "payment_method": "Card ending in 3575"
+}

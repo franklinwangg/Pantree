@@ -1,0 +1,103 @@
+{
+  "store": "Safeway",
+  "customer_id": "customer_09",
+  "customer_name": "Emily White",
+  "archetype": "single_professional",
+  "order_number": "720878012",
+  "subject": "06/29/25 Safeway",
+  "email_date": "Sun, 29 Jun 2025 14:23:15 +0000",
+  "pickup_date": "Sunday, June 29, 2025",
+  "pickup_time": "12:00 PM - 8:00 PM",
+  "pickup_address": "2720 41st Ave, Soquel, CA 95073",
+  "items": [
+    {
+      "quantity": 1,
+      "name": "Celery Bunch",
+      "price": 2.24
+    },
+    {
+      "quantity": 2,
+      "name": "Fresh Blueberries - 6 Oz",
+      "price": 7.66
+    },
+    {
+      "quantity": 3,
+      "name": "Boneless Skinless Chicken Breasts Value Pack - 3.5 Lb",
+      "price": 65.58
+    },
+    {
+      "quantity": 1,
+      "name": "Boneless Skinless Chicken Breasts Value Pack - 3.5 Lb",
+      "price": 20.11
+    },
+    {
+      "quantity": 1,
+      "name": "Ham Deli Honey - 1 Lb",
+      "price": 8.85
+    },
+    {
+      "quantity": 1,
+      "name": "Pork Loin Chops Value Pack - 4 Lb",
+      "price": 15.24
+    },
+    {
+      "quantity": 1,
+      "name": "Sour Cream - 16 Oz",
+      "price": 3.39
+    },
+    {
+      "quantity": 1,
+      "name": "Whole Milk - 1 Gallon",
+      "price": 5.42
+    },
+    {
+      "quantity": 2,
+      "name": "Yogurt Cups Variety Pack - 6 Count",
+      "price": 12.71
+    },
+    {
+      "quantity": 3,
+      "name": "English Muffins - 12 Oz",
+      "price": 12.57
+    },
+    {
+      "quantity": 2,
+      "name": "Potato Chips Classic - 10 Oz",
+      "price": 10.75
+    },
+    {
+      "quantity": 1,
+      "name": "Crackers Saltine - 16 Oz",
+      "price": 3.62
+    },
+    {
+      "quantity": 1,
+      "name": "Pretzels - 16 Oz",
+      "price": 3.74
+    },
+    {
+      "quantity": 1,
+      "name": "Popcorn Microwave Butter - 6 Count",
+      "price": 4.96
+    },
+    {
+      "quantity": 1,
+      "name": "Iced Tea Lemon - 64 Fl. Oz.",
+      "price": 3.13
+    },
+    {
+      "quantity": 1,
+      "name": "Cereal Corn Flakes - 18 Oz",
+      "price": 5.47
+    }
+  ],
+  "subtotal": 185.44,
+  "total": 161.84,
+  "taxes_and_fees": 10.68,
+  "savings": {
+    "total": 34.28,
+    "member_price": 25.35,
+    "safeway_for_u": 8.93
+  },
+  "payment_method": "Card ending in 1781"
+}

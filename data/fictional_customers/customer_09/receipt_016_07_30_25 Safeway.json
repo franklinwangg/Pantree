@@ -1,0 +1,78 @@
+{
+  "store": "Safeway",
+  "customer_id": "customer_09",
+  "customer_name": "Emily White",
+  "archetype": "single_professional",
+  "order_number": "831491699",
+  "subject": "07/30/25 Safeway",
+  "email_date": "Wed, 30 Jul 2025 14:23:15 +0000",
+  "pickup_date": "Wednesday, July 30, 2025",
+  "pickup_time": "8:00 AM - 4:00 PM",
+  "pickup_address": "2720 41st Ave, Soquel, CA 95073",
+  "items": [
+    {
+      "quantity": 1,
+      "name": "Organic Baby Carrots - 1 Lb",
+      "price": 3.57
+    },
+    {
+      "quantity": 2,
+      "name": "Large Eggs Grade A - 18 Count",
+      "price": 9.6
+    },
+    {
+      "quantity": 2,
+      "name": "Chicken Thighs Bone-In - 3 Lb",
+      "price": 21.24
+    },
+    {
+      "quantity": 1,
+      "name": "96% Lean 4% Fat Ground Beef - 1.35 Lb",
+      "price": 19.33
+    },
+    {
+      "quantity": 1,
+      "name": "Shredded Cheese Mozzarella - 8 Oz",
+      "price": 4.99
+    },
+    {
+      "quantity": 1,
+      "name": "Whole Milk - 1 Gallon",
+      "price": 5.03
+    },
+    {
+      "quantity": 2,
+      "name": "Cottage Cheese - 16 Oz",
+      "price": 10.64
+    },
+    {
+      "quantity": 1,
+      "name": "Brown Rice - 2 Lb",
+      "price": 4.51
+    },
+    {
+      "quantity": 1,
+      "name": "Trail Mix - 26 Oz",
+      "price": 9.74
+    },
+    {
+      "quantity": 2,
+      "name": "Energy Drink - 4 Pack",
+      "price": 17.23
+    },
+    {
+      "quantity": 1,
+      "name": "Honey - 24 Oz",
+      "price": 9.87
+    }
+  ],
+  "subtotal": 115.75000000000001,
+  "total": 107.92,
+  "taxes_and_fees": 8.56,
+  "savings": {
+    "total": 16.39,
+    "member_price": 12.27,
+    "safeway_for_u": 4.12
+  },
+  "payment_method": "Card ending in 8561"
+}

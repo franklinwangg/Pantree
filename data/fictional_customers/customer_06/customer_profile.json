@@ -1,0 +1,14 @@
+{
+  "customer_id": "customer_06",
+  "customer_name": "Robert Martinez",
+  "archetype": "budget_conscious",
+  "archetype_description": "Budget-conscious shopper, buys store brands, staples",
+  "total_receipts": 17,
+  "total_spent": 3710.77,
+  "total_savings": 635.8100000000001,
+  "avg_items_per_trip": 25.058823529411764,
+  "date_range": {
+    "first": "Thursday, May 01, 2025",
+    "last": "Saturday, November 08, 2025"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "store": "Safeway",
+  "customer_id": "customer_08",
+  "customer_name": "Chris Anderson",
+  "archetype": "single_professional",
+  "order_number": "865409125",
+  "subject": "06/19/25 Safeway",
+  "email_date": "Thu, 19 Jun 2025 14:23:15 +0000",
+  "pickup_date": "Thursday, June 19, 2025",
+  "pickup_time": "2:00 PM - 10:00 PM",
+  "pickup_address": "2720 41st Ave, Soquel, CA 95073",
+  "items": [
+    {
+      "quantity": 3,
+      "name": "Sweet Potatoes - 3 Lb",
+      "price": 13.35
+    },
+    {
+      "quantity": 1,
+      "name": "Boneless Skinless Chicken Breasts Value Pack - 3.5 Lb",
+      "price": 21.28
+    },
+    {
+      "quantity": 1,
+      "name": "Chicken Thighs Bone-In - 3 Lb",
+      "price": 10.87
+    },
+    {
+      "quantity": 2,
+      "name": "Ham Deli Honey - 1 Lb",
+      "price": 17.82
+    },
+    {
+      "quantity": 2,
+      "name": "Sour Cream - 16 Oz",
+      "price": 7.87
+    },
+    {
+      "quantity": 1,
+      "name": "Yogurt Cups Variety Pack - 6 Count",
+      "price": 6.22
+    },
+    {
+      "quantity": 1,
+      "name": "Tortillas Flour - 20 Count",
+      "price": 4.03
+    },
+    {
+      "quantity": 1,
+      "name": "Pretzels - 16 Oz",
+      "price": 4.35
+    },
+    {
+      "quantity": 3,
+      "name": "Cranberry Juice - 64 Fl. Oz.",
+      "price": 15.95
+    },
+    {
+      "quantity": 2,
+      "name": "Sugar Granulated - 4 Lb",
+      "price": 8.76
+    },
+    {
+      "quantity": 4,
+      "name": "Honey - 24 Oz",
+      "price": 35.78
+    }
+  ],
+  "subtotal": 146.28,
+  "total": 134.54,
+  "taxes_and_fees": 10.26,
+  "savings": {
+    "total": 22.0,
+    "member_price": 17.3,
+    "safeway_for_u": 4.7
+  },
+  "payment_method": "Card ending in 4963"
+}

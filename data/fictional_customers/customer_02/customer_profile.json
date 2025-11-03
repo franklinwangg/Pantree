@@ -1,0 +1,14 @@
+{
+  "customer_id": "customer_02",
+  "customer_name": "David Park",
+  "archetype": "health_conscious",
+  "archetype_description": "Health-conscious, shops for organic and fresh foods, meal preps",
+  "total_receipts": 17,
+  "total_spent": 3187.04,
+  "total_savings": 426.31,
+  "avg_items_per_trip": 20.235294117647058,
+  "date_range": {
+    "first": "Wednesday, April 30, 2025",
+    "last": "Tuesday, September 02, 2025"
+  }
+}

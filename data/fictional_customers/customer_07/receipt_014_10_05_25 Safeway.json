@@ -1,0 +1,148 @@
+{
+  "store": "Safeway",
+  "customer_id": "customer_07",
+  "customer_name": "Amanda Johnson",
+  "archetype": "budget_conscious",
+  "order_number": "711486004",
+  "subject": "10/05/25 Safeway",
+  "email_date": "Sun, 05 Oct 2025 14:23:15 +0000",
+  "pickup_date": "Sunday, October 05, 2025",
+  "pickup_time": "2:00 PM - 10:00 PM",
+  "pickup_address": "2720 41st Ave, Soquel, CA 95073",
+  "items": [
+    {
+      "quantity": 2,
+      "name": "Lettuce Iceberg",
+      "price": 6.08
+    },
+    {
+      "quantity": 1,
+      "name": "Fresh Spinach - 10 Oz",
+      "price": 4.36
+    },
+    {
+      "quantity": 2,
+      "name": "Carrots - 2 Lb Bag",
+      "price": 4.03
+    },
+    {
+      "quantity": 2,
+      "name": "Organic Baby Carrots - 1 Lb",
+      "price": 7.95
+    },
+    {
+      "quantity": 4,
+      "name": "Fresh Blueberries - 6 Oz",
+      "price": 16.67
+    },
+    {
+      "quantity": 2,
+      "name": "Boneless Skinless Chicken Breasts Value Pack - 3.5 Lb",
+      "price": 47.9
+    },
+    {
+      "quantity": 1,
+      "name": "Chicken Thighs Bone-In - 3 Lb",
+      "price": 14.84
+    },
+    {
+      "quantity": 2,
+      "name": "Beef Sirloin Steak - 2 Lb",
+      "price": 34.8
+    },
+    {
+      "quantity": 4,
+      "name": "96% Lean 4% Fat Ground Beef - 1.35 Lb",
+      "price": 78.32
+    },
+    {
+      "quantity": 1,
+      "name": "Shredded Cheese Mozzarella - 8 Oz",
+      "price": 4.94
+    },
+    {
+      "quantity": 1,
+      "name": "Cream Cheese - 8 Oz",
+      "price": 2.59
+    },
+    {
+      "quantity": 3,
+      "name": "Yogurt Cups Variety Pack - 6 Count",
+      "price": 14.82
+    },
+    {
+      "quantity": 1,
+      "name": "Flour All Purpose - 5 Lb",
+      "price": 5.31
+    },
+    {
+      "quantity": 1,
+      "name": "Flour All Purpose - 5 Lb",
+      "price": 4.78
+    },
+    {
+      "quantity": 4,
+      "name": "Tortillas Flour - 20 Count",
+      "price": 21.59
+    },
+    {
+      "quantity": 2,
+      "name": "Oatmeal Quick Oats - 42 Oz",
+      "price": 10.29
+    },
+    {
+      "quantity": 1,
+      "name": "Granola Bars Variety Pack - 12 Count",
+      "price": 5.82
+    },
+    {
+      "quantity": 1,
+      "name": "Pretzels - 16 Oz",
+      "price": 4.12
+    },
+    {
+      "quantity": 4,
+      "name": "Coca-Cola 12 Pack Cans - 12 Fl. Oz.",
+      "price": 29.93
+    },
+    {
+      "quantity": 3,
+      "name": "Orange Juice - 64 Fl. Oz.",
+      "price": 15.34
+    },
+    {
+      "quantity": 2,
+      "name": "Coca-Cola 12 Pack Cans - 12 Fl. Oz.",
+      "price": 14.05
+    },
+    {
+      "quantity": 1,
+      "name": "Iced Tea Lemon - 64 Fl. Oz.",
+      "price": 3.57
+    },
+    {
+      "quantity": 1,
+      "name": "Cranberry Juice - 64 Fl. Oz.",
+      "price": 6.29
+    },
+    {
+      "quantity": 1,
+      "name": "Salt Iodized - 26 Oz",
+      "price": 2.34
+    },
+    {
+      "quantity": 1,
+      "name": "Olive Oil Extra Virgin - 25 Fl. Oz.",
+      "price": 9.28
+    }
+  ],
+  "subtotal": 370.00999999999993,
+  "total": 318.37,
+  "taxes_and_fees": 21.27,
+  "savings": {
+    "total": 72.91,
+    "member_price": 56.62,
+    "safeway_for_u": 16.29
+  },
+  "payment_method": "Card ending in 8952"
+}

@@ -1,0 +1,98 @@
+{
+  "store": "Safeway",
+  "customer_id": "customer_01",
+  "customer_name": "Sarah Mitchell",
+  "archetype": "health_conscious",
+  "order_number": "746526300",
+  "subject": "06/08/25 Safeway",
+  "email_date": "Sun, 08 Jun 2025 14:23:15 +0000",
+  "pickup_date": "Sunday, June 08, 2025",
+  "pickup_time": "10:00 AM - 6:00 PM",
+  "pickup_address": "2720 41st Ave, Soquel, CA 95073",
+  "items": [
+    {
+      "quantity": 2,
+      "name": "Lettuce Iceberg",
+      "price": 6.88
+    },
+    {
+      "quantity": 4,
+      "name": "Bananas - 1 Lb",
+      "price": 3.27
+    },
+    {
+      "quantity": 1,
+      "name": "Fresh Asparagus - 1 Lb",
+      "price": 4.03
+    },
+    {
+      "quantity": 1,
+      "name": "Fresh Cilantro Bunch",
+      "price": 1.9
+    },
+    {
+      "quantity": 1,
+      "name": "80% Lean 20% Fat Ground Beef Value Pack - 3 Lb",
+      "price": 14.09
+    },
+    {
+      "quantity": 1,
+      "name": "Chicken Thighs Bone-In - 3 Lb",
+      "price": 10.08
+    },
+    {
+      "quantity": 1,
+      "name": "Pork Loin Chops Value Pack - 4 Lb",
+      "price": 16.0
+    },
+    {
+      "quantity": 2,
+      "name": "Butter Salted - 16 Oz",
+      "price": 11.65
+    },
+    {
+      "quantity": 1,
+      "name": "Half and Half - 32 Oz",
+      "price": 4.39
+    },
+    {
+      "quantity": 1,
+      "name": "English Muffins - 12 Oz",
+      "price": 3.28
+    },
+    {
+      "quantity": 1,
+      "name": "Potato Chips Classic - 10 Oz",
+      "price": 4.45
+    },
+    {
+      "quantity": 1,
+      "name": "Granola Bars Variety Pack - 12 Count",
+      "price": 5.04
+    },
+    {
+      "quantity": 2,
+      "name": "Popcorn Microwave Butter - 6 Count",
+      "price": 9.97
+    },
+    {
+      "quantity": 3,
+      "name": "Cranberry Juice - 64 Fl. Oz.",
+      "price": 17.95
+    },
+    {
+      "quantity": 2,
+      "name": "Canned Tomatoes Diced - 14.5 Oz",
+      "price": 4.78
+    }
+  ],
+  "subtotal": 117.76000000000002,
+  "total": 110.94,
+  "taxes_and_fees": 7.3,
+  "savings": {
+    "total": 14.12,
+    "member_price": 11.76,
+    "safeway_for_u": 2.36
+  },
+  "payment_method": "Card ending in 5027"
+}

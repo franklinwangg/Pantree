@@ -1,0 +1,128 @@
+{
+  "store": "Safeway",
+  "customer_id": "customer_02",
+  "customer_name": "David Park",
+  "archetype": "health_conscious",
+  "order_number": "400043057",
+  "subject": "08/05/25 Safeway",
+  "email_date": "Tue, 05 Aug 2025 14:23:15 +0000",
+  "pickup_date": "Tuesday, August 05, 2025",
+  "pickup_time": "10:00 AM - 6:00 PM",
+  "pickup_address": "2720 41st Ave, Soquel, CA 95073",
+  "items": [
+    {
+      "quantity": 1,
+      "name": "Lettuce Iceberg",
+      "price": 2.26
+    },
+    {
+      "quantity": 1,
+      "name": "Russet Potatoes - 5 Lb",
+      "price": 5.14
+    },
+    {
+      "quantity": 3,
+      "name": "Garlic Bulb",
+      "price": 3.32
+    },
+    {
+      "quantity": 1,
+      "name": "Roma Tomatoes - 1 Lb",
+      "price": 1.91
+    },
+    {
+      "quantity": 1,
+      "name": "Organic Baby Carrots - 1 Lb",
+      "price": 2.86
+    },
+    {
+      "quantity": 1,
+      "name": "Organic Kale Bunch",
+      "price": 2.61
+    },
+    {
+      "quantity": 1,
+      "name": "80% Lean 20% Fat Ground Beef Value Pack - 3 Lb",
+      "price": 15.58
+    },
+    {
+      "quantity": 2,
+      "name": "80% Lean 20% Fat Ground Beef Value Pack - 3 Lb",
+      "price": 27.44
+    },
+    {
+      "quantity": 1,
+      "name": "Boneless Skinless Chicken Breasts Value Pack - 3.5 Lb",
+      "price": 21.79
+    },
+    {
+      "quantity": 2,
+      "name": "Pork Sausage Links - 1 Lb",
+      "price": 13.63
+    },
+    {
+      "quantity": 1,
+      "name": "Ham Deli Honey - 1 Lb",
+      "price": 9.72
+    },
+    {
+      "quantity": 1,
+      "name": "Whole Milk - 1 Gallon",
+      "price": 4.62
+    },
+    {
+      "quantity": 3,
+      "name": "Shredded Cheese Mozzarella - 8 Oz",
+      "price": 16.1
+    },
+    {
+      "quantity": 1,
+      "name": "Cottage Cheese - 16 Oz",
+      "price": 3.53
+    },
+    {
+      "quantity": 1,
+      "name": "White Bread Sandwich - 24 Oz",
+      "price": 3.11
+    },
+    {
+      "quantity": 1,
+      "name": "Tortillas Flour - 20 Count",
+      "price": 4.47
+    },
+    {
+      "quantity": 3,
+      "name": "Pretzels - 16 Oz",
+      "price": 12.87
+    },
+    {
+      "quantity": 1,
+      "name": "Coca-Cola 12 Pack Cans - 12 Fl. Oz.",
+      "price": 6.0
+    },
+    {
+      "quantity": 1,
+      "name": "Orange Juice - 64 Fl. Oz.",
+      "price": 6.83
+    },
+    {
+      "quantity": 1,
+      "name": "Cranberry Juice - 64 Fl. Oz.",
+      "price": 5.05
+    },
+    {
+      "quantity": 1,
+      "name": "Chicken Broth - 32 Oz",
+      "price": 3.14
+    }
+  ],
+  "subtotal": 171.98000000000002,
+  "total": 163.74,
+  "taxes_and_fees": 11.9,
+  "savings": {
+    "total": 20.14,
+    "member_price": 17.85,
+    "safeway_for_u": 2.29
+  },
+  "payment_method": "Card ending in 6867"
+}

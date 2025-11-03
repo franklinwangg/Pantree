@@ -1,0 +1,118 @@
+{
+  "store": "Safeway",
+  "customer_id": "customer_01",
+  "customer_name": "Sarah Mitchell",
+  "archetype": "health_conscious",
+  "order_number": "133308023",
+  "subject": "08/11/25 Safeway",
+  "email_date": "Mon, 11 Aug 2025 14:23:15 +0000",
+  "pickup_date": "Monday, August 11, 2025",
+  "pickup_time": "8:00 AM - 4:00 PM",
+  "pickup_address": "2720 41st Ave, Soquel, CA 95073",
+  "items": [
+    {
+      "quantity": 2,
+      "name": "Bananas - 1 Lb",
+      "price": 2.37
+    },
+    {
+      "quantity": 1,
+      "name": "Celery Bunch",
+      "price": 2.44
+    },
+    {
+      "quantity": 1,
+      "name": "White Onion",
+      "price": 1.47
+    },
+    {
+      "quantity": 1,
+      "name": "Russet Potatoes - 5 Lb",
+      "price": 5.39
+    },
+    {
+      "quantity": 1,
+      "name": "Organic Avocados - 4 Count",
+      "price": 8.43
+    },
+    {
+      "quantity": 2,
+      "name": "Green Grapes - 2 Lb",
+      "price": 12.31
+    },
+    {
+      "quantity": 1,
+      "name": "Organic Avocados - 4 Count",
+      "price": 6.19
+    },
+    {
+      "quantity": 2,
+      "name": "Chicken Thighs Bone-In - 3 Lb",
+      "price": 28.97
+    },
+    {
+      "quantity": 2,
+      "name": "80% Lean 20% Fat Ground Beef Value Pack - 3 Lb",
+      "price": 34.64
+    },
+    {
+      "quantity": 1,
+      "name": "Chicken Thighs Bone-In - 3 Lb",
+      "price": 10.88
+    },
+    {
+      "quantity": 1,
+      "name": "All Natural Chicken Tenders - 1 Lb",
+      "price": 8.91
+    },
+    {
+      "quantity": 1,
+      "name": "Pork Loin Chops Value Pack - 4 Lb",
+      "price": 12.23
+    },
+    {
+      "quantity": 1,
+      "name": "Cream Cheese - 8 Oz",
+      "price": 2.53
+    },
+    {
+      "quantity": 1,
+      "name": "Butter Salted - 16 Oz",
+      "price": 7.1
+    },
+    {
+      "quantity": 1,
+      "name": "Greek Yogurt Plain - 32 Oz",
+      "price": 5.77
+    },
+    {
+      "quantity": 2,
+      "name": "Bagels Plain - 6 Count",
+      "price": 8.31
+    },
+    {
+      "quantity": 1,
+      "name": "Trail Mix - 26 Oz",
+      "price": 7.85
+    },
+    {
+      "quantity": 3,
+      "name": "Cranberry Juice - 64 Fl. Oz.",
+      "price": 18.65
+    },
+    {
+      "quantity": 1,
+      "name": "Soy Sauce - 15 Fl. Oz.",
+      "price": 4.52
+    }
+  ],
+  "subtotal": 188.96,
+  "total": 168.5,
+  "taxes_and_fees": 13.04,
+  "savings": {
+    "total": 33.5,
+    "member_price": 29.22,
+    "safeway_for_u": 4.28
+  },
+  "payment_method": "Card ending in 9481"
+}

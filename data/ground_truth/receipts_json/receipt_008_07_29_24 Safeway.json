@@ -1,0 +1,65 @@
+{
+  "store": "Safeway",
+  "subject": "07/29/24 Safeway",
+  "email_date": "Thu, 3 Jul 2025 05:52:15 +0000 (UTC)",
+  "items": [
+    {
+      "quantity": 1,
+      "name": "Pace Salsa - Mild - 16 Oz",
+      "price": 4.49
+    },
+    {
+      "quantity": 6,
+      "name": "Honeycrisp Apple",
+      "price": 11.97
+    },
+    {
+      "quantity": 1,
+      "name": "Bob Evans Mashed Potatoes Original - 24 Oz",
+      "price": 4.0
+    },
+    {
+      "quantity": 1,
+      "name": "Blueberries Prepacked - 18 Oz",
+      "price": 5.99
+    },
+    {
+      "quantity": 1,
+      "name": "Value Corner Milk Reduced Fat 2% - 1 Gallon",
+      "price": 4.99
+    },
+    {
+      "quantity": 1,
+      "name": "Signature Farms Ground Beef 96% Lean 4% Fat - 1.35 Lb",
+      "price": 16.19
+    },
+    {
+      "quantity": 6,
+      "name": "Birds Eye Baby Broccoli Florets Frozen Vegetables - 12.6 Oz",
+      "price": 21.0
+    },
+    {
+      "quantity": 1,
+      "name": "Kodiak Blueberry Power Waffles Box - 10.72 Oz",
+      "price": 5.99
+    },
+    {
+      "quantity": 2,
+      "name": "Hormel Black Label Bacon Microwave Ready - 12 Oz",
+      "price": 23.98
+    }
+  ],
+  "order_number": "96313214",
+  "pickup_date": null,
+  "pickup_time": "12:00 PM - 4:00 PM",
+  "pickup_address": null,
+  "subtotal": 92.6,
+  "total": 99.8,
+  "taxes_and_fees": 5.2,
+  "savings": {
+    "total": 15.73,
+    "member_price": 9.73,
+    "safeway_for_u": 5.0
+  },
+  "payment_method": "Card ending in 3676"
+}

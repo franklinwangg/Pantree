@@ -1,0 +1,130 @@
+{
+  "store": "Safeway",
+  "subject": "12/16/24 Safeway",
+  "email_date": "Thu, 3 Jul 2025 05:47:56 +0000 (UTC)",
+  "items": [
+    {
+      "quantity": 1,
+      "name": "Signature SELECT Original Steak Sauce - 10 Oz",
+      "price": 3.99
+    },
+    {
+      "quantity": 4,
+      "name": "Diet Coke Soda Pop Cola 12 Count - 12 Fl. Oz.",
+      "price": 43.96
+    },
+    {
+      "quantity": 1,
+      "name": "Signature SELECT Refreshe Drinking Water - 24-16.9 Fl. Oz.",
+      "price": 3.5
+    },
+    {
+      "quantity": 1,
+      "name": "Campbell's 100% Tomato Juice - 64 Fl. Oz.",
+      "price": 4.99
+    },
+    {
+      "quantity": 1,
+      "name": "Del Monte Fresh Cut Corn Whole Kernel - 15.25 Oz",
+      "price": 1.25
+    },
+    {
+      "quantity": 1,
+      "name": "Del Monte Special Blends Peas & Carrots - 14.5 Oz",
+      "price": 2.49
+    },
+    {
+      "quantity": 3,
+      "name": "S&W Beans Chili - 15.5 Oz",
+      "price": 3.75
+    },
+    {
+      "quantity": 2,
+      "name": "Philadelphia Original Cream Cheese Brick - 8 Oz",
+      "price": 7.98
+    },
+    {
+      "quantity": 1,
+      "name": "Marie Callender's Chicken Pot Pie Frozen Dinner - 4-10 Oz",
+      "price": 12.99
+    },
+    {
+      "quantity": 1,
+      "name": "Jose Ole Frozen Mexican Food Taquitos Shredded Steak Corn Tortillas Crispy And Crunchy - 20 Count",
+      "price": 5.99
+    },
+    {
+      "quantity": 1,
+      "name": "Jose Ole Frozen Mexican Food Taquitos Chicken 20 Count - 20 Oz",
+      "price": 5.99
+    },
+    {
+      "quantity": 3,
+      "name": "Yellow Bell Pepper",
+      "price": 6.0
+    },
+    {
+      "quantity": 3,
+      "name": "Red Bell Pepper",
+      "price": 6.0
+    },
+    {
+      "quantity": 2,
+      "name": "Beef Ground Beef 90% Lean 10% Fat Value Pack - 3.5 Lb",
+      "price": 34.93
+    },
+    {
+      "quantity": 1,
+      "name": "Bob Evans Mashed Potatoes Original - 24 Oz",
+      "price": 4.0
+    },
+    {
+      "quantity": 1,
+      "name": "Value Corner Milk Reduced Fat 2% - 1 Gallon",
+      "price": 5.49
+    },
+    {
+      "quantity": 1,
+      "name": "De Wafelbakkers Buttermilk Pancakes Pack - 18 Count",
+      "price": 4.99
+    },
+    {
+      "quantity": 2,
+      "name": "Birds Eye Baby Broccoli Florets Frozen Vegetables - 12.6 Oz",
+      "price": 6.98
+    },
+    {
+      "quantity": 2,
+      "name": "Birds Eye Steamfresh Broccoli Cuts Frozen Vegetables - 10.8 Oz",
+      "price": 3.0
+    },
+    {
+      "quantity": 1,
+      "name": "Daves Killer Bread Cinnamon Raisin Remix Bagel Organic 5 Count - 16.75 Oz",
+      "price": 4.99
+    },
+    {
+      "quantity": 2,
+      "name": "Signature Farms Ground Beef 90% Lean 10% Fat Loaf Value Pack - 3 Lb",
+      "price": 29.94
+    },
+    {
+      "quantity": 3,
+      "name": "Just Bare Fully Cooked Lightly Breaded Chicken Breast Strips - 24 Oz",
+      "price": 29.97
+    }
+  ],
+  "order_number": "109682882",
+  "pickup_date": "Monday, December 16, 2024",
+  "pickup_time": "12:00 PM - 8:00 PM",
+  "pickup_address": "95073 |, ",
+  "subtotal": 203.89,
+  "total": 209.91,
+  "taxes_and_fees": 6.02,
+  "savings": {
+    "total": 144.77,
+    "member_price": 115.49,
+    "safeway_for_u": 29.28
+  },
+  "payment_method": "Card ending in 9751"
+}

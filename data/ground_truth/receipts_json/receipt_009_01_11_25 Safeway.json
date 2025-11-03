@@ -1,0 +1,415 @@
+{
+  "store": "Safeway",
+  "subject": "01/11/25 Safeway",
+  "email_date": "Thu, 3 Jul 2025 05:47:22 +0000 (UTC)",
+  "items": [
+    {
+      "quantity": 2,
+      "name": "Premium Original Saltine Crackers - 16 Oz",
+      "price": 8.98
+    },
+    {
+      "quantity": 2,
+      "name": "Heinz Tomato Ketchup Bottle - 20 Oz",
+      "price": 9.98
+    },
+    {
+      "quantity": 2,
+      "name": "Signature SELECT Original Steak Sauce - 10 Oz",
+      "price": 7.98
+    },
+    {
+      "quantity": 2,
+      "name": "Mt. Olive Pickles Chips Bread & Butter Chips Old-Fashioned Sweet - 24 Fl. Oz.",
+      "price": 7.98
+    },
+    {
+      "quantity": 4,
+      "name": "Diet Coke Soda Pop Cola 12 Count - 12 Fl. Oz.",
+      "price": 47.96
+    },
+    {
+      "quantity": 2,
+      "name": "Signature SELECT Refreshe Drinking Water - 24-16.9 Fl. Oz.",
+      "price": 7.0
+    },
+    {
+      "quantity": 1,
+      "name": "Signature SELECT Cereal Corn Flakes - 18 Oz",
+      "price": 3.99
+    },
+    {
+      "quantity": 1,
+      "name": "Signature SELECT Bread Crumbs Original - 15 Oz",
+      "price": 2.49
+    },
+    {
+      "quantity": 2,
+      "name": "Campbell's Chunky Healthy Request Chicken Noodle Soup - 18.6 Oz",
+      "price": 5.98
+    },
+    {
+      "quantity": 1,
+      "name": "Prego Traditional Pasta Sauce - 24 Oz",
+      "price": 1.99
+    },
+    {
+      "quantity": 2,
+      "name": "TOSTITOS Salsa Chunky Medium - 15.5 Oz",
+      "price": 9.58
+    },
+    {
+      "quantity": 1,
+      "name": "Philadelphia Original Cream Cheese Spread Tub - 8 Oz",
+      "price": 4.99
+    },
+    {
+      "quantity": 2,
+      "name": "Land O Lakes Spreadable Butter with Canola Oil - 8 Oz",
+      "price": 5.0
+    },
+    {
+      "quantity": 1,
+      "name": "Lucerne Unsalted Sweet Cream Butter Quarters - 16 Oz",
+      "price": 5.99
+    },
+    {
+      "quantity": 1,
+      "name": "Pepperidge Farm Frozen Garlic Bread - 10 Oz",
+      "price": 4.0
+    },
+    {
+      "quantity": 2,
+      "name": "Pepperidge Farm Texas Toast Frozen 5 Cheese Bread - 9.5 Oz",
+      "price": 8.0
+    },
+    {
+      "quantity": 4,
+      "name": "Honeycrisp Apple",
+      "price": 7.98
+    },
+    {
+      "quantity": 3,
+      "name": "Granny Smith Large Apple",
+      "price": 4.48
+    },
+    {
+      "quantity": 3,
+      "name": "Fuji Large Apple",
+      "price": 2.98
+    },
+    {
+      "quantity": 1,
+      "name": "Lemon Large",
+      "price": 1.0
+    },
+    {
+      "quantity": 2,
+      "name": "Broccoli Crown",
+      "price": 5.54
+    },
+    {
+      "quantity": 1,
+      "name": "Cucumber Long Hot House English",
+      "price": 2.99
+    },
+    {
+      "quantity": 1,
+      "name": "Iceberg Lettuce",
+      "price": 2.99
+    },
+    {
+      "quantity": 2,
+      "name": "Yellow Bell Pepper",
+      "price": 4.0
+    },
+    {
+      "quantity": 2,
+      "name": "Orange Bell Pepper",
+      "price": 4.0
+    },
+    {
+      "quantity": 4,
+      "name": "Red Bell Pepper",
+      "price": 8.0
+    },
+    {
+      "quantity": 1,
+      "name": "Organic Romaine Hearts Prepackaged - 3 Count",
+      "price": 4.99
+    },
+    {
+      "quantity": 2,
+      "name": "Organic Celery - 1 Bunch",
+      "price": 7.98
+    },
+    {
+      "quantity": 1,
+      "name": "Organic Grape Tomatoes Prepackaged - 1 Pint",
+      "price": 3.99
+    },
+    {
+      "quantity": 1,
+      "name": "Beef Ground Beef 90% Lean 10% Fat Value Pack - 3.5 Lb",
+      "price": 34.96
+    },
+    {
+      "quantity": 2,
+      "name": "Bob Evans Mashed Potatoes Original - 24 Oz",
+      "price": 9.0
+    },
+    {
+      "quantity": 1,
+      "name": "Oroweat Whole Grains 100% Whole Wheat Bread - 24 Oz",
+      "price": 4.99
+    },
+    {
+      "quantity": 1,
+      "name": "Oroweat Whole Grains Healthy Multi Grain Bread - 24 Oz",
+      "price": 4.99
+    },
+    {
+      "quantity": 1,
+      "name": "Thomas' Onion Pre Sliced Bagels - 20 Oz",
+      "price": 5.89
+    },
+    {
+      "quantity": 1,
+      "name": "Thomas' Original Nooks & Crannies English Muffins - 6 Count",
+      "price": 5.29
+    },
+    {
+      "quantity": 1,
+      "name": "Value Corner Milk Reduced Fat 2% - 1 Gallon",
+      "price": 5.49
+    },
+    {
+      "quantity": 1,
+      "name": "Lucerne Coffee Creamer Irish Cream - 32 Fl. Oz.",
+      "price": 3.99
+    },
+    {
+      "quantity": 3,
+      "name": "Marie Callender's Chicken Pot Pie Frozen Dinner - 10 Oz",
+      "price": 11.97
+    },
+    {
+      "quantity": 3,
+      "name": "Ready Pac Bistro Bowl Cranberry Walnut Salad - 4.5 Oz",
+      "price": 13.47
+    },
+    {
+      "quantity": 3,
+      "name": "Sargento Shredded Sharp Natural Cheddar Cheese Traditional Cut - 8 Oz",
+      "price": 10.5
+    },
+    {
+      "quantity": 3,
+      "name": "Organic White Onion",
+      "price": 6.73
+    },
+    {
+      "quantity": 2,
+      "name": "Signature SELECT Pepperoni Ultra Thin Crust Frozen Pizza - 14.2 Oz",
+      "price": 12.98
+    },
+    {
+      "quantity": 1,
+      "name": "Puffs Plus Lotion White Facial Tissue - 3-124 Count",
+      "price": 5.99
+    },
+    {
+      "quantity": 2,
+      "name": "Alfaro's Artesano Bakery Bread - 20 Oz",
+      "price": 10.98
+    },
+    {
+      "quantity": 3,
+      "name": "Ready Pac Bistro Bowl Kickin' BBQ Style Chicken Salad - 7 Oz",
+      "price": 13.47
+    },
+    {
+      "quantity": 1,
+      "name": "Ovenjoy Hamburger Buns - 12 Oz",
+      "price": 3.49
+    },
+    {
+      "quantity": 1,
+      "name": "Nature Nates Honey Bear - 12 Oz",
+      "price": 7.49
+    },
+    {
+      "quantity": 3,
+      "name": "Birds Eye Baby Broccoli Florets Frozen Vegetables - 12.6 Oz",
+      "price": 10.47
+    },
+    {
+      "quantity": 3,
+      "name": "Birds Eye Steamfresh Broccoli Cuts Frozen Vegetables - 10.8 Oz",
+      "price": 5.97
+    },
+    {
+      "quantity": 1,
+      "name": "Mezzetta Olives Italian Castelvetrano Pitted - 8 Oz",
+      "price": 8.99
+    },
+    {
+      "quantity": 2,
+      "name": "Ground Beef 80% Lean 20% Fat Mega Pack - 6 Lb",
+      "price": 47.88
+    },
+    {
+      "quantity": 1,
+      "name": "Daves Killer Bread Cinnamon Raisin Remix Bagel Organic 5 Count - 16.75 Oz",
+      "price": 6.99
+    },
+    {
+      "quantity": 1,
+      "name": "Ocean Spray Craisins Cranberries Dried Reduced Sugar 50% Less Resealable - 20 Oz",
+      "price": 6.99
+    },
+    {
+      "quantity": 1,
+      "name": "Hebrew National Beef Franks Hot Dogs -20-34.1 Oz",
+      "price": 17.49
+    },
+    {
+      "quantity": 1,
+      "name": "Lucerne Farms Eggs Cage Free Large - 18 Count",
+      "price": 12.99
+    },
+    {
+      "quantity": 1,
+      "name": "Lucerne Farms Eggs Hard Cooked Peeled Medium 6 Count - 9 Oz",
+      "price": 4.79
+    },
+    {
+      "quantity": 8,
+      "name": "Sumo Citrus",
+      "price": 31.92
+    },
+    {
+      "quantity": 2,
+      "name": "bubly Sparkling Water Mango Cans - 8-12 Fl. Oz.",
+      "price": 9.0
+    },
+    {
+      "quantity": 1,
+      "name": "Yummy Dino Buddies - 35 Oz",
+      "price": 9.49
+    },
+    {
+      "quantity": 1,
+      "name": "Eggland's Best Three Cheese Frozen Omelet - 2 Count",
+      "price": 5.99
+    },
+    {
+      "quantity": 1,
+      "name": "Mission Strips White Corn Tortilla Chips - 18 Oz",
+      "price": 4.79
+    },
+    {
+      "quantity": 1,
+      "name": "McCormick Original Taco Seasoning Mix - 8.5 Oz",
+      "price": 7.49
+    },
+    {
+      "quantity": 2,
+      "name": "Bubly Sparkling Water Coconut Pineapple - 8-12 FZ",
+      "price": 9.0
+    },
+    {
+      "quantity": 2,
+      "name": "Campbell's Chunky Spicy Chicken Noodle Soup - 18.6 Oz",
+      "price": 5.98
+    },
+    {
+      "quantity": 2,
+      "name": "Just Bare Fully Cooked Lightly Breaded Chicken Breast Strips - 24 Oz",
+      "price": 19.98
+    },
+    {
+      "quantity": 1,
+      "name": "Dawn Ultra Ezs Orig - 14.7 FZ",
+      "price": 3.49
+    },
+    {
+      "quantity": 1,
+      "name": "Hormel Lemon Garlic Pork Loin Fillet - 24 oz",
+      "price": 5.99
+    },
+    {
+      "quantity": 1,
+      "name": "Hormel Herb Pork Loin Filet - 18.4 OZ",
+      "price": 5.99
+    },
+    {
+      "quantity": 2,
+      "name": "LaCroix Berry Sparkling Water - 8-12 Oz",
+      "price": 8.0
+    },
+    {
+      "quantity": 1,
+      "name": "Tide Lq Pods Free & Gentle Tub - 112 CT",
+      "price": 28.99
+    },
+    {
+      "quantity": 1,
+      "name": "Kettle Brand Jalapeno Kettle Potato Chips - 7.5 Oz",
+      "price": 3.99
+    },
+    {
+      "quantity": 1,
+      "name": "Kettle Brand Sea Salt and Vinegar Kettle Potato Chips - 7.5 Oz",
+      "price": 3.99
+    },
+    {
+      "quantity": 2,
+      "name": "Ortega Yellow Corn Taco Shells 12ct - 4.9 OZ",
+      "price": 7.98
+    },
+    {
+      "quantity": 3,
+      "name": "Cinnamon Twist Donut - Each (available between 6 AM to 2 PM)",
+      "price": 2.97
+    },
+    {
+      "quantity": 1,
+      "name": "Signature SELECT Yellow Corn Tortilla Chips - 11 Oz",
+      "price": 2.49
+    },
+    {
+      "quantity": 1,
+      "name": "Bounty 12 Double Roll Select A Size White Tissue - 12 Count",
+      "price": 25.99
+    },
+    {
+      "quantity": 2,
+      "name": "Just Bare Lightly Breaded Chicken Breast Spicy Strip - 24 Oz",
+      "price": 19.98
+    },
+    {
+      "quantity": 1,
+      "name": "Quilted Northern Ultra Toilet Paper Mega Rolls - 18 Count",
+      "price": 19.99
+    },
+    {
+      "quantity": 1,
+      "name": "Hormel Garlic Ginger Pork Loin Filet - 24 Oz",
+      "price": 5.99
+    }
+  ],
+  "order_number": "112503582",
+  "pickup_date": "Saturday, January 11, 2025",
+  "pickup_time": "10:00 AM - 8:00 PM",
+  "pickup_address": "95073 |, ",
+  "subtotal": 647.66,
+  "total": 668.09,
+  "taxes_and_fees": 20.43,
+  "savings": {
+    "total": 244.98,
+    "member_price": 172.89,
+    "safeway_for_u": 68.09
+  },
+  "payment_method": "Card ending in 7899"
+}

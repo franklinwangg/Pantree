@@ -1,0 +1,153 @@
+{
+  "store": "Safeway",
+  "customer_id": "customer_06",
+  "customer_name": "Robert Martinez",
+  "archetype": "budget_conscious",
+  "order_number": "657918040",
+  "subject": "06/06/25 Safeway",
+  "email_date": "Fri, 06 Jun 2025 14:23:15 +0000",
+  "pickup_date": "Friday, June 06, 2025",
+  "pickup_time": "8:00 AM - 4:00 PM",
+  "pickup_address": "2720 41st Ave, Soquel, CA 95073",
+  "items": [
+    {
+      "quantity": 2,
+      "name": "Roma Tomatoes - 1 Lb",
+      "price": 5.62
+    },
+    {
+      "quantity": 1,
+      "name": "Garlic Bulb",
+      "price": 0.91
+    },
+    {
+      "quantity": 3,
+      "name": "Bananas - 1 Lb",
+      "price": 2.35
+    },
+    {
+      "quantity": 1,
+      "name": "Celery Bunch",
+      "price": 1.68
+    },
+    {
+      "quantity": 2,
+      "name": "Fresh Blueberries - 6 Oz",
+      "price": 7.67
+    },
+    {
+      "quantity": 1,
+      "name": "Fresh Cilantro Bunch",
+      "price": 1.54
+    },
+    {
+      "quantity": 1,
+      "name": "Boneless Skinless Chicken Breasts Value Pack - 3.5 Lb",
+      "price": 21.08
+    },
+    {
+      "quantity": 3,
+      "name": "Chicken Thighs Bone-In - 3 Lb",
+      "price": 41.48
+    },
+    {
+      "quantity": 3,
+      "name": "Chicken Thighs Bone-In - 3 Lb",
+      "price": 40.54
+    },
+    {
+      "quantity": 2,
+      "name": "Ham Deli Honey - 1 Lb",
+      "price": 20.21
+    },
+    {
+      "quantity": 1,
+      "name": "Pork Loin Chops Value Pack - 4 Lb",
+      "price": 14.05
+    },
+    {
+      "quantity": 1,
+      "name": "Whole Milk - 1 Gallon",
+      "price": 4.6
+    },
+    {
+      "quantity": 1,
+      "name": "Shredded Cheese Mozzarella - 8 Oz",
+      "price": 3.6
+    },
+    {
+      "quantity": 1,
+      "name": "Yogurt Cups Variety Pack - 6 Count",
+      "price": 5.63
+    },
+    {
+      "quantity": 1,
+      "name": "White Rice Long Grain - 5 Lb",
+      "price": 5.78
+    },
+    {
+      "quantity": 2,
+      "name": "White Rice Long Grain - 5 Lb",
+      "price": 14.13
+    },
+    {
+      "quantity": 3,
+      "name": "Brown Rice - 2 Lb",
+      "price": 13.73
+    },
+    {
+      "quantity": 1,
+      "name": "Pasta Spaghetti - 16 Oz",
+      "price": 1.53
+    },
+    {
+      "quantity": 1,
+      "name": "Potato Chips Classic - 10 Oz",
+      "price": 4.57
+    },
+    {
+      "quantity": 2,
+      "name": "Fruit Snacks - 22 Count",
+      "price": 16.12
+    },
+    {
+      "quantity": 2,
+      "name": "Orange Juice - 64 Fl. Oz.",
+      "price": 13.51
+    },
+    {
+      "quantity": 1,
+      "name": "Coca-Cola 12 Pack Cans - 12 Fl. Oz.",
+      "price": 7.03
+    },
+    {
+      "quantity": 1,
+      "name": "Apple Juice - 64 Fl. Oz.",
+      "price": 5.78
+    },
+    {
+      "quantity": 1,
+      "name": "Sparkling Water Variety - 12 Pack",
+      "price": 7.27
+    },
+    {
+      "quantity": 3,
+      "name": "Vegetable Oil - 48 Fl. Oz.",
+      "price": 16.88
+    },
+    {
+      "quantity": 2,
+      "name": "Chicken Broth - 32 Oz",
+      "price": 6.0
+    }
+  ],
+  "subtotal": 283.28999999999996,
+  "total": 244.54,
+  "taxes_and_fees": 16.03,
+  "savings": {
+    "total": 54.78,
+    "member_price": 45.06,
+    "safeway_for_u": 9.72
+  },
+  "payment_method": "Card ending in 9071"
+}

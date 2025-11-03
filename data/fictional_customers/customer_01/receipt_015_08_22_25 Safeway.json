@@ -1,0 +1,143 @@
+{
+  "store": "Safeway",
+  "customer_id": "customer_01",
+  "customer_name": "Sarah Mitchell",
+  "archetype": "health_conscious",
+  "order_number": "375381074",
+  "subject": "08/22/25 Safeway",
+  "email_date": "Fri, 22 Aug 2025 14:23:15 +0000",
+  "pickup_date": "Friday, August 22, 2025",
+  "pickup_time": "8:00 AM - 4:00 PM",
+  "pickup_address": "2720 41st Ave, Soquel, CA 95073",
+  "items": [
+    {
+      "quantity": 1,
+      "name": "Roma Tomatoes - 1 Lb",
+      "price": 2.92
+    },
+    {
+      "quantity": 4,
+      "name": "White Onion",
+      "price": 9.46
+    },
+    {
+      "quantity": 3,
+      "name": "Bananas - 1 Lb",
+      "price": 3.05
+    },
+    {
+      "quantity": 3,
+      "name": "Fresh Spinach - 10 Oz",
+      "price": 14.27
+    },
+    {
+      "quantity": 1,
+      "name": "Organic Baby Carrots - 1 Lb",
+      "price": 3.14
+    },
+    {
+      "quantity": 1,
+      "name": "Organic Baby Carrots - 1 Lb",
+      "price": 3.76
+    },
+    {
+      "quantity": 4,
+      "name": "Fresh Strawberries - 1 Lb",
+      "price": 20.13
+    },
+    {
+      "quantity": 1,
+      "name": "Large Eggs Grade A - 18 Count",
+      "price": 4.72
+    },
+    {
+      "quantity": 1,
+      "name": "80% Lean 20% Fat Ground Beef Value Pack - 3 Lb",
+      "price": 18.52
+    },
+    {
+      "quantity": 1,
+      "name": "80% Lean 20% Fat Ground Beef Value Pack - 3 Lb",
+      "price": 17.25
+    },
+    {
+      "quantity": 2,
+      "name": "Boneless Skinless Chicken Breasts Value Pack - 3.5 Lb",
+      "price": 50.79
+    },
+    {
+      "quantity": 1,
+      "name": "Tilapia Fillets Frozen - 2 Lb",
+      "price": 12.67
+    },
+    {
+      "quantity": 2,
+      "name": "Pork Loin Chops Value Pack - 4 Lb",
+      "price": 33.14
+    },
+    {
+      "quantity": 1,
+      "name": "Sour Cream - 16 Oz",
+      "price": 3.68
+    },
+    {
+      "quantity": 1,
+      "name": "Sour Cream - 16 Oz",
+      "price": 4.1
+    },
+    {
+      "quantity": 2,
+      "name": "Cottage Cheese - 16 Oz",
+      "price": 9.72
+    },
+    {
+      "quantity": 2,
+      "name": "Cheddar Cheese Block Sharp - 8 Oz",
+      "price": 9.18
+    },
+    {
+      "quantity": 2,
+      "name": "White Rice Long Grain - 5 Lb",
+      "price": 12.93
+    },
+    {
+      "quantity": 2,
+      "name": "Dinner Rolls - 12 Count",
+      "price": 7.61
+    },
+    {
+      "quantity": 1,
+      "name": "Cheese Crackers - 12 Oz",
+      "price": 5.04
+    },
+    {
+      "quantity": 1,
+      "name": "Orange Juice - 64 Fl. Oz.",
+      "price": 5.36
+    },
+    {
+      "quantity": 2,
+      "name": "Energy Drink - 4 Pack",
+      "price": 19.6
+    },
+    {
+      "quantity": 1,
+      "name": "Tomato Sauce - 24 Oz",
+      "price": 2.29
+    },
+    {
+      "quantity": 1,
+      "name": "Soy Sauce - 15 Fl. Oz.",
+      "price": 4.02
+    }
+  ],
+  "subtotal": 277.35,
+  "total": 281.38,
+  "taxes_and_fees": 21.57,
+  "savings": {
+    "total": 17.54,
+    "member_price": 15.33,
+    "safeway_for_u": 2.21
+  },
+  "payment_method": "Card ending in 9118"
+}

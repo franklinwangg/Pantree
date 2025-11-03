@@ -1,0 +1,113 @@
+{
+  "store": "Safeway",
+  "customer_id": "customer_08",
+  "customer_name": "Chris Anderson",
+  "archetype": "single_professional",
+  "order_number": "452424094",
+  "subject": "07/22/25 Safeway",
+  "email_date": "Tue, 22 Jul 2025 14:23:15 +0000",
+  "pickup_date": "Tuesday, July 22, 2025",
+  "pickup_time": "12:00 PM - 8:00 PM",
+  "pickup_address": "2720 41st Ave, Soquel, CA 95073",
+  "items": [
+    {
+      "quantity": 2,
+      "name": "Fresh Spinach - 10 Oz",
+      "price": 9.78
+    },
+    {
+      "quantity": 1,
+      "name": "Russet Potatoes - 5 Lb",
+      "price": 4.61
+    },
+    {
+      "quantity": 1,
+      "name": "Fresh Blueberries - 6 Oz",
+      "price": 4.54
+    },
+    {
+      "quantity": 1,
+      "name": "80% Lean 20% Fat Ground Beef Value Pack - 3 Lb",
+      "price": 17.13
+    },
+    {
+      "quantity": 2,
+      "name": "Large Eggs Grade A - 18 Count",
+      "price": 12.31
+    },
+    {
+      "quantity": 2,
+      "name": "Pork Sausage Links - 1 Lb",
+      "price": 14.62
+    },
+    {
+      "quantity": 1,
+      "name": "Turkey Breast Sliced Deli - 1 Lb",
+      "price": 10.67
+    },
+    {
+      "quantity": 1,
+      "name": "Sour Cream - 16 Oz",
+      "price": 3.94
+    },
+    {
+      "quantity": 1,
+      "name": "Cream Cheese - 8 Oz",
+      "price": 3.1
+    },
+    {
+      "quantity": 2,
+      "name": "Parmesan Cheese Grated - 8 Oz",
+      "price": 15.12
+    },
+    {
+      "quantity": 1,
+      "name": "Pasta Spaghetti - 16 Oz",
+      "price": 2.09
+    },
+    {
+      "quantity": 3,
+      "name": "Potato Chips Classic - 10 Oz",
+      "price": 17.95
+    },
+    {
+      "quantity": 1,
+      "name": "Potato Chips Classic - 10 Oz",
+      "price": 5.04
+    },
+    {
+      "quantity": 1,
+      "name": "Nuts Mixed Roasted - 16 Oz",
+      "price": 10.9
+    },
+    {
+      "quantity": 1,
+      "name": "Coca-Cola 12 Pack Cans - 12 Fl. Oz.",
+      "price": 7.35
+    },
+    {
+      "quantity": 1,
+      "name": "Diet Coke 12 Pack Cans - 12 Fl. Oz.",
+      "price": 6.69
+    },
+    {
+      "quantity": 1,
+      "name": "Vegetable Oil - 48 Fl. Oz.",
+      "price": 6.86
+    },
+    {
+      "quantity": 1,
+      "name": "Strawberry Jam - 18 Oz",
+      "price": 5.26
+    }
+  ],
+  "subtotal": 157.96,
+  "total": 160.7,
+  "taxes_and_fees": 11.61,
+  "savings": {
+    "total": 8.87,
+    "member_price": 6.54,
+    "safeway_for_u": 2.33
+  },
+  "payment_method": "Card ending in 3679"
+}

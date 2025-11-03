@@ -1,0 +1,98 @@
+{
+  "store": "Safeway",
+  "customer_id": "customer_08",
+  "customer_name": "Chris Anderson",
+  "archetype": "single_professional",
+  "order_number": "701773045",
+  "subject": "05/27/25 Safeway",
+  "email_date": "Tue, 27 May 2025 14:23:15 +0000",
+  "pickup_date": "Tuesday, May 27, 2025",
+  "pickup_time": "12:00 PM - 8:00 PM",
+  "pickup_address": "2720 41st Ave, Soquel, CA 95073",
+  "items": [
+    {
+      "quantity": 4,
+      "name": "Lettuce Iceberg",
+      "price": 10.83
+    },
+    {
+      "quantity": 1,
+      "name": "Seedless Cucumbers - 2 Count",
+      "price": 3.66
+    },
+    {
+      "quantity": 2,
+      "name": "Boneless Skinless Chicken Breasts Value Pack - 3.5 Lb",
+      "price": 42.4
+    },
+    {
+      "quantity": 1,
+      "name": "Chicken Thighs Bone-In - 3 Lb",
+      "price": 14.21
+    },
+    {
+      "quantity": 1,
+      "name": "Turkey Breast Sliced Deli - 1 Lb",
+      "price": 10.12
+    },
+    {
+      "quantity": 1,
+      "name": "All Natural Chicken Tenders - 1 Lb",
+      "price": 8.06
+    },
+    {
+      "quantity": 1,
+      "name": "Cream Cheese - 8 Oz",
+      "price": 3.45
+    },
+    {
+      "quantity": 1,
+      "name": "Butter Salted - 16 Oz",
+      "price": 7.2
+    },
+    {
+      "quantity": 1,
+      "name": "Heavy Whipping Cream - 16 Oz",
+      "price": 4.83
+    },
+    {
+      "quantity": 2,
+      "name": "Pasta Spaghetti - 16 Oz",
+      "price": 5.81
+    },
+    {
+      "quantity": 2,
+      "name": "Granola Bars Variety Pack - 12 Count",
+      "price": 12.95
+    },
+    {
+      "quantity": 1,
+      "name": "Granola Bars Variety Pack - 12 Count",
+      "price": 7.21
+    },
+    {
+      "quantity": 1,
+      "name": "Pretzels - 16 Oz",
+      "price": 4.01
+    },
+    {
+      "quantity": 1,
+      "name": "Iced Tea Lemon - 64 Fl. Oz.",
+      "price": 3.12
+    },
+    {
+      "quantity": 3,
+      "name": "Strawberry Jam - 18 Oz",
+      "price": 15.93
+    }
+  ],
+  "subtotal": 153.79000000000002,
+  "total": 155.57,
+  "taxes_and_fees": 13.08,
+  "savings": {
+    "total": 11.3,
+    "member_price": 10.35,
+    "safeway_for_u": 0.95
+  },
+  "payment_method": "Card ending in 3810"
+}

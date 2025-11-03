@@ -1,0 +1,198 @@
+{
+  "store": "Safeway",
+  "customer_id": "customer_05",
+  "customer_name": "Lisa Thompson",
+  "archetype": "busy_family",
+  "order_number": "400560038",
+  "subject": "07/01/25 Safeway",
+  "email_date": "Tue, 01 Jul 2025 14:23:15 +0000",
+  "pickup_date": "Tuesday, July 01, 2025",
+  "pickup_time": "10:00 AM - 6:00 PM",
+  "pickup_address": "2720 41st Ave, Soquel, CA 95073",
+  "items": [
+    {
+      "quantity": 1,
+      "name": "Garlic Bulb",
+      "price": 1.39
+    },
+    {
+      "quantity": 4,
+      "name": "Bananas - 1 Lb",
+      "price": 3.32
+    },
+    {
+      "quantity": 1,
+      "name": "Lettuce Iceberg",
+      "price": 2.08
+    },
+    {
+      "quantity": 2,
+      "name": "Fresh Broccoli Crowns",
+      "price": 5.35
+    },
+    {
+      "quantity": 3,
+      "name": "Green Grapes - 2 Lb",
+      "price": 23.77
+    },
+    {
+      "quantity": 4,
+      "name": "Boneless Skinless Chicken Breasts Value Pack - 3.5 Lb",
+      "price": 99.42
+    },
+    {
+      "quantity": 2,
+      "name": "Chicken Thighs Bone-In - 3 Lb",
+      "price": 23.03
+    },
+    {
+      "quantity": 2,
+      "name": "80% Lean 20% Fat Ground Beef Value Pack - 3 Lb",
+      "price": 27.24
+    },
+    {
+      "quantity": 2,
+      "name": "80% Lean 20% Fat Ground Beef Value Pack - 3 Lb",
+      "price": 31.37
+    },
+    {
+      "quantity": 1,
+      "name": "All Natural Chicken Tenders - 1 Lb",
+      "price": 9.18
+    },
+    {
+      "quantity": 1,
+      "name": "96% Lean 4% Fat Ground Beef - 1.35 Lb",
+      "price": 16.41
+    },
+    {
+      "quantity": 2,
+      "name": "96% Lean 4% Fat Ground Beef - 1.35 Lb",
+      "price": 35.13
+    },
+    {
+      "quantity": 4,
+      "name": "Cream Cheese - 8 Oz",
+      "price": 14.36
+    },
+    {
+      "quantity": 1,
+      "name": "Sour Cream - 16 Oz",
+      "price": 3.69
+    },
+    {
+      "quantity": 3,
+      "name": "Cream Cheese - 8 Oz",
+      "price": 11.52
+    },
+    {
+      "quantity": 1,
+      "name": "Half and Half - 32 Oz",
+      "price": 4.88
+    },
+    {
+      "quantity": 1,
+      "name": "Heavy Whipping Cream - 16 Oz",
+      "price": 4.71
+    },
+    {
+      "quantity": 2,
+      "name": "White Rice Long Grain - 5 Lb",
+      "price": 13.45
+    },
+    {
+      "quantity": 3,
+      "name": "White Bread Sandwich - 24 Oz",
+      "price": 12.04
+    },
+    {
+      "quantity": 1,
+      "name": "Quinoa Organic - 16 Oz",
+      "price": 7.04
+    },
+    {
+      "quantity": 1,
+      "name": "Pasta Penne - 16 Oz",
+      "price": 2.96
+    },
+    {
+      "quantity": 2,
+      "name": "Potato Chips Classic - 10 Oz",
+      "price": 9.03
+    },
+    {
+      "quantity": 1,
+      "name": "Crackers Saltine - 16 Oz",
+      "price": 3.86
+    },
+    {
+      "quantity": 1,
+      "name": "Crackers Saltine - 16 Oz",
+      "price": 3.97
+    },
+    {
+      "quantity": 1,
+      "name": "Fruit Snacks - 22 Count",
+      "price": 6.68
+    },
+    {
+      "quantity": 2,
+      "name": "Rice Cakes - 9 Oz",
+      "price": 7.87
+    },
+    {
+      "quantity": 1,
+      "name": "Fruit Snacks - 22 Count",
+      "price": 6.18
+    },
+    {
+      "quantity": 1,
+      "name": "Coca-Cola 12 Pack Cans - 12 Fl. Oz.",
+      "price": 7.43
+    },
+    {
+      "quantity": 1,
+      "name": "Coca-Cola 12 Pack Cans - 12 Fl. Oz.",
+      "price": 6.55
+    },
+    {
+      "quantity": 2,
+      "name": "Sparkling Water Variety - 12 Pack",
+      "price": 13.78
+    },
+    {
+      "quantity": 2,
+      "name": "Tomato Sauce - 24 Oz",
+      "price": 5.02
+    },
+    {
+      "quantity": 3,
+      "name": "Salt Iodized - 26 Oz",
+      "price": 6.65
+    },
+    {
+      "quantity": 2,
+      "name": "Vegetable Oil - 48 Fl. Oz.",
+      "price": 14.01
+    },
+    {
+      "quantity": 2,
+      "name": "Canned Tomatoes Diced - 14.5 Oz",
+      "price": 3.02
+    },
+    {
+      "quantity": 2,
+      "name": "Strawberry Jam - 18 Oz",
+      "price": 9.47
+    }
+  ],
+  "subtotal": 455.85999999999996,
+  "total": 396.89,
+  "taxes_and_fees": 27.42,
+  "savings": {
+    "total": 86.39,
+    "member_price": 77.07,
+    "safeway_for_u": 9.32
+  },
+  "payment_method": "Card ending in 3596"
+}

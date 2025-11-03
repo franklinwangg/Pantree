@@ -1,0 +1,179 @@
+{
+  "store": "Safeway",
+  "subject": "07/04/24 Safeway",
+  "email_date": "Thu, 3 Jul 2025 05:52:52 +0000 (UTC)",
+  "items": [
+    {
+      "quantity": 2,
+      "name": "Pepperidge Farm Goldfish Pretzel Crackers - 8 Oz",
+      "price": 7.98
+    },
+    {
+      "quantity": 2,
+      "name": "Pepperidge Farm Goldfish Flavor Blasted Xtra Cheddar Cheese Crackers - 6.6 Oz",
+      "price": 7.98
+    },
+    {
+      "quantity": 2,
+      "name": "Mt. Olive Pickles Chips Bread & Butter Chips Old-Fashioned Sweet - 24 Fl. Oz.",
+      "price": 6.0
+    },
+    {
+      "quantity": 4,
+      "name": "Bush's Original Baked Beans - 28 Oz",
+      "price": 10.0
+    },
+    {
+      "quantity": 1,
+      "name": "Pace Salsa - Mild - 16 Oz",
+      "price": 2.5
+    },
+    {
+      "quantity": 2,
+      "name": "Barilla Protein+ Spaghetti Pasta - 14.5 Oz",
+      "price": 7.98
+    },
+    {
+      "quantity": 1,
+      "name": "Prego Traditional Pasta Sauce - 24 Oz",
+      "price": 3.99
+    },
+    {
+      "quantity": 1,
+      "name": "Prego Tomato Basil Garlic Pasta Sauce - 24 Oz",
+      "price": 3.99
+    },
+    {
+      "quantity": 2,
+      "name": "Yellow Onion",
+      "price": 1.5
+    },
+    {
+      "quantity": 2,
+      "name": "Red Bell Pepper",
+      "price": 4.0
+    },
+    {
+      "quantity": 1,
+      "name": "Ground Beef 80% Lean 20% Fat Value Pack - 3 Lbs.",
+      "price": 19.47
+    },
+    {
+      "quantity": 1,
+      "name": "Bob Evans Mashed Potatoes Original - 24 Oz",
+      "price": 4.0
+    },
+    {
+      "quantity": 1,
+      "name": "Jif Peanut Butter Creamy - 28 Oz",
+      "price": 6.99
+    },
+    {
+      "quantity": 1,
+      "name": "Strawberries Prepacked - 2 Lb",
+      "price": 5.0
+    },
+    {
+      "quantity": 1,
+      "name": "TOSTITOS Salsa Con Queso Medium - 15 Oz",
+      "price": 5.69
+    },
+    {
+      "quantity": 1,
+      "name": "Blueberries Prepacked - 18 Oz",
+      "price": 6.99
+    },
+    {
+      "quantity": 1,
+      "name": "Value Corner Milk Reduced Fat 2% - 1 Gallon",
+      "price": 4.29
+    },
+    {
+      "quantity": 1,
+      "name": "Delimex Beef Corn Taquitos Frozen Snacks Box - 23 Count",
+      "price": 7.49
+    },
+    {
+      "quantity": 1,
+      "name": "Delimex White Meat Chicken Corn Taquitos Frozen Snacks Box - 23 Count",
+      "price": 7.49
+    },
+    {
+      "quantity": 4,
+      "name": "Signature SELECT Pepperoni Ultra Thin Crust Frozen Pizza - 14.2 Oz",
+      "price": 25.96
+    },
+    {
+      "quantity": 1,
+      "name": "Ovenjoy Hamburger Buns - 12 Oz",
+      "price": 1.49
+    },
+    {
+      "quantity": 4,
+      "name": "Birds Eye Baby Broccoli Florets Frozen Vegetables - 12.6 Oz",
+      "price": 14.0
+    },
+    {
+      "quantity": 1,
+      "name": "Signature SELECT Refreshe Purified Drinking Water - 35-16.9 Fl Oz",
+      "price": 3.99
+    },
+    {
+      "quantity": 1,
+      "name": "Hebrew National Beef Franks Hot Dogs -20-34.1 Oz",
+      "price": 15.99
+    },
+    {
+      "quantity": 2,
+      "name": "Kodiak Blueberry Power Waffles Box - 10.72 Oz",
+      "price": 13.98
+    },
+    {
+      "quantity": 4,
+      "name": "Granny Smith Apple Extra Large",
+      "price": 5.98
+    },
+    {
+      "quantity": 1,
+      "name": "Nestle Toll House Vanilla Chocolate Chip Cookie Sandwiches - 7 Count",
+      "price": 8.99
+    },
+    {
+      "quantity": 2,
+      "name": "Signature SELECT Buns Hot Dog - 13 Oz",
+      "price": 2.98
+    },
+    {
+      "quantity": 1,
+      "name": "Sensible Portions Garden Veggie Straws Sea Salt - 12 Oz",
+      "price": 7.49
+    },
+    {
+      "quantity": 2,
+      "name": "Hormel Black Label Bacon Microwave Ready - 12 Oz",
+      "price": 23.98
+    },
+    {
+      "quantity": 2,
+      "name": "LaCroix Guava Sao Paulo Core Sparkling Water - 8-12 Oz",
+      "price": 8.0
+    },
+    {
+      "quantity": 2,
+      "name": "Quaker Simply Granola Protein Maple Brown Sugar - 18 Oz",
+      "price": 12.98
+    }
+  ],
+  "order_number": "94173892",
+  "pickup_date": null,
+  "pickup_time": "12:00 PM - 4:00 PM",
+  "pickup_address": null,
+  "subtotal": 248.14,
+  "total": 262.66,
+  "taxes_and_fees": 8.52,
+  "savings": {
+    "total": 68.23,
+    "member_price": 58.23
+  },
+  "payment_method": "Card ending in 3676"
+}

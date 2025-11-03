@@ -1,0 +1,155 @@
+{
+  "store": "Safeway",
+  "subject": "03/02/25 Safeway",
+  "email_date": "Thu, 3 Jul 2025 05:46:28 +0000 (UTC)",
+  "items": [
+    {
+      "quantity": 1,
+      "name": "Campbell's 100% Tomato Juice - 64 Fl. Oz.",
+      "price": 4.99
+    },
+    {
+      "quantity": 8,
+      "name": "Diet Coke Soda Pop Cola - 2 Liter",
+      "price": 30.32
+    },
+    {
+      "quantity": 3,
+      "name": "Diet Coke Soda Pop Cola 12 Count - 12 Fl. Oz.",
+      "price": 35.97
+    },
+    {
+      "quantity": 1,
+      "name": "Cheese Cake Factory Wheat Rolls",
+      "price": 4.99
+    },
+    {
+      "quantity": 1,
+      "name": "Ovenjoy Hamburger Buns - 12 Oz",
+      "price": 3.49
+    },
+    {
+      "quantity": 1,
+      "name": "McCormick Gourmet Organic Chili Powder - 1.75 Oz",
+      "price": 5.99
+    },
+    {
+      "quantity": 1,
+      "name": "Mt. Olive Pickles Chips Bread & Butter Chips Old-Fashioned Sweet - 24 Fl. Oz.",
+      "price": 3.99
+    },
+    {
+      "quantity": 1,
+      "name": "Sweet Baby Rays Sauce Barbecue - 28 Oz",
+      "price": 4.99
+    },
+    {
+      "quantity": 1,
+      "name": "HERSHEY'S Kisses Milk Chocolate Candy Party Pack - 35.8 Oz.",
+      "price": 14.99
+    },
+    {
+      "quantity": 2,
+      "name": "Werthers Original Candy Chewy Caramel - 10.8 Oz",
+      "price": 9.98
+    },
+    {
+      "quantity": 1,
+      "name": "York Dark Chocolate Peppermint Patties Candy Party Pack - 35.2 Oz",
+      "price": 14.99
+    },
+    {
+      "quantity": 1,
+      "name": "Lucerne Farms Eggs Cage Free Large - 18 Count",
+      "price": 15.49
+    },
+    {
+      "quantity": 1,
+      "name": "Simply Potatoes Potato Mashed Traditional - 24 Oz",
+      "price": 5.49
+    },
+    {
+      "quantity": 2,
+      "name": "Birds Eye Baby Broccoli Florets Frozen Vegetables - 12.6 Oz",
+      "price": 6.98
+    },
+    {
+      "quantity": 1,
+      "name": "New York Ciabatta With Cheese - 10 Oz",
+      "price": 4.99
+    },
+    {
+      "quantity": 1,
+      "name": "P.F. Chang's Home Menu Vegetable Egg Rolls Frozen Appetizer - 8.8 Oz",
+      "price": 5.49
+    },
+    {
+      "quantity": 3,
+      "name": "Ready Pac Apple And Butter Lettuce Salad With Chicken - 5.8 Oz",
+      "price": 13.47
+    },
+    {
+      "quantity": 3,
+      "name": "Ready Pac Bistro Bowl Cranberry Walnut Salad - 4.5 Oz",
+      "price": 13.47
+    },
+    {
+      "quantity": 3,
+      "name": "Ready Pac Bistro Bowl Kickin' BBQ Style Chicken Salad - 7 Oz",
+      "price": 13.47
+    },
+    {
+      "quantity": 4,
+      "name": "Red Bell Pepper",
+      "price": 8.0
+    },
+    {
+      "quantity": 1,
+      "name": "White Onion",
+      "price": 1.87
+    },
+    {
+      "quantity": 4,
+      "name": "Barilla Protein+ Rotini Pasta - 14.5 Oz",
+      "price": 15.96
+    },
+    {
+      "quantity": 3,
+      "name": "Signature Select Ground Beef Loaf 90% Lean 10% Fat",
+      "price": 53.96
+    },
+    {
+      "quantity": 2,
+      "name": "Cottonelle Ultra Clean Mega Toilet Paper Rolls, 284 Sheets Per Roll - 6 Count",
+      "price": 15.98
+    },
+    {
+      "quantity": 1,
+      "name": "Hefty Trash Bags Drawstring Extra Strong Multipurpose Large 30 Gallon Mega Pack - 56 Count",
+      "price": 19.99
+    },
+    {
+      "quantity": 2,
+      "name": "Quilted Northern Ultra Toilet Paper Mega Rolls - 18 Count",
+      "price": 35.98
+    },
+    {
+      "quantity": 1,
+      "name": "Signature SELECT Ultra Softly Facial Tissue Cube 4 Pack - 4 - 60 Count",
+      "price": 6.99
+    }
+  ],
+  "order_number": "117969010",
+  "pickup_date": "Sunday, March 02, 2025",
+  "pickup_time": "11:00 AM - 10:00 PM",
+  "pickup_address": "95073 |, ",
+  "subtotal": 319.07,
+  "total": 333.22,
+  "taxes_and_fees": 14.15,
+  "savings": {
+    "total": 95.7,
+    "member_price": 69.82,
+    "safeway_for_u": 13.88
+  },
+  "payment_method": "Card ending in 3643"
+}

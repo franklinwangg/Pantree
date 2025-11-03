@@ -1,0 +1,223 @@
+{
+  "store": "Safeway",
+  "customer_id": "customer_03",
+  "customer_name": "Jennifer Rodriguez",
+  "archetype": "busy_family",
+  "order_number": "429550973",
+  "subject": "06/05/25 Safeway",
+  "email_date": "Thu, 05 Jun 2025 14:23:15 +0000",
+  "pickup_date": "Thursday, June 05, 2025",
+  "pickup_time": "8:00 AM - 4:00 PM",
+  "pickup_address": "2720 41st Ave, Soquel, CA 95073",
+  "items": [
+    {
+      "quantity": 2,
+      "name": "Bananas - 1 Lb",
+      "price": 2.47
+    },
+    {
+      "quantity": 3,
+      "name": "White Onion",
+      "price": 4.02
+    },
+    {
+      "quantity": 1,
+      "name": "Lettuce Iceberg",
+      "price": 2.18
+    },
+    {
+      "quantity": 2,
+      "name": "Carrots - 2 Lb Bag",
+      "price": 4.21
+    },
+    {
+      "quantity": 4,
+      "name": "Green Grapes - 2 Lb",
+      "price": 20.93
+    },
+    {
+      "quantity": 3,
+      "name": "Green Grapes - 2 Lb",
+      "price": 21.74
+    },
+    {
+      "quantity": 2,
+      "name": "Sweet Potatoes - 3 Lb",
+      "price": 9.35
+    },
+    {
+      "quantity": 1,
+      "name": "80% Lean 20% Fat Ground Beef Value Pack - 3 Lb",
+      "price": 16.83
+    },
+    {
+      "quantity": 1,
+      "name": "Boneless Skinless Chicken Breasts Value Pack - 3.5 Lb",
+      "price": 22.86
+    },
+    {
+      "quantity": 2,
+      "name": "Boneless Skinless Chicken Breasts Value Pack - 3.5 Lb",
+      "price": 51.08
+    },
+    {
+      "quantity": 3,
+      "name": "Boneless Skinless Chicken Breasts Value Pack - 3.5 Lb",
+      "price": 76.93
+    },
+    {
+      "quantity": 1,
+      "name": "Beef Sirloin Steak - 2 Lb",
+      "price": 16.53
+    },
+    {
+      "quantity": 1,
+      "name": "Pork Sausage Links - 1 Lb",
+      "price": 7.8
+    },
+    {
+      "quantity": 1,
+      "name": "Pork Sausage Links - 1 Lb",
+      "price": 8.09
+    },
+    {
+      "quantity": 1,
+      "name": "Shredded Cheese Mozzarella - 8 Oz",
+      "price": 3.64
+    },
+    {
+      "quantity": 1,
+      "name": "Whole Milk - 1 Gallon",
+      "price": 5.6
+    },
+    {
+      "quantity": 1,
+      "name": "Whole Milk - 1 Gallon",
+      "price": 4.1
+    },
+    {
+      "quantity": 2,
+      "name": "Whole Milk - 1 Gallon",
+      "price": 9.01
+    },
+    {
+      "quantity": 1,
+      "name": "Half and Half - 32 Oz",
+      "price": 5.41
+    },
+    {
+      "quantity": 1,
+      "name": "Half and Half - 32 Oz",
+      "price": 4.34
+    },
+    {
+      "quantity": 1,
+      "name": "Cottage Cheese - 16 Oz",
+      "price": 3.52
+    },
+    {
+      "quantity": 2,
+      "name": "White Bread Sandwich - 24 Oz",
+      "price": 6.93
+    },
+    {
+      "quantity": 2,
+      "name": "White Rice Long Grain - 5 Lb",
+      "price": 10.68
+    },
+    {
+      "quantity": 1,
+      "name": "Dinner Rolls - 12 Count",
+      "price": 4.97
+    },
+    {
+      "quantity": 1,
+      "name": "Brown Rice - 2 Lb",
+      "price": 6.1
+    },
+    {
+      "quantity": 1,
+      "name": "Crackers Saltine - 16 Oz",
+      "price": 3.62
+    },
+    {
+      "quantity": 1,
+      "name": "Potato Chips Classic - 10 Oz",
+      "price": 5.39
+    },
+    {
+      "quantity": 1,
+      "name": "Granola Bars Variety Pack - 12 Count",
+      "price": 5.96
+    },
+    {
+      "quantity": 2,
+      "name": "Cheese Crackers - 12 Oz",
+      "price": 10.75
+    },
+    {
+      "quantity": 1,
+      "name": "Popcorn Microwave Butter - 6 Count",
+      "price": 4.97
+    },
+    {
+      "quantity": 1,
+      "name": "Fruit Snacks - 22 Count",
+      "price": 6.43
+    },
+    {
+      "quantity": 1,
+      "name": "Fruit Snacks - 22 Count",
+      "price": 6.87
+    },
+    {
+      "quantity": 2,
+      "name": "Bottled Water - 24 Pack",
+      "price": 9.21
+    },
+    {
+      "quantity": 1,
+      "name": "Orange Juice - 64 Fl. Oz.",
+      "price": 6.86
+    },
+    {
+      "quantity": 1,
+      "name": "Coffee Ground Medium Roast - 30 Oz",
+      "price": 11.54
+    },
+    {
+      "quantity": 1,
+      "name": "Cranberry Juice - 64 Fl. Oz.",
+      "price": 6.26
+    },
+    {
+      "quantity": 1,
+      "name": "Tomato Sauce - 24 Oz",
+      "price": 2.11
+    },
+    {
+      "quantity": 1,
+      "name": "Tomato Sauce - 24 Oz",
+      "price": 2.78
+    },
+    {
+      "quantity": 2,
+      "name": "Canned Tomatoes Diced - 14.5 Oz",
+      "price": 4.14
+    },
+    {
+      "quantity": 3,
+      "name": "Ketchup - 20 Oz",
+      "price": 12.78
+    }
+  ],
+  "subtotal": 428.99,
+  "total": 399.21,
+  "taxes_and_fees": 30.18,
+  "savings": {
+    "total": 59.96,
+    "member_price": 52.09,
+    "safeway_for_u": 7.87
+  },
+  "payment_method": "Card ending in 4433"
+}

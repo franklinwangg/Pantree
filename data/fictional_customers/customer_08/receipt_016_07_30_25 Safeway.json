@@ -1,0 +1,78 @@
+{
+  "store": "Safeway",
+  "customer_id": "customer_08",
+  "customer_name": "Chris Anderson",
+  "archetype": "single_professional",
+  "order_number": "810646454",
+  "subject": "07/30/25 Safeway",
+  "email_date": "Wed, 30 Jul 2025 14:23:15 +0000",
+  "pickup_date": "Wednesday, July 30, 2025",
+  "pickup_time": "12:00 PM - 8:00 PM",
+  "pickup_address": "2720 41st Ave, Soquel, CA 95073",
+  "items": [
+    {
+      "quantity": 1,
+      "name": "Lettuce Iceberg",
+      "price": 2.95
+    },
+    {
+      "quantity": 1,
+      "name": "Green Grapes - 2 Lb",
+      "price": 7.92
+    },
+    {
+      "quantity": 1,
+      "name": "Chicken Thighs Bone-In - 3 Lb",
+      "price": 10.74
+    },
+    {
+      "quantity": 1,
+      "name": "Pork Sausage Links - 1 Lb",
+      "price": 6.07
+    },
+    {
+      "quantity": 1,
+      "name": "Heavy Whipping Cream - 16 Oz",
+      "price": 5.82
+    },
+    {
+      "quantity": 1,
+      "name": "Tortillas Flour - 20 Count",
+      "price": 4.28
+    },
+    {
+      "quantity": 3,
+      "name": "Crackers Saltine - 16 Oz",
+      "price": 14.2
+    },
+    {
+      "quantity": 2,
+      "name": "Rice Cakes - 9 Oz",
+      "price": 9.25
+    },
+    {
+      "quantity": 1,
+      "name": "Orange Juice - 64 Fl. Oz.",
+      "price": 5.23
+    },
+    {
+      "quantity": 1,
+      "name": "Energy Drink - 4 Pack",
+      "price": 7.73
+    },
+    {
+      "quantity": 1,
+      "name": "Pancake Mix - 32 Oz",
+      "price": 5.25
+    }
+  ],
+  "subtotal": 79.44000000000001,
+  "total": 67.19,
+  "taxes_and_fees": 5.49,
+  "savings": {
+    "total": 17.74,
+    "member_price": 14.25,
+    "safeway_for_u": 3.49
+  },
+  "payment_method": "Card ending in 7413"
+}

@@ -1,0 +1,108 @@
+{
+  "store": "Safeway",
+  "customer_id": "customer_08",
+  "customer_name": "Chris Anderson",
+  "archetype": "single_professional",
+  "order_number": "920685633",
+  "subject": "08/02/25 Safeway",
+  "email_date": "Sat, 02 Aug 2025 14:23:15 +0000",
+  "pickup_date": "Saturday, August 02, 2025",
+  "pickup_time": "10:00 AM - 6:00 PM",
+  "pickup_address": "2720 41st Ave, Soquel, CA 95073",
+  "items": [
+    {
+      "quantity": 1,
+      "name": "Lettuce Iceberg",
+      "price": 3.43
+    },
+    {
+      "quantity": 1,
+      "name": "Russet Potatoes - 5 Lb",
+      "price": 5.88
+    },
+    {
+      "quantity": 2,
+      "name": "Sweet Potatoes - 3 Lb",
+      "price": 8.67
+    },
+    {
+      "quantity": 1,
+      "name": "Fresh Cilantro Bunch",
+      "price": 1.23
+    },
+    {
+      "quantity": 1,
+      "name": "Large Eggs Grade A - 18 Count",
+      "price": 4.37
+    },
+    {
+      "quantity": 1,
+      "name": "Boneless Skinless Chicken Breasts Value Pack - 3.5 Lb",
+      "price": 21.55
+    },
+    {
+      "quantity": 1,
+      "name": "Large Eggs Grade A - 18 Count",
+      "price": 5.56
+    },
+    {
+      "quantity": 1,
+      "name": "Turkey Breast Sliced Deli - 1 Lb",
+      "price": 9.76
+    },
+    {
+      "quantity": 1,
+      "name": "Pork Sausage Links - 1 Lb",
+      "price": 8.24
+    },
+    {
+      "quantity": 1,
+      "name": "Shredded Cheese Mozzarella - 8 Oz",
+      "price": 3.77
+    },
+    {
+      "quantity": 1,
+      "name": "Cottage Cheese - 16 Oz",
+      "price": 3.8
+    },
+    {
+      "quantity": 1,
+      "name": "Oatmeal Quick Oats - 42 Oz",
+      "price": 5.74
+    },
+    {
+      "quantity": 1,
+      "name": "Potato Chips Classic - 10 Oz",
+      "price": 5.35
+    },
+    {
+      "quantity": 1,
+      "name": "Trail Mix - 26 Oz",
+      "price": 8.73
+    },
+    {
+      "quantity": 1,
+      "name": "Energy Drink - 4 Pack",
+      "price": 9.49
+    },
+    {
+      "quantity": 1,
+      "name": "Tomato Sauce - 24 Oz",
+      "price": 3.02
+    },
+    {
+      "quantity": 1,
+      "name": "Strawberry Jam - 18 Oz",
+      "price": 5.84
+    }
+  ],
+  "subtotal": 114.42999999999998,
+  "total": 115.09,
+  "taxes_and_fees": 7.62,
+  "savings": {
+    "total": 6.96,
+    "member_price": 6.28,
+    "safeway_for_u": 0.68
+  },
+  "payment_method": "Card ending in 4247"
+}

@@ -1,0 +1,178 @@
+{
+  "store": "Safeway",
+  "customer_id": "customer_05",
+  "customer_name": "Lisa Thompson",
+  "archetype": "busy_family",
+  "order_number": "522827572",
+  "subject": "05/02/25 Safeway",
+  "email_date": "Fri, 02 May 2025 14:23:15 +0000",
+  "pickup_date": "Friday, May 02, 2025",
+  "pickup_time": "2:00 PM - 10:00 PM",
+  "pickup_address": "2720 41st Ave, Soquel, CA 95073",
+  "items": [
+    {
+      "quantity": 1,
+      "name": "Carrots - 2 Lb Bag",
+      "price": 2.53
+    },
+    {
+      "quantity": 1,
+      "name": "White Onion",
+      "price": 2.13
+    },
+    {
+      "quantity": 1,
+      "name": "Russet Potatoes - 5 Lb",
+      "price": 5.14
+    },
+    {
+      "quantity": 2,
+      "name": "Organic Kale Bunch",
+      "price": 5.83
+    },
+    {
+      "quantity": 2,
+      "name": "Organic Baby Carrots - 1 Lb",
+      "price": 7.34
+    },
+    {
+      "quantity": 1,
+      "name": "Chicken Thighs Bone-In - 3 Lb",
+      "price": 10.91
+    },
+    {
+      "quantity": 1,
+      "name": "Large Eggs Grade A - 18 Count",
+      "price": 5.15
+    },
+    {
+      "quantity": 1,
+      "name": "Chicken Thighs Bone-In - 3 Lb",
+      "price": 12.73
+    },
+    {
+      "quantity": 1,
+      "name": "80% Lean 20% Fat Ground Beef Value Pack - 3 Lb",
+      "price": 13.4
+    },
+    {
+      "quantity": 1,
+      "name": "All Natural Chicken Tenders - 1 Lb",
+      "price": 10.92
+    },
+    {
+      "quantity": 1,
+      "name": "Ham Deli Honey - 1 Lb",
+      "price": 9.79
+    },
+    {
+      "quantity": 1,
+      "name": "Sour Cream - 16 Oz",
+      "price": 3.76
+    },
+    {
+      "quantity": 3,
+      "name": "Sour Cream - 16 Oz",
+      "price": 12.83
+    },
+    {
+      "quantity": 1,
+      "name": "Butter Salted - 16 Oz",
+      "price": 5.85
+    },
+    {
+      "quantity": 1,
+      "name": "Heavy Whipping Cream - 16 Oz",
+      "price": 4.08
+    },
+    {
+      "quantity": 1,
+      "name": "String Cheese Mozzarella - 12 Oz",
+      "price": 6.42
+    },
+    {
+      "quantity": 1,
+      "name": "Wheat Bread Whole Grain - 24 Oz",
+      "price": 5.0
+    },
+    {
+      "quantity": 4,
+      "name": "Wheat Bread Whole Grain - 24 Oz",
+      "price": 19.69
+    },
+    {
+      "quantity": 2,
+      "name": "Pasta Spaghetti - 16 Oz",
+      "price": 5.74
+    },
+    {
+      "quantity": 1,
+      "name": "Pasta Spaghetti - 16 Oz",
+      "price": 2.64
+    },
+    {
+      "quantity": 1,
+      "name": "Crackers Saltine - 16 Oz",
+      "price": 3.8
+    },
+    {
+      "quantity": 2,
+      "name": "Granola Bars Variety Pack - 12 Count",
+      "price": 10.08
+    },
+    {
+      "quantity": 2,
+      "name": "Crackers Saltine - 16 Oz",
+      "price": 7.7
+    },
+    {
+      "quantity": 2,
+      "name": "Cookies Chocolate Chip - 13 Oz",
+      "price": 12.44
+    },
+    {
+      "quantity": 1,
+      "name": "Cookies Chocolate Chip - 13 Oz",
+      "price": 5.53
+    },
+    {
+      "quantity": 1,
+      "name": "Bottled Water - 24 Pack",
+      "price": 4.56
+    },
+    {
+      "quantity": 1,
+      "name": "Bottled Water - 24 Pack",
+      "price": 4.64
+    },
+    {
+      "quantity": 3,
+      "name": "Energy Drink - 4 Pack",
+      "price": 27.31
+    },
+    {
+      "quantity": 1,
+      "name": "Tomato Sauce - 24 Oz",
+      "price": 2.98
+    },
+    {
+      "quantity": 1,
+      "name": "Salt Iodized - 26 Oz",
+      "price": 1.78
+    },
+    {
+      "quantity": 3,
+      "name": "Pancake Mix - 32 Oz",
+      "price": 14.23
+    }
+  ],
+  "subtotal": 246.92999999999998,
+  "total": 243.7,
+  "taxes_and_fees": 14.57,
+  "savings": {
+    "total": 17.8,
+    "member_price": 14.71,
+    "safeway_for_u": 3.09
+  },
+  "payment_method": "Card ending in 4556"
+}

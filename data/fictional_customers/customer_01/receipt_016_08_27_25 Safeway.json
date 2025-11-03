@@ -1,0 +1,118 @@
+{
+  "store": "Safeway",
+  "customer_id": "customer_01",
+  "customer_name": "Sarah Mitchell",
+  "archetype": "health_conscious",
+  "order_number": "854836620",
+  "subject": "08/27/25 Safeway",
+  "email_date": "Wed, 27 Aug 2025 14:23:15 +0000",
+  "pickup_date": "Wednesday, August 27, 2025",
+  "pickup_time": "12:00 PM - 8:00 PM",
+  "pickup_address": "2720 41st Ave, Soquel, CA 95073",
+  "items": [
+    {
+      "quantity": 1,
+      "name": "Fresh Spinach - 10 Oz",
+      "price": 4.26
+    },
+    {
+      "quantity": 2,
+      "name": "Russet Potatoes - 5 Lb",
+      "price": 9.09
+    },
+    {
+      "quantity": 1,
+      "name": "Carrots - 2 Lb Bag",
+      "price": 2.94
+    },
+    {
+      "quantity": 2,
+      "name": "Fresh Strawberries - 1 Lb",
+      "price": 9.59
+    },
+    {
+      "quantity": 3,
+      "name": "Fresh Strawberries - 1 Lb",
+      "price": 14.04
+    },
+    {
+      "quantity": 2,
+      "name": "80% Lean 20% Fat Ground Beef Value Pack - 3 Lb",
+      "price": 32.12
+    },
+    {
+      "quantity": 1,
+      "name": "Large Eggs Grade A - 18 Count",
+      "price": 5.62
+    },
+    {
+      "quantity": 1,
+      "name": "Chicken Thighs Bone-In - 3 Lb",
+      "price": 14.44
+    },
+    {
+      "quantity": 2,
+      "name": "Pork Loin Chops Value Pack - 4 Lb",
+      "price": 24.89
+    },
+    {
+      "quantity": 1,
+      "name": "Salmon Fillets Fresh - 1 Lb",
+      "price": 15.45
+    },
+    {
+      "quantity": 1,
+      "name": "Sour Cream - 16 Oz",
+      "price": 3.51
+    },
+    {
+      "quantity": 1,
+      "name": "Greek Yogurt Plain - 32 Oz",
+      "price": 5.23
+    },
+    {
+      "quantity": 1,
+      "name": "White Bread Sandwich - 24 Oz",
+      "price": 3.53
+    },
+    {
+      "quantity": 1,
+      "name": "Dinner Rolls - 12 Count",
+      "price": 4.39
+    },
+    {
+      "quantity": 1,
+      "name": "Granola Bars Variety Pack - 12 Count",
+      "price": 5.44
+    },
+    {
+      "quantity": 1,
+      "name": "Crackers Saltine - 16 Oz",
+      "price": 3.87
+    },
+    {
+      "quantity": 2,
+      "name": "Rice Cakes - 9 Oz",
+      "price": 8.98
+    },
+    {
+      "quantity": 2,
+      "name": "Almond Milk Unsweetened - 64 Fl. Oz.",
+      "price": 8.59
+    },
+    {
+      "quantity": 2,
+      "name": "Ketchup - 20 Oz",
+      "price": 8.3
+    }
+  ],
+  "subtotal": 184.27999999999997,
+  "total": 170.59,
+  "taxes_and_fees": 11.31,
+  "savings": {
+    "total": 25.0,
+    "member_price": 20.08,
+    "safeway_for_u": 4.92
+  },
+  "payment_method": "Card ending in 9135"
+}

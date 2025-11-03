@@ -1,0 +1,143 @@
+{
+  "store": "Safeway",
+  "customer_id": "customer_07",
+  "customer_name": "Amanda Johnson",
+  "archetype": "budget_conscious",
+  "order_number": "894114733",
+  "subject": "05/22/25 Safeway",
+  "email_date": "Thu, 22 May 2025 14:23:15 +0000",
+  "pickup_date": "Thursday, May 22, 2025",
+  "pickup_time": "10:00 AM - 6:00 PM",
+  "pickup_address": "2720 41st Ave, Soquel, CA 95073",
+  "items": [
+    {
+      "quantity": 1,
+      "name": "Lettuce Iceberg",
+      "price": 3.36
+    },
+    {
+      "quantity": 1,
+      "name": "Garlic Bulb",
+      "price": 0.8
+    },
+    {
+      "quantity": 1,
+      "name": "Organic Avocados - 4 Count",
+      "price": 7.57
+    },
+    {
+      "quantity": 2,
+      "name": "Fresh Broccoli Crowns",
+      "price": 5.25
+    },
+    {
+      "quantity": 2,
+      "name": "Chicken Thighs Bone-In - 3 Lb",
+      "price": 28.77
+    },
+    {
+      "quantity": 2,
+      "name": "Chicken Thighs Bone-In - 3 Lb",
+      "price": 25.56
+    },
+    {
+      "quantity": 2,
+      "name": "96% Lean 4% Fat Ground Beef - 1.35 Lb",
+      "price": 39.97
+    },
+    {
+      "quantity": 2,
+      "name": "Turkey Breast Sliced Deli - 1 Lb",
+      "price": 22.33
+    },
+    {
+      "quantity": 2,
+      "name": "Sour Cream - 16 Oz",
+      "price": 8.25
+    },
+    {
+      "quantity": 1,
+      "name": "Sour Cream - 16 Oz",
+      "price": 4.49
+    },
+    {
+      "quantity": 1,
+      "name": "Parmesan Cheese Grated - 8 Oz",
+      "price": 5.59
+    },
+    {
+      "quantity": 1,
+      "name": "Flour All Purpose - 5 Lb",
+      "price": 5.5
+    },
+    {
+      "quantity": 1,
+      "name": "White Bread Sandwich - 24 Oz",
+      "price": 4.2
+    },
+    {
+      "quantity": 1,
+      "name": "Pasta Penne - 16 Oz",
+      "price": 2.51
+    },
+    {
+      "quantity": 1,
+      "name": "Potato Chips Classic - 10 Oz",
+      "price": 4.28
+    },
+    {
+      "quantity": 2,
+      "name": "Granola Bars Variety Pack - 12 Count",
+      "price": 10.89
+    },
+    {
+      "quantity": 1,
+      "name": "Tortilla Chips - 13 Oz",
+      "price": 5.01
+    },
+    {
+      "quantity": 1,
+      "name": "Bottled Water - 24 Pack",
+      "price": 3.86
+    },
+    {
+      "quantity": 2,
+      "name": "Coca-Cola 12 Pack Cans - 12 Fl. Oz.",
+      "price": 13.54
+    },
+    {
+      "quantity": 1,
+      "name": "Almond Milk Unsweetened - 64 Fl. Oz.",
+      "price": 4.27
+    },
+    {
+      "quantity": 4,
+      "name": "Coffee Ground Medium Roast - 30 Oz",
+      "price": 48.38
+    },
+    {
+      "quantity": 1,
+      "name": "Vegetable Oil - 48 Fl. Oz.",
+      "price": 6.06
+    },
+    {
+      "quantity": 1,
+      "name": "Sugar Granulated - 4 Lb",
+      "price": 3.93
+    },
+    {
+      "quantity": 2,
+      "name": "Peanut Butter Creamy - 40 Oz",
+      "price": 12.99
+    }
+  ],
+  "subtotal": 277.36,
+  "total": 250.05,
+  "taxes_and_fees": 18.33,
+  "savings": {
+    "total": 45.64,
+    "member_price": 41.14,
+    "safeway_for_u": 4.5
+  },
+  "payment_method": "Card ending in 9384"
+}

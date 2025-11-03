@@ -1,0 +1,213 @@
+{
+  "store": "Safeway",
+  "customer_id": "customer_05",
+  "customer_name": "Lisa Thompson",
+  "archetype": "busy_family",
+  "order_number": "148214629",
+  "subject": "08/15/25 Safeway",
+  "email_date": "Fri, 15 Aug 2025 14:23:15 +0000",
+  "pickup_date": "Friday, August 15, 2025",
+  "pickup_time": "10:00 AM - 6:00 PM",
+  "pickup_address": "2720 41st Ave, Soquel, CA 95073",
+  "items": [
+    {
+      "quantity": 1,
+      "name": "Carrots - 2 Lb Bag",
+      "price": 2.07
+    },
+    {
+      "quantity": 3,
+      "name": "Garlic Bulb",
+      "price": 4.13
+    },
+    {
+      "quantity": 1,
+      "name": "Russet Potatoes - 5 Lb",
+      "price": 4.46
+    },
+    {
+      "quantity": 3,
+      "name": "Lettuce Iceberg",
+      "price": 10.17
+    },
+    {
+      "quantity": 1,
+      "name": "Green Grapes - 2 Lb",
+      "price": 6.81
+    },
+    {
+      "quantity": 1,
+      "name": "Fresh Cilantro Bunch",
+      "price": 1.44
+    },
+    {
+      "quantity": 2,
+      "name": "Green Grapes - 2 Lb",
+      "price": 10.23
+    },
+    {
+      "quantity": 1,
+      "name": "Boneless Skinless Chicken Breasts Value Pack - 3.5 Lb",
+      "price": 23.11
+    },
+    {
+      "quantity": 1,
+      "name": "Boneless Skinless Chicken Breasts Value Pack - 3.5 Lb",
+      "price": 22.37
+    },
+    {
+      "quantity": 2,
+      "name": "Large Eggs Grade A - 18 Count",
+      "price": 13.12
+    },
+    {
+      "quantity": 1,
+      "name": "Chicken Thighs Bone-In - 3 Lb",
+      "price": 12.33
+    },
+    {
+      "quantity": 2,
+      "name": "Pork Loin Chops Value Pack - 4 Lb",
+      "price": 26.43
+    },
+    {
+      "quantity": 1,
+      "name": "Tilapia Fillets Frozen - 2 Lb",
+      "price": 13.69
+    },
+    {
+      "quantity": 3,
+      "name": "Salmon Fillets Fresh - 1 Lb",
+      "price": 46.76
+    },
+    {
+      "quantity": 3,
+      "name": "Sour Cream - 16 Oz",
+      "price": 9.81
+    },
+    {
+      "quantity": 2,
+      "name": "Whole Milk - 1 Gallon",
+      "price": 11.83
+    },
+    {
+      "quantity": 2,
+      "name": "Sour Cream - 16 Oz",
+      "price": 7.51
+    },
+    {
+      "quantity": 1,
+      "name": "Butter Salted - 16 Oz",
+      "price": 5.6
+    },
+    {
+      "quantity": 2,
+      "name": "Half and Half - 32 Oz",
+      "price": 9.73
+    },
+    {
+      "quantity": 1,
+      "name": "String Cheese Mozzarella - 12 Oz",
+      "price": 5.31
+    },
+    {
+      "quantity": 1,
+      "name": "White Bread Sandwich - 24 Oz",
+      "price": 4.49
+    },
+    {
+      "quantity": 1,
+      "name": "White Rice Long Grain - 5 Lb",
+      "price": 6.55
+    },
+    {
+      "quantity": 1,
+      "name": "Oatmeal Quick Oats - 42 Oz",
+      "price": 5.85
+    },
+    {
+      "quantity": 1,
+      "name": "Pasta Spaghetti - 16 Oz",
+      "price": 2.56
+    },
+    {
+      "quantity": 3,
+      "name": "Potato Chips Classic - 10 Oz",
+      "price": 16.71
+    },
+    {
+      "quantity": 1,
+      "name": "Granola Bars Variety Pack - 12 Count",
+      "price": 6.3
+    },
+    {
+      "quantity": 1,
+      "name": "Potato Chips Classic - 10 Oz",
+      "price": 4.83
+    },
+    {
+      "quantity": 1,
+      "name": "Rice Cakes - 9 Oz",
+      "price": 4.65
+    },
+    {
+      "quantity": 1,
+      "name": "Candy Chocolate Bar Variety - 18 Oz",
+      "price": 11.47
+    },
+    {
+      "quantity": 1,
+      "name": "Candy Chocolate Bar Variety - 18 Oz",
+      "price": 12.84
+    },
+    {
+      "quantity": 1,
+      "name": "Orange Juice - 64 Fl. Oz.",
+      "price": 5.41
+    },
+    {
+      "quantity": 2,
+      "name": "Coca-Cola 12 Pack Cans - 12 Fl. Oz.",
+      "price": 13.32
+    },
+    {
+      "quantity": 1,
+      "name": "Almond Milk Unsweetened - 64 Fl. Oz.",
+      "price": 4.5
+    },
+    {
+      "quantity": 2,
+      "name": "Energy Drink - 4 Pack",
+      "price": 14.38
+    },
+    {
+      "quantity": 3,
+      "name": "Salt Iodized - 26 Oz",
+      "price": 6.27
+    },
+    {
+      "quantity": 1,
+      "name": "Tomato Sauce - 24 Oz",
+      "price": 2.2
+    },
+    {
+      "quantity": 2,
+      "name": "Canned Tomatoes Diced - 14.5 Oz",
+      "price": 4.94
+    },
+    {
+      "quantity": 4,
+      "name": "Ketchup - 20 Oz",
+      "price": 14.18
+    }
+  ],
+  "subtotal": 388.35999999999996,
+  "total": 389.81,
+  "taxes_and_fees": 22.8,
+  "savings": {
+    "total": 21.35,
+    "member_price": 16.94,
+    "safeway_for_u": 4.41
+  },
+  "payment_method": "Card ending in 2620"
+}

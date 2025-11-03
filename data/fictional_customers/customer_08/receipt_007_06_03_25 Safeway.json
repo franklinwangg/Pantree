@@ -1,0 +1,93 @@
+{
+  "store": "Safeway",
+  "customer_id": "customer_08",
+  "customer_name": "Chris Anderson",
+  "archetype": "single_professional",
+  "order_number": "124019339",
+  "subject": "06/03/25 Safeway",
+  "email_date": "Tue, 03 Jun 2025 14:23:15 +0000",
+  "pickup_date": "Tuesday, June 03, 2025",
+  "pickup_time": "10:00 AM - 6:00 PM",
+  "pickup_address": "2720 41st Ave, Soquel, CA 95073",
+  "items": [
+    {
+      "quantity": 1,
+      "name": "White Onion",
+      "price": 1.64
+    },
+    {
+      "quantity": 3,
+      "name": "Carrots - 2 Lb Bag",
+      "price": 9.32
+    },
+    {
+      "quantity": 1,
+      "name": "Fresh Blueberries - 6 Oz",
+      "price": 3.96
+    },
+    {
+      "quantity": 1,
+      "name": "Large Eggs Grade A - 18 Count",
+      "price": 5.46
+    },
+    {
+      "quantity": 1,
+      "name": "80% Lean 20% Fat Ground Beef Value Pack - 3 Lb",
+      "price": 17.46
+    },
+    {
+      "quantity": 1,
+      "name": "Ham Deli Honey - 1 Lb",
+      "price": 9.01
+    },
+    {
+      "quantity": 1,
+      "name": "Cream Cheese - 8 Oz",
+      "price": 3.14
+    },
+    {
+      "quantity": 1,
+      "name": "Heavy Whipping Cream - 16 Oz",
+      "price": 4.01
+    },
+    {
+      "quantity": 2,
+      "name": "Brown Rice - 2 Lb",
+      "price": 13.91
+    },
+    {
+      "quantity": 2,
+      "name": "Potato Chips Classic - 10 Oz",
+      "price": 9.46
+    },
+    {
+      "quantity": 1,
+      "name": "Potato Chips Classic - 10 Oz",
+      "price": 5.3
+    },
+    {
+      "quantity": 1,
+      "name": "Candy Chocolate Bar Variety - 18 Oz",
+      "price": 11.32
+    },
+    {
+      "quantity": 1,
+      "name": "Apple Juice - 64 Fl. Oz.",
+      "price": 5.94
+    },
+    {
+      "quantity": 3,
+      "name": "Strawberry Jam - 18 Oz",
+      "price": 15.29
+    }
+  ],
+  "subtotal": 115.22,
+  "total": 109.29,
+  "taxes_and_fees": 8.3,
+  "savings": {
+    "total": 14.23,
+    "member_price": 11.36,
+    "safeway_for_u": 2.87
+  },
+  "payment_method": "Card ending in 4996"
+}

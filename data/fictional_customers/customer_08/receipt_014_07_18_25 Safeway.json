@@ -1,0 +1,93 @@
+{
+  "store": "Safeway",
+  "customer_id": "customer_08",
+  "customer_name": "Chris Anderson",
+  "archetype": "single_professional",
+  "order_number": "883218830",
+  "subject": "07/18/25 Safeway",
+  "email_date": "Fri, 18 Jul 2025 14:23:15 +0000",
+  "pickup_date": "Friday, July 18, 2025",
+  "pickup_time": "12:00 PM - 8:00 PM",
+  "pickup_address": "2720 41st Ave, Soquel, CA 95073",
+  "items": [
+    {
+      "quantity": 2,
+      "name": "Green Bell Pepper",
+      "price": 2.77
+    },
+    {
+      "quantity": 2,
+      "name": "White Onion",
+      "price": 3.3
+    },
+    {
+      "quantity": 2,
+      "name": "Organic Kale Bunch",
+      "price": 6.37
+    },
+    {
+      "quantity": 1,
+      "name": "Large Eggs Grade A - 18 Count",
+      "price": 6.63
+    },
+    {
+      "quantity": 2,
+      "name": "Large Eggs Grade A - 18 Count",
+      "price": 10.65
+    },
+    {
+      "quantity": 1,
+      "name": "Ham Deli Honey - 1 Lb",
+      "price": 10.94
+    },
+    {
+      "quantity": 2,
+      "name": "Sour Cream - 16 Oz",
+      "price": 8.32
+    },
+    {
+      "quantity": 1,
+      "name": "Half and Half - 32 Oz",
+      "price": 5.02
+    },
+    {
+      "quantity": 3,
+      "name": "Pasta Penne - 16 Oz",
+      "price": 8.01
+    },
+    {
+      "quantity": 2,
+      "name": "Crackers Saltine - 16 Oz",
+      "price": 7.38
+    },
+    {
+      "quantity": 1,
+      "name": "Pretzels - 16 Oz",
+      "price": 4.2
+    },
+    {
+      "quantity": 2,
+      "name": "Energy Drink - 4 Pack",
+      "price": 18.72
+    },
+    {
+      "quantity": 2,
+      "name": "Vegetable Oil - 48 Fl. Oz.",
+      "price": 11.45
+    },
+    {
+      "quantity": 2,
+      "name": "Pancake Mix - 32 Oz",
+      "price": 10.52
+    }
+  ],
+  "subtotal": 114.28,
+  "total": 108.41,
+  "taxes_and_fees": 8.55,
+  "savings": {
+    "total": 14.42,
+    "member_price": 12.58,
+    "safeway_for_u": 1.84
+  },
+  "payment_method": "Card ending in 9125"
+}

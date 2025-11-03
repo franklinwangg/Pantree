@@ -1,0 +1,188 @@
+{
+  "store": "Safeway",
+  "customer_id": "customer_04",
+  "customer_name": "Michael Chen",
+  "archetype": "busy_family",
+  "order_number": "797816057",
+  "subject": "07/13/25 Safeway",
+  "email_date": "Sun, 13 Jul 2025 14:23:15 +0000",
+  "pickup_date": "Sunday, July 13, 2025",
+  "pickup_time": "8:00 AM - 4:00 PM",
+  "pickup_address": "2720 41st Ave, Soquel, CA 95073",
+  "items": [
+    {
+      "quantity": 4,
+      "name": "White Onion",
+      "price": 5.56
+    },
+    {
+      "quantity": 2,
+      "name": "Roma Tomatoes - 1 Lb",
+      "price": 5.37
+    },
+    {
+      "quantity": 1,
+      "name": "Carrots - 2 Lb Bag",
+      "price": 2.16
+    },
+    {
+      "quantity": 1,
+      "name": "Seedless Cucumbers - 2 Count",
+      "price": 4.28
+    },
+    {
+      "quantity": 1,
+      "name": "Organic Kale Bunch",
+      "price": 3.09
+    },
+    {
+      "quantity": 1,
+      "name": "Boneless Skinless Chicken Breasts Value Pack - 3.5 Lb",
+      "price": 19.38
+    },
+    {
+      "quantity": 2,
+      "name": "Chicken Thighs Bone-In - 3 Lb",
+      "price": 29.35
+    },
+    {
+      "quantity": 1,
+      "name": "Large Eggs Grade A - 18 Count",
+      "price": 4.31
+    },
+    {
+      "quantity": 1,
+      "name": "Large Eggs Grade A - 18 Count",
+      "price": 5.53
+    },
+    {
+      "quantity": 1,
+      "name": "Salmon Fillets Fresh - 1 Lb",
+      "price": 13.13
+    },
+    {
+      "quantity": 4,
+      "name": "Pork Sausage Links - 1 Lb",
+      "price": 24.42
+    },
+    {
+      "quantity": 1,
+      "name": "Bacon Thick Cut - 16 Oz",
+      "price": 11.63
+    },
+    {
+      "quantity": 1,
+      "name": "Whole Milk - 1 Gallon",
+      "price": 4.55
+    },
+    {
+      "quantity": 1,
+      "name": "Shredded Cheese Mozzarella - 8 Oz",
+      "price": 4.99
+    },
+    {
+      "quantity": 1,
+      "name": "Butter Salted - 16 Oz",
+      "price": 5.89
+    },
+    {
+      "quantity": 2,
+      "name": "Cottage Cheese - 16 Oz",
+      "price": 8.72
+    },
+    {
+      "quantity": 3,
+      "name": "String Cheese Mozzarella - 12 Oz",
+      "price": 17.67
+    },
+    {
+      "quantity": 3,
+      "name": "White Rice Long Grain - 5 Lb",
+      "price": 21.63
+    },
+    {
+      "quantity": 1,
+      "name": "White Bread Sandwich - 24 Oz",
+      "price": 4.86
+    },
+    {
+      "quantity": 1,
+      "name": "Bagels Plain - 6 Count",
+      "price": 5.37
+    },
+    {
+      "quantity": 4,
+      "name": "Potato Chips Classic - 10 Oz",
+      "price": 16.29
+    },
+    {
+      "quantity": 1,
+      "name": "Granola Bars Variety Pack - 12 Count",
+      "price": 6.67
+    },
+    {
+      "quantity": 2,
+      "name": "Crackers Saltine - 16 Oz",
+      "price": 8.39
+    },
+    {
+      "quantity": 3,
+      "name": "Candy Chocolate Bar Variety - 18 Oz",
+      "price": 27.14
+    },
+    {
+      "quantity": 3,
+      "name": "Fruit Snacks - 22 Count",
+      "price": 20.5
+    },
+    {
+      "quantity": 2,
+      "name": "Bottled Water - 24 Pack",
+      "price": 9.04
+    },
+    {
+      "quantity": 1,
+      "name": "Orange Juice - 64 Fl. Oz.",
+      "price": 6.4
+    },
+    {
+      "quantity": 2,
+      "name": "Coffee Ground Medium Roast - 30 Oz",
+      "price": 24.04
+    },
+    {
+      "quantity": 1,
+      "name": "Sports Drink Variety - 8 Pack",
+      "price": 8.94
+    },
+    {
+      "quantity": 2,
+      "name": "Sugar Granulated - 4 Lb",
+      "price": 9.04
+    },
+    {
+      "quantity": 1,
+      "name": "Tomato Sauce - 24 Oz",
+      "price": 2.99
+    },
+    {
+      "quantity": 1,
+      "name": "Ketchup - 20 Oz",
+      "price": 4.17
+    },
+    {
+      "quantity": 1,
+      "name": "Vinegar White - 32 Fl. Oz.",
+      "price": 3.36
+    }
+  ],
+  "subtotal": 348.86000000000007,
+  "total": 328.05,
+  "taxes_and_fees": 22.09,
+  "savings": {
+    "total": 42.9,
+    "member_price": 32.56,
+    "safeway_for_u": 10.34
+  },
+  "payment_method": "Card ending in 9775"
+}

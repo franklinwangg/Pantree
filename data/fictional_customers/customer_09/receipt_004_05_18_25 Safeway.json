@@ -1,0 +1,73 @@
+{
+  "store": "Safeway",
+  "customer_id": "customer_09",
+  "customer_name": "Emily White",
+  "archetype": "single_professional",
+  "order_number": "459796946",
+  "subject": "05/18/25 Safeway",
+  "email_date": "Sun, 18 May 2025 14:23:15 +0000",
+  "pickup_date": "Sunday, May 18, 2025",
+  "pickup_time": "8:00 AM - 4:00 PM",
+  "pickup_address": "2720 41st Ave, Soquel, CA 95073",
+  "items": [
+    {
+      "quantity": 1,
+      "name": "Sweet Potatoes - 3 Lb",
+      "price": 5.82
+    },
+    {
+      "quantity": 1,
+      "name": "Large Eggs Grade A - 18 Count",
+      "price": 4.59
+    },
+    {
+      "quantity": 2,
+      "name": "Bacon Thick Cut - 16 Oz",
+      "price": 20.38
+    },
+    {
+      "quantity": 2,
+      "name": "Half and Half - 32 Oz",
+      "price": 10.38
+    },
+    {
+      "quantity": 1,
+      "name": "White Bread Sandwich - 24 Oz",
+      "price": 3.7
+    },
+    {
+      "quantity": 1,
+      "name": "Quinoa Organic - 16 Oz",
+      "price": 8.42
+    },
+    {
+      "quantity": 2,
+      "name": "Trail Mix - 26 Oz",
+      "price": 19.84
+    },
+    {
+      "quantity": 1,
+      "name": "Energy Drink - 4 Pack",
+      "price": 7.28
+    },
+    {
+      "quantity": 1,
+      "name": "Salt Iodized - 26 Oz",
+      "price": 2.48
+    },
+    {
+      "quantity": 2,
+      "name": "Maple Syrup - 24 Oz",
+      "price": 18.69
+    }
+  ],
+  "subtotal": 101.58000000000001,
+  "total": 102.37,
+  "taxes_and_fees": 6.08,
+  "savings": {
+    "total": 5.29,
+    "member_price": 4.0,
+    "safeway_for_u": 1.29
+  },
+  "payment_method": "Card ending in 5302"
+}

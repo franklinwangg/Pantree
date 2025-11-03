@@ -1,0 +1,103 @@
+{
+  "store": "Safeway",
+  "customer_id": "customer_09",
+  "customer_name": "Emily White",
+  "archetype": "single_professional",
+  "order_number": "289400001",
+  "subject": "06/01/25 Safeway",
+  "email_date": "Sun, 01 Jun 2025 14:23:15 +0000",
+  "pickup_date": "Sunday, June 01, 2025",
+  "pickup_time": "10:00 AM - 6:00 PM",
+  "pickup_address": "2720 41st Ave, Soquel, CA 95073",
+  "items": [
+    {
+      "quantity": 2,
+      "name": "Lettuce Iceberg",
+      "price": 5.94
+    },
+    {
+      "quantity": 3,
+      "name": "Sweet Potatoes - 3 Lb",
+      "price": 12.8
+    },
+    {
+      "quantity": 1,
+      "name": "Chicken Thighs Bone-In - 3 Lb",
+      "price": 10.03
+    },
+    {
+      "quantity": 2,
+      "name": "Large Eggs Grade A - 18 Count",
+      "price": 12.86
+    },
+    {
+      "quantity": 1,
+      "name": "Large Eggs Grade A - 18 Count",
+      "price": 4.5
+    },
+    {
+      "quantity": 2,
+      "name": "96% Lean 4% Fat Ground Beef - 1.35 Lb",
+      "price": 38.26
+    },
+    {
+      "quantity": 1,
+      "name": "Pork Sausage Links - 1 Lb",
+      "price": 6.05
+    },
+    {
+      "quantity": 1,
+      "name": "Whole Milk - 1 Gallon",
+      "price": 4.18
+    },
+    {
+      "quantity": 2,
+      "name": "Cream Cheese - 8 Oz",
+      "price": 5.86
+    },
+    {
+      "quantity": 1,
+      "name": "String Cheese Mozzarella - 12 Oz",
+      "price": 5.95
+    },
+    {
+      "quantity": 1,
+      "name": "Brown Rice - 2 Lb",
+      "price": 5.32
+    },
+    {
+      "quantity": 1,
+      "name": "Granola Bars Variety Pack - 12 Count",
+      "price": 7.07
+    },
+    {
+      "quantity": 2,
+      "name": "Nuts Mixed Roasted - 16 Oz",
+      "price": 17.32
+    },
+    {
+      "quantity": 1,
+      "name": "Coffee Ground Medium Roast - 30 Oz",
+      "price": 9.49
+    },
+    {
+      "quantity": 1,
+      "name": "Salt Iodized - 26 Oz",
+      "price": 1.69
+    },
+    {
+      "quantity": 1,
+      "name": "Cereal Corn Flakes - 18 Oz",
+      "price": 4.91
+    }
+  ],
+  "subtotal": 152.23,
+  "total": 136.13,
+  "taxes_and_fees": 9.6,
+  "savings": {
+    "total": 25.7,
+    "member_price": 20.48,
+    "safeway_for_u": 5.22
+  },
+  "payment_method": "Card ending in 5554"
+}

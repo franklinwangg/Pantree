@@ -1,0 +1,138 @@
+{
+  "store": "Safeway",
+  "customer_id": "customer_06",
+  "customer_name": "Robert Martinez",
+  "archetype": "budget_conscious",
+  "order_number": "646051214",
+  "subject": "11/08/25 Safeway",
+  "email_date": "Sat, 08 Nov 2025 14:23:15 +0000",
+  "pickup_date": "Saturday, November 08, 2025",
+  "pickup_time": "2:00 PM - 10:00 PM",
+  "pickup_address": "2720 41st Ave, Soquel, CA 95073",
+  "items": [
+    {
+      "quantity": 1,
+      "name": "White Onion",
+      "price": 1.34
+    },
+    {
+      "quantity": 2,
+      "name": "Carrots - 2 Lb Bag",
+      "price": 4.02
+    },
+    {
+      "quantity": 1,
+      "name": "Fresh Asparagus - 1 Lb",
+      "price": 6.85
+    },
+    {
+      "quantity": 2,
+      "name": "Seedless Cucumbers - 2 Count",
+      "price": 8.86
+    },
+    {
+      "quantity": 1,
+      "name": "80% Lean 20% Fat Ground Beef Value Pack - 3 Lb",
+      "price": 17.59
+    },
+    {
+      "quantity": 1,
+      "name": "Chicken Thighs Bone-In - 3 Lb",
+      "price": 12.91
+    },
+    {
+      "quantity": 2,
+      "name": "All Natural Chicken Tenders - 1 Lb",
+      "price": 20.43
+    },
+    {
+      "quantity": 1,
+      "name": "Whole Milk - 1 Gallon",
+      "price": 5.5
+    },
+    {
+      "quantity": 2,
+      "name": "Shredded Cheese Mozzarella - 8 Oz",
+      "price": 10.66
+    },
+    {
+      "quantity": 2,
+      "name": "Greek Yogurt Plain - 32 Oz",
+      "price": 10.84
+    },
+    {
+      "quantity": 2,
+      "name": "Half and Half - 32 Oz",
+      "price": 9.26
+    },
+    {
+      "quantity": 4,
+      "name": "Flour All Purpose - 5 Lb",
+      "price": 22.22
+    },
+    {
+      "quantity": 1,
+      "name": "White Bread Sandwich - 24 Oz",
+      "price": 4.5
+    },
+    {
+      "quantity": 4,
+      "name": "Bagels Plain - 6 Count",
+      "price": 21.93
+    },
+    {
+      "quantity": 1,
+      "name": "Oatmeal Quick Oats - 42 Oz",
+      "price": 4.8
+    },
+    {
+      "quantity": 2,
+      "name": "Potato Chips Classic - 10 Oz",
+      "price": 9.61
+    },
+    {
+      "quantity": 3,
+      "name": "Pretzels - 16 Oz",
+      "price": 11.21
+    },
+    {
+      "quantity": 1,
+      "name": "Coca-Cola 12 Pack Cans - 12 Fl. Oz.",
+      "price": 7.77
+    },
+    {
+      "quantity": 1,
+      "name": "Bottled Water - 24 Pack",
+      "price": 5.13
+    },
+    {
+      "quantity": 1,
+      "name": "Coffee Ground Medium Roast - 30 Oz",
+      "price": 11.18
+    },
+    {
+      "quantity": 1,
+      "name": "Cranberry Juice - 64 Fl. Oz.",
+      "price": 6.35
+    },
+    {
+      "quantity": 2,
+      "name": "Vegetable Oil - 48 Fl. Oz.",
+      "price": 11.22
+    },
+    {
+      "quantity": 1,
+      "name": "Olive Oil Extra Virgin - 25 Fl. Oz.",
+      "price": 10.71
+    }
+  ],
+  "subtotal": 234.89000000000007,
+  "total": 227.46,
+  "taxes_and_fees": 18.62,
+  "savings": {
+    "total": 26.05,
+    "member_price": 21.41,
+    "safeway_for_u": 4.64
+  },
+  "payment_method": "Card ending in 8616"
+}

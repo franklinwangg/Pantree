@@ -1,0 +1,208 @@
+{
+  "store": "Safeway",
+  "customer_id": "customer_04",
+  "customer_name": "Michael Chen",
+  "archetype": "busy_family",
+  "order_number": "473170782",
+  "subject": "04/29/25 Safeway",
+  "email_date": "Tue, 29 Apr 2025 14:23:15 +0000",
+  "pickup_date": "Tuesday, April 29, 2025",
+  "pickup_time": "8:00 AM - 4:00 PM",
+  "pickup_address": "2720 41st Ave, Soquel, CA 95073",
+  "items": [
+    {
+      "quantity": 2,
+      "name": "White Onion",
+      "price": 3.57
+    },
+    {
+      "quantity": 1,
+      "name": "Roma Tomatoes - 1 Lb",
+      "price": 2.46
+    },
+    {
+      "quantity": 3,
+      "name": "White Onion",
+      "price": 7.15
+    },
+    {
+      "quantity": 2,
+      "name": "Bananas - 1 Lb",
+      "price": 1.56
+    },
+    {
+      "quantity": 1,
+      "name": "Seedless Cucumbers - 2 Count",
+      "price": 4.14
+    },
+    {
+      "quantity": 2,
+      "name": "Seedless Cucumbers - 2 Count",
+      "price": 6.06
+    },
+    {
+      "quantity": 1,
+      "name": "Large Eggs Grade A - 18 Count",
+      "price": 5.2
+    },
+    {
+      "quantity": 1,
+      "name": "Boneless Skinless Chicken Breasts Value Pack - 3.5 Lb",
+      "price": 19.38
+    },
+    {
+      "quantity": 1,
+      "name": "Large Eggs Grade A - 18 Count",
+      "price": 4.21
+    },
+    {
+      "quantity": 1,
+      "name": "80% Lean 20% Fat Ground Beef Value Pack - 3 Lb",
+      "price": 17.54
+    },
+    {
+      "quantity": 1,
+      "name": "96% Lean 4% Fat Ground Beef - 1.35 Lb",
+      "price": 16.66
+    },
+    {
+      "quantity": 1,
+      "name": "Beef Sirloin Steak - 2 Lb",
+      "price": 16.06
+    },
+    {
+      "quantity": 1,
+      "name": "Beef Sirloin Steak - 2 Lb",
+      "price": 19.09
+    },
+    {
+      "quantity": 2,
+      "name": "Shredded Cheese Mozzarella - 8 Oz",
+      "price": 7.81
+    },
+    {
+      "quantity": 2,
+      "name": "Sour Cream - 16 Oz",
+      "price": 6.22
+    },
+    {
+      "quantity": 2,
+      "name": "Butter Salted - 16 Oz",
+      "price": 11.81
+    },
+    {
+      "quantity": 1,
+      "name": "Shredded Cheese Mozzarella - 8 Oz",
+      "price": 3.67
+    },
+    {
+      "quantity": 3,
+      "name": "Cottage Cheese - 16 Oz",
+      "price": 14.46
+    },
+    {
+      "quantity": 2,
+      "name": "Cottage Cheese - 16 Oz",
+      "price": 8.07
+    },
+    {
+      "quantity": 1,
+      "name": "Wheat Bread Whole Grain - 24 Oz",
+      "price": 5.33
+    },
+    {
+      "quantity": 2,
+      "name": "White Bread Sandwich - 24 Oz",
+      "price": 7.72
+    },
+    {
+      "quantity": 1,
+      "name": "Pasta Spaghetti - 16 Oz",
+      "price": 1.98
+    },
+    {
+      "quantity": 1,
+      "name": "Dinner Rolls - 12 Count",
+      "price": 4.22
+    },
+    {
+      "quantity": 1,
+      "name": "Crackers Saltine - 16 Oz",
+      "price": 4.67
+    },
+    {
+      "quantity": 4,
+      "name": "Crackers Saltine - 16 Oz",
+      "price": 19.81
+    },
+    {
+      "quantity": 4,
+      "name": "Potato Chips Classic - 10 Oz",
+      "price": 19.35
+    },
+    {
+      "quantity": 1,
+      "name": "Trail Mix - 26 Oz",
+      "price": 9.36
+    },
+    {
+      "quantity": 1,
+      "name": "Candy Chocolate Bar Variety - 18 Oz",
+      "price": 10.12
+    },
+    {
+      "quantity": 4,
+      "name": "Cheese Crackers - 12 Oz",
+      "price": 20.34
+    },
+    {
+      "quantity": 1,
+      "name": "Coca-Cola 12 Pack Cans - 12 Fl. Oz.",
+      "price": 6.99
+    },
+    {
+      "quantity": 1,
+      "name": "Bottled Water - 24 Pack",
+      "price": 3.69
+    },
+    {
+      "quantity": 1,
+      "name": "Sparkling Water Variety - 12 Pack",
+      "price": 7.17
+    },
+    {
+      "quantity": 2,
+      "name": "Apple Juice - 64 Fl. Oz.",
+      "price": 10.61
+    },
+    {
+      "quantity": 1,
+      "name": "Salt Iodized - 26 Oz",
+      "price": 2.47
+    },
+    {
+      "quantity": 1,
+      "name": "Vegetable Oil - 48 Fl. Oz.",
+      "price": 5.82
+    },
+    {
+      "quantity": 1,
+      "name": "Mayonnaise - 30 Oz",
+      "price": 5.04
+    },
+    {
+      "quantity": 1,
+      "name": "Olive Oil Extra Virgin - 25 Fl. Oz.",
+      "price": 10.88
+    }
+  ],
+  "subtotal": 330.69,
+  "total": 312.04,
+  "taxes_and_fees": 21.58,
+  "savings": {
+    "total": 40.23,
+    "member_price": 31.09,
+    "safeway_for_u": 9.14
+  },
+  "payment_method": "Card ending in 4750"
+}

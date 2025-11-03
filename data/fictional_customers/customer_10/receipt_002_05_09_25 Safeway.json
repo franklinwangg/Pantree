@@ -1,0 +1,163 @@
+{
+  "store": "Safeway",
+  "customer_id": "customer_10",
+  "customer_name": "James Taylor",
+  "archetype": "budget_conscious",
+  "order_number": "918892185",
+  "subject": "05/09/25 Safeway",
+  "email_date": "Fri, 09 May 2025 14:23:15 +0000",
+  "pickup_date": "Friday, May 09, 2025",
+  "pickup_time": "8:00 AM - 4:00 PM",
+  "pickup_address": "2720 41st Ave, Soquel, CA 95073",
+  "items": [
+    {
+      "quantity": 1,
+      "name": "Green Bell Pepper",
+      "price": 1.3
+    },
+    {
+      "quantity": 2,
+      "name": "Celery Bunch",
+      "price": 5.49
+    },
+    {
+      "quantity": 1,
+      "name": "Green Bell Pepper",
+      "price": 1.27
+    },
+    {
+      "quantity": 1,
+      "name": "Fresh Broccoli Crowns",
+      "price": 3.08
+    },
+    {
+      "quantity": 2,
+      "name": "Organic Avocados - 4 Count",
+      "price": 13.1
+    },
+    {
+      "quantity": 1,
+      "name": "Large Eggs Grade A - 18 Count",
+      "price": 5.0
+    },
+    {
+      "quantity": 2,
+      "name": "80% Lean 20% Fat Ground Beef Value Pack - 3 Lb",
+      "price": 26.56
+    },
+    {
+      "quantity": 1,
+      "name": "Tilapia Fillets Frozen - 2 Lb",
+      "price": 13.0
+    },
+    {
+      "quantity": 2,
+      "name": "Bacon Thick Cut - 16 Oz",
+      "price": 22.24
+    },
+    {
+      "quantity": 4,
+      "name": "Cream Cheese - 8 Oz",
+      "price": 14.74
+    },
+    {
+      "quantity": 2,
+      "name": "Shredded Cheese Mozzarella - 8 Oz",
+      "price": 7.66
+    },
+    {
+      "quantity": 1,
+      "name": "Cottage Cheese - 16 Oz",
+      "price": 5.0
+    },
+    {
+      "quantity": 2,
+      "name": "Cottage Cheese - 16 Oz",
+      "price": 8.04
+    },
+    {
+      "quantity": 3,
+      "name": "White Rice Long Grain - 5 Lb",
+      "price": 16.86
+    },
+    {
+      "quantity": 1,
+      "name": "Wheat Bread Whole Grain - 24 Oz",
+      "price": 5.3
+    },
+    {
+      "quantity": 1,
+      "name": "Wheat Bread Whole Grain - 24 Oz",
+      "price": 4.14
+    },
+    {
+      "quantity": 1,
+      "name": "Flour All Purpose - 5 Lb",
+      "price": 4.82
+    },
+    {
+      "quantity": 1,
+      "name": "Quinoa Organic - 16 Oz",
+      "price": 7.32
+    },
+    {
+      "quantity": 1,
+      "name": "English Muffins - 12 Oz",
+      "price": 3.38
+    },
+    {
+      "quantity": 2,
+      "name": "Crackers Saltine - 16 Oz",
+      "price": 8.5
+    },
+    {
+      "quantity": 1,
+      "name": "Granola Bars Variety Pack - 12 Count",
+      "price": 5.83
+    },
+    {
+      "quantity": 1,
+      "name": "Rice Cakes - 9 Oz",
+      "price": 4.01
+    },
+    {
+      "quantity": 2,
+      "name": "Orange Juice - 64 Fl. Oz.",
+      "price": 14.38
+    },
+    {
+      "quantity": 1,
+      "name": "Bottled Water - 24 Pack",
+      "price": 5.6
+    },
+    {
+      "quantity": 1,
+      "name": "Energy Drink - 4 Pack",
+      "price": 8.08
+    },
+    {
+      "quantity": 1,
+      "name": "Coffee Ground Medium Roast - 30 Oz",
+      "price": 10.29
+    },
+    {
+      "quantity": 1,
+      "name": "Tomato Sauce - 24 Oz",
+      "price": 2.18
+    },
+    {
+      "quantity": 2,
+      "name": "Soy Sauce - 15 Fl. Oz.",
+      "price": 7.99
+    }
+  ],
+  "subtotal": 235.15999999999997,
+  "total": 215.5,
+  "taxes_and_fees": 13.92,
+  "savings": {
+    "total": 33.58,
+    "member_price": 25.15,
+    "safeway_for_u": 8.43
+  },
+  "payment_method": "Card ending in 3357"
+}

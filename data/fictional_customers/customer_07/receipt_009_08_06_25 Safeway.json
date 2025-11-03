@@ -1,0 +1,158 @@
+{
+  "store": "Safeway",
+  "customer_id": "customer_07",
+  "customer_name": "Amanda Johnson",
+  "archetype": "budget_conscious",
+  "order_number": "681565364",
+  "subject": "08/06/25 Safeway",
+  "email_date": "Wed, 06 Aug 2025 14:23:15 +0000",
+  "pickup_date": "Wednesday, August 06, 2025",
+  "pickup_time": "12:00 PM - 8:00 PM",
+  "pickup_address": "2720 41st Ave, Soquel, CA 95073",
+  "items": [
+    {
+      "quantity": 1,
+      "name": "Green Bell Pepper",
+      "price": 1.43
+    },
+    {
+      "quantity": 2,
+      "name": "Garlic Bulb",
+      "price": 2.69
+    },
+    {
+      "quantity": 3,
+      "name": "Carrots - 2 Lb Bag",
+      "price": 8.08
+    },
+    {
+      "quantity": 1,
+      "name": "Russet Potatoes - 5 Lb",
+      "price": 5.45
+    },
+    {
+      "quantity": 2,
+      "name": "Fresh Asparagus - 1 Lb",
+      "price": 10.78
+    },
+    {
+      "quantity": 1,
+      "name": "Fresh Asparagus - 1 Lb",
+      "price": 6.77
+    },
+    {
+      "quantity": 1,
+      "name": "Boneless Skinless Chicken Breasts Value Pack - 3.5 Lb",
+      "price": 21.13
+    },
+    {
+      "quantity": 3,
+      "name": "Chicken Thighs Bone-In - 3 Lb",
+      "price": 32.49
+    },
+    {
+      "quantity": 1,
+      "name": "Tilapia Fillets Frozen - 2 Lb",
+      "price": 12.96
+    },
+    {
+      "quantity": 1,
+      "name": "96% Lean 4% Fat Ground Beef - 1.35 Lb",
+      "price": 17.6
+    },
+    {
+      "quantity": 1,
+      "name": "Cream Cheese - 8 Oz",
+      "price": 2.99
+    },
+    {
+      "quantity": 2,
+      "name": "Butter Salted - 16 Oz",
+      "price": 14.79
+    },
+    {
+      "quantity": 1,
+      "name": "String Cheese Mozzarella - 12 Oz",
+      "price": 5.37
+    },
+    {
+      "quantity": 3,
+      "name": "Greek Yogurt Plain - 32 Oz",
+      "price": 16.25
+    },
+    {
+      "quantity": 1,
+      "name": "Flour All Purpose - 5 Lb",
+      "price": 5.14
+    },
+    {
+      "quantity": 1,
+      "name": "Flour All Purpose - 5 Lb",
+      "price": 5.3
+    },
+    {
+      "quantity": 3,
+      "name": "Bagels Plain - 6 Count",
+      "price": 13.94
+    },
+    {
+      "quantity": 1,
+      "name": "Pasta Spaghetti - 16 Oz",
+      "price": 1.75
+    },
+    {
+      "quantity": 3,
+      "name": "Granola Bars Variety Pack - 12 Count",
+      "price": 18.26
+    },
+    {
+      "quantity": 1,
+      "name": "Pretzels - 16 Oz",
+      "price": 4.63
+    },
+    {
+      "quantity": 1,
+      "name": "Orange Juice - 64 Fl. Oz.",
+      "price": 6.04
+    },
+    {
+      "quantity": 1,
+      "name": "Orange Juice - 64 Fl. Oz.",
+      "price": 7.09
+    },
+    {
+      "quantity": 1,
+      "name": "Cranberry Juice - 64 Fl. Oz.",
+      "price": 5.7
+    },
+    {
+      "quantity": 4,
+      "name": "Cranberry Juice - 64 Fl. Oz.",
+      "price": 20.62
+    },
+    {
+      "quantity": 2,
+      "name": "Tomato Sauce - 24 Oz",
+      "price": 4.67
+    },
+    {
+      "quantity": 1,
+      "name": "Salt Iodized - 26 Oz",
+      "price": 2.18
+    },
+    {
+      "quantity": 1,
+      "name": "Canned Beans Black - 15 Oz",
+      "price": 2.07
+    }
+  ],
+  "subtotal": 256.16999999999996,
+  "total": 209.15,
+  "taxes_and_fees": 16.2,
+  "savings": {
+    "total": 63.22,
+    "member_price": 46.0,
+    "safeway_for_u": 17.22
+  },
+  "payment_method": "Card ending in 9840"
+}

@@ -1,0 +1,193 @@
+{
+  "store": "Safeway",
+  "customer_id": "customer_03",
+  "customer_name": "Jennifer Rodriguez",
+  "archetype": "busy_family",
+  "order_number": "470892279",
+  "subject": "06/28/25 Safeway",
+  "email_date": "Sat, 28 Jun 2025 14:23:15 +0000",
+  "pickup_date": "Saturday, June 28, 2025",
+  "pickup_time": "8:00 AM - 4:00 PM",
+  "pickup_address": "2720 41st Ave, Soquel, CA 95073",
+  "items": [
+    {
+      "quantity": 2,
+      "name": "Bananas - 1 Lb",
+      "price": 2.28
+    },
+    {
+      "quantity": 1,
+      "name": "Celery Bunch",
+      "price": 2.82
+    },
+    {
+      "quantity": 1,
+      "name": "Carrots - 2 Lb Bag",
+      "price": 2.07
+    },
+    {
+      "quantity": 4,
+      "name": "Organic Kale Bunch",
+      "price": 14.36
+    },
+    {
+      "quantity": 1,
+      "name": "Organic Baby Carrots - 1 Lb",
+      "price": 3.83
+    },
+    {
+      "quantity": 2,
+      "name": "Chicken Thighs Bone-In - 3 Lb",
+      "price": 24.93
+    },
+    {
+      "quantity": 1,
+      "name": "80% Lean 20% Fat Ground Beef Value Pack - 3 Lb",
+      "price": 14.87
+    },
+    {
+      "quantity": 1,
+      "name": "Large Eggs Grade A - 18 Count",
+      "price": 5.38
+    },
+    {
+      "quantity": 1,
+      "name": "Chicken Thighs Bone-In - 3 Lb",
+      "price": 12.1
+    },
+    {
+      "quantity": 1,
+      "name": "Ham Deli Honey - 1 Lb",
+      "price": 8.12
+    },
+    {
+      "quantity": 2,
+      "name": "96% Lean 4% Fat Ground Beef - 1.35 Lb",
+      "price": 35.16
+    },
+    {
+      "quantity": 1,
+      "name": "Bacon Thick Cut - 16 Oz",
+      "price": 8.23
+    },
+    {
+      "quantity": 1,
+      "name": "Shredded Cheese Mozzarella - 8 Oz",
+      "price": 3.59
+    },
+    {
+      "quantity": 2,
+      "name": "Cream Cheese - 8 Oz",
+      "price": 5.38
+    },
+    {
+      "quantity": 1,
+      "name": "Butter Salted - 16 Oz",
+      "price": 5.58
+    },
+    {
+      "quantity": 2,
+      "name": "Shredded Cheese Mozzarella - 8 Oz",
+      "price": 7.5
+    },
+    {
+      "quantity": 1,
+      "name": "Cottage Cheese - 16 Oz",
+      "price": 5.39
+    },
+    {
+      "quantity": 1,
+      "name": "Yogurt Cups Variety Pack - 6 Count",
+      "price": 5.36
+    },
+    {
+      "quantity": 4,
+      "name": "Greek Yogurt Plain - 32 Oz",
+      "price": 24.35
+    },
+    {
+      "quantity": 1,
+      "name": "Wheat Bread Whole Grain - 24 Oz",
+      "price": 4.84
+    },
+    {
+      "quantity": 1,
+      "name": "White Rice Long Grain - 5 Lb",
+      "price": 6.08
+    },
+    {
+      "quantity": 3,
+      "name": "English Muffins - 12 Oz",
+      "price": 12.73
+    },
+    {
+      "quantity": 3,
+      "name": "Potato Chips Classic - 10 Oz",
+      "price": 15.91
+    },
+    {
+      "quantity": 1,
+      "name": "Crackers Saltine - 16 Oz",
+      "price": 4.8
+    },
+    {
+      "quantity": 1,
+      "name": "Crackers Saltine - 16 Oz",
+      "price": 4.66
+    },
+    {
+      "quantity": 1,
+      "name": "Fruit Snacks - 22 Count",
+      "price": 7.48
+    },
+    {
+      "quantity": 2,
+      "name": "Trail Mix - 26 Oz",
+      "price": 16.4
+    },
+    {
+      "quantity": 1,
+      "name": "Rice Cakes - 9 Oz",
+      "price": 4.59
+    },
+    {
+      "quantity": 2,
+      "name": "Coca-Cola 12 Pack Cans - 12 Fl. Oz.",
+      "price": 12.88
+    },
+    {
+      "quantity": 1,
+      "name": "Orange Juice - 64 Fl. Oz.",
+      "price": 6.93
+    },
+    {
+      "quantity": 1,
+      "name": "Diet Coke 12 Pack Cans - 12 Fl. Oz.",
+      "price": 6.46
+    },
+    {
+      "quantity": 2,
+      "name": "Salt Iodized - 26 Oz",
+      "price": 4.04
+    },
+    {
+      "quantity": 1,
+      "name": "Tomato Sauce - 24 Oz",
+      "price": 2.25
+    },
+    {
+      "quantity": 1,
+      "name": "Mustard Yellow - 20 Oz",
+      "price": 3.27
+    }
+  ],
+  "subtotal": 304.61999999999995,
+  "total": 296.55,
+  "taxes_and_fees": 18.46,
+  "savings": {
+    "total": 26.53,
+    "member_price": 24.29,
+    "safeway_for_u": 2.24
+  },
+  "payment_method": "Card ending in 2221"
+}

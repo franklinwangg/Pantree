@@ -1,0 +1,55 @@
+{
+  "store": "Safeway",
+  "subject": "08/09/24 Safeway",
+  "email_date": "Thu, 3 Jul 2025 05:51:42 +0000 (UTC)",
+  "items": [
+    {
+      "quantity": 2,
+      "name": "Marie Callender's Chicken Pot Pie Frozen Dinner - 10 Oz",
+      "price": 7.98
+    },
+    {
+      "quantity": 1,
+      "name": "Snyder's of Hanover Butter Snaps Pretzels - 12 Oz",
+      "price": 4.79
+    },
+    {
+      "quantity": 2,
+      "name": "RITZ Original Crackers - 13.7 Oz",
+      "price": 11.58
+    },
+    {
+      "quantity": 1,
+      "name": "De Wafelbakkers Buttermilk Pancakes Pack - 18 Count",
+      "price": 3.99
+    },
+    {
+      "quantity": 4,
+      "name": "Birds Eye Baby Broccoli Florets Frozen Vegetables - 12.6 Oz",
+      "price": 14.0
+    },
+    {
+      "quantity": 2,
+      "name": "Campbell's Condensed Bean With Bacon Soup - 11.25 Oz",
+      "price": 4.98
+    },
+    {
+      "quantity": 2,
+      "name": "all Mighty Pacs Free Clear Unit Dose Laundry Detergent - 39 Count",
+      "price": 17.98
+    }
+  ],
+  "order_number": "97351730",
+  "pickup_date": "Friday, August 09, 2024",
+  "pickup_time": "6:00 PM - 8:00 PM",
+  "pickup_address": "95073 |, ",
+  "subtotal": 53.7,
+  "total": 56.49,
+  "taxes_and_fees": 2.79,
+  "savings": {
+    "total": 44.06,
+    "member_price": 37.06,
+    "safeway_for_u": 1.0
+  },
+  "payment_method": "Card ending in 1594"
+}

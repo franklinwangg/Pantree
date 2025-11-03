@@ -1,0 +1,138 @@
+{
+  "store": "Safeway",
+  "customer_id": "customer_10",
+  "customer_name": "James Taylor",
+  "archetype": "budget_conscious",
+  "order_number": "632208222",
+  "subject": "08/15/25 Safeway",
+  "email_date": "Fri, 15 Aug 2025 14:23:15 +0000",
+  "pickup_date": "Friday, August 15, 2025",
+  "pickup_time": "8:00 AM - 4:00 PM",
+  "pickup_address": "2720 41st Ave, Soquel, CA 95073",
+  "items": [
+    {
+      "quantity": 2,
+      "name": "Bananas - 1 Lb",
+      "price": 1.62
+    },
+    {
+      "quantity": 1,
+      "name": "White Onion",
+      "price": 2.44
+    },
+    {
+      "quantity": 1,
+      "name": "Seedless Cucumbers - 2 Count",
+      "price": 3.91
+    },
+    {
+      "quantity": 1,
+      "name": "Seedless Cucumbers - 2 Count",
+      "price": 3.32
+    },
+    {
+      "quantity": 3,
+      "name": "Chicken Thighs Bone-In - 3 Lb",
+      "price": 36.17
+    },
+    {
+      "quantity": 1,
+      "name": "80% Lean 20% Fat Ground Beef Value Pack - 3 Lb",
+      "price": 17.43
+    },
+    {
+      "quantity": 1,
+      "name": "Turkey Breast Sliced Deli - 1 Lb",
+      "price": 10.81
+    },
+    {
+      "quantity": 2,
+      "name": "Ham Deli Honey - 1 Lb",
+      "price": 18.29
+    },
+    {
+      "quantity": 2,
+      "name": "Butter Salted - 16 Oz",
+      "price": 12.83
+    },
+    {
+      "quantity": 1,
+      "name": "Shredded Cheese Mozzarella - 8 Oz",
+      "price": 4.42
+    },
+    {
+      "quantity": 2,
+      "name": "String Cheese Mozzarella - 12 Oz",
+      "price": 12.09
+    },
+    {
+      "quantity": 2,
+      "name": "String Cheese Mozzarella - 12 Oz",
+      "price": 13.7
+    },
+    {
+      "quantity": 2,
+      "name": "White Rice Long Grain - 5 Lb",
+      "price": 13.33
+    },
+    {
+      "quantity": 2,
+      "name": "White Rice Long Grain - 5 Lb",
+      "price": 13.73
+    },
+    {
+      "quantity": 4,
+      "name": "Bagels Plain - 6 Count",
+      "price": 19.62
+    },
+    {
+      "quantity": 1,
+      "name": "Granola Bars Variety Pack - 12 Count",
+      "price": 7.25
+    },
+    {
+      "quantity": 1,
+      "name": "Crackers Saltine - 16 Oz",
+      "price": 4.84
+    },
+    {
+      "quantity": 1,
+      "name": "Popcorn Microwave Butter - 6 Count",
+      "price": 5.03
+    },
+    {
+      "quantity": 1,
+      "name": "Coca-Cola 12 Pack Cans - 12 Fl. Oz.",
+      "price": 7.36
+    },
+    {
+      "quantity": 1,
+      "name": "Orange Juice - 64 Fl. Oz.",
+      "price": 6.26
+    },
+    {
+      "quantity": 1,
+      "name": "Sparkling Water Variety - 12 Pack",
+      "price": 7.96
+    },
+    {
+      "quantity": 2,
+      "name": "Salt Iodized - 26 Oz",
+      "price": 3.04
+    },
+    {
+      "quantity": 1,
+      "name": "Strawberry Jam - 18 Oz",
+      "price": 4.39
+    }
+  ],
+  "subtotal": 229.84,
+  "total": 221.27,
+  "taxes_and_fees": 17.81,
+  "savings": {
+    "total": 26.38,
+    "member_price": 19.99,
+    "safeway_for_u": 6.39
+  },
+  "payment_method": "Card ending in 6127"
+}

@@ -1,0 +1,238 @@
+{
+  "store": "Safeway",
+  "customer_id": "customer_05",
+  "customer_name": "Lisa Thompson",
+  "archetype": "busy_family",
+  "order_number": "925794067",
+  "subject": "07/25/25 Safeway",
+  "email_date": "Fri, 25 Jul 2025 14:23:15 +0000",
+  "pickup_date": "Friday, July 25, 2025",
+  "pickup_time": "2:00 PM - 10:00 PM",
+  "pickup_address": "2720 41st Ave, Soquel, CA 95073",
+  "items": [
+    {
+      "quantity": 1,
+      "name": "Carrots - 2 Lb Bag",
+      "price": 3.34
+    },
+    {
+      "quantity": 1,
+      "name": "Bananas - 1 Lb",
+      "price": 1.08
+    },
+    {
+      "quantity": 1,
+      "name": "Lettuce Iceberg",
+      "price": 3.44
+    },
+    {
+      "quantity": 1,
+      "name": "Russet Potatoes - 5 Lb",
+      "price": 5.99
+    },
+    {
+      "quantity": 1,
+      "name": "White Onion",
+      "price": 1.36
+    },
+    {
+      "quantity": 1,
+      "name": "Fresh Asparagus - 1 Lb",
+      "price": 6.08
+    },
+    {
+      "quantity": 4,
+      "name": "Sweet Potatoes - 3 Lb",
+      "price": 16.28
+    },
+    {
+      "quantity": 1,
+      "name": "Organic Kale Bunch",
+      "price": 3.59
+    },
+    {
+      "quantity": 1,
+      "name": "Large Eggs Grade A - 18 Count",
+      "price": 6.27
+    },
+    {
+      "quantity": 2,
+      "name": "Large Eggs Grade A - 18 Count",
+      "price": 13.57
+    },
+    {
+      "quantity": 1,
+      "name": "Large Eggs Grade A - 18 Count",
+      "price": 6.26
+    },
+    {
+      "quantity": 1,
+      "name": "80% Lean 20% Fat Ground Beef Value Pack - 3 Lb",
+      "price": 13.49
+    },
+    {
+      "quantity": 1,
+      "name": "Pork Sausage Links - 1 Lb",
+      "price": 8.43
+    },
+    {
+      "quantity": 3,
+      "name": "Ham Deli Honey - 1 Lb",
+      "price": 29.05
+    },
+    {
+      "quantity": 1,
+      "name": "Salmon Fillets Fresh - 1 Lb",
+      "price": 15.52
+    },
+    {
+      "quantity": 3,
+      "name": "Shredded Cheese Mozzarella - 8 Oz",
+      "price": 11.17
+    },
+    {
+      "quantity": 2,
+      "name": "Cream Cheese - 8 Oz",
+      "price": 7.52
+    },
+    {
+      "quantity": 1,
+      "name": "Butter Salted - 16 Oz",
+      "price": 5.67
+    },
+    {
+      "quantity": 1,
+      "name": "Butter Salted - 16 Oz",
+      "price": 6.73
+    },
+    {
+      "quantity": 1,
+      "name": "Greek Yogurt Plain - 32 Oz",
+      "price": 5.97
+    },
+    {
+      "quantity": 2,
+      "name": "Heavy Whipping Cream - 16 Oz",
+      "price": 10.53
+    },
+    {
+      "quantity": 2,
+      "name": "Heavy Whipping Cream - 16 Oz",
+      "price": 11.15
+    },
+    {
+      "quantity": 2,
+      "name": "White Bread Sandwich - 24 Oz",
+      "price": 8.15
+    },
+    {
+      "quantity": 2,
+      "name": "Flour All Purpose - 5 Lb",
+      "price": 8.14
+    },
+    {
+      "quantity": 2,
+      "name": "White Rice Long Grain - 5 Lb",
+      "price": 11.81
+    },
+    {
+      "quantity": 2,
+      "name": "English Muffins - 12 Oz",
+      "price": 7.23
+    },
+    {
+      "quantity": 1,
+      "name": "Tortillas Flour - 20 Count",
+      "price": 4.3
+    },
+    {
+      "quantity": 2,
+      "name": "Granola Bars Variety Pack - 12 Count",
+      "price": 14.41
+    },
+    {
+      "quantity": 1,
+      "name": "Granola Bars Variety Pack - 12 Count",
+      "price": 6.65
+    },
+    {
+      "quantity": 2,
+      "name": "Granola Bars Variety Pack - 12 Count",
+      "price": 13.24
+    },
+    {
+      "quantity": 1,
+      "name": "Tortilla Chips - 13 Oz",
+      "price": 5.41
+    },
+    {
+      "quantity": 1,
+      "name": "Pretzels - 16 Oz",
+      "price": 4.74
+    },
+    {
+      "quantity": 3,
+      "name": "Tortilla Chips - 13 Oz",
+      "price": 13.35
+    },
+    {
+      "quantity": 1,
+      "name": "Bottled Water - 24 Pack",
+      "price": 5.6
+    },
+    {
+      "quantity": 3,
+      "name": "Orange Juice - 64 Fl. Oz.",
+      "price": 21.08
+    },
+    {
+      "quantity": 1,
+      "name": "Orange Juice - 64 Fl. Oz.",
+      "price": 6.28
+    },
+    {
+      "quantity": 2,
+      "name": "Apple Juice - 64 Fl. Oz.",
+      "price": 8.71
+    },
+    {
+      "quantity": 1,
+      "name": "Almond Milk Unsweetened - 64 Fl. Oz.",
+      "price": 5.72
+    },
+    {
+      "quantity": 1,
+      "name": "Sugar Granulated - 4 Lb",
+      "price": 4.05
+    },
+    {
+      "quantity": 1,
+      "name": "Sugar Granulated - 4 Lb",
+      "price": 4.2
+    },
+    {
+      "quantity": 2,
+      "name": "Vegetable Oil - 48 Fl. Oz.",
+      "price": 13.41
+    },
+    {
+      "quantity": 1,
+      "name": "Peanut Butter Creamy - 40 Oz",
+      "price": 7.06
+    },
+    {
+      "quantity": 3,
+      "name": "Soy Sauce - 15 Fl. Oz.",
+      "price": 13.7
+    }
+  ],
+  "subtotal": 379.73,
+  "total": 330.68,
+  "taxes_and_fees": 19.28,
+  "savings": {
+    "total": 68.33,
+    "member_price": 59.36,
+    "safeway_for_u": 8.97
+  },
+  "payment_method": "Card ending in 7026"
+}

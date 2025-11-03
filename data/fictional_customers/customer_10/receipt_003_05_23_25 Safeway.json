@@ -1,0 +1,163 @@
+{
+  "store": "Safeway",
+  "customer_id": "customer_10",
+  "customer_name": "James Taylor",
+  "archetype": "budget_conscious",
+  "order_number": "661260482",
+  "subject": "05/23/25 Safeway",
+  "email_date": "Fri, 23 May 2025 14:23:15 +0000",
+  "pickup_date": "Friday, May 23, 2025",
+  "pickup_time": "12:00 PM - 8:00 PM",
+  "pickup_address": "2720 41st Ave, Soquel, CA 95073",
+  "items": [
+    {
+      "quantity": 2,
+      "name": "Bananas - 1 Lb",
+      "price": 2.04
+    },
+    {
+      "quantity": 1,
+      "name": "White Onion",
+      "price": 2.01
+    },
+    {
+      "quantity": 1,
+      "name": "Carrots - 2 Lb Bag",
+      "price": 3.16
+    },
+    {
+      "quantity": 1,
+      "name": "Organic Avocados - 4 Count",
+      "price": 7.24
+    },
+    {
+      "quantity": 1,
+      "name": "Organic Avocados - 4 Count",
+      "price": 7.51
+    },
+    {
+      "quantity": 4,
+      "name": "80% Lean 20% Fat Ground Beef Value Pack - 3 Lb",
+      "price": 63.86
+    },
+    {
+      "quantity": 1,
+      "name": "80% Lean 20% Fat Ground Beef Value Pack - 3 Lb",
+      "price": 15.07
+    },
+    {
+      "quantity": 2,
+      "name": "Chicken Thighs Bone-In - 3 Lb",
+      "price": 20.18
+    },
+    {
+      "quantity": 1,
+      "name": "Chicken Thighs Bone-In - 3 Lb",
+      "price": 10.54
+    },
+    {
+      "quantity": 2,
+      "name": "Pork Loin Chops Value Pack - 4 Lb",
+      "price": 32.33
+    },
+    {
+      "quantity": 1,
+      "name": "Pork Loin Chops Value Pack - 4 Lb",
+      "price": 15.12
+    },
+    {
+      "quantity": 1,
+      "name": "Whole Milk - 1 Gallon",
+      "price": 4.75
+    },
+    {
+      "quantity": 2,
+      "name": "Cream Cheese - 8 Oz",
+      "price": 5.89
+    },
+    {
+      "quantity": 1,
+      "name": "String Cheese Mozzarella - 12 Oz",
+      "price": 6.55
+    },
+    {
+      "quantity": 2,
+      "name": "Parmesan Cheese Grated - 8 Oz",
+      "price": 15.24
+    },
+    {
+      "quantity": 2,
+      "name": "White Rice Long Grain - 5 Lb",
+      "price": 13.95
+    },
+    {
+      "quantity": 1,
+      "name": "White Bread Sandwich - 24 Oz",
+      "price": 3.6
+    },
+    {
+      "quantity": 1,
+      "name": "Quinoa Organic - 16 Oz",
+      "price": 7.06
+    },
+    {
+      "quantity": 1,
+      "name": "Tortillas Flour - 20 Count",
+      "price": 5.7
+    },
+    {
+      "quantity": 4,
+      "name": "Crackers Saltine - 16 Oz",
+      "price": 15.68
+    },
+    {
+      "quantity": 1,
+      "name": "Candy Chocolate Bar Variety - 18 Oz",
+      "price": 10.39
+    },
+    {
+      "quantity": 1,
+      "name": "Orange Juice - 64 Fl. Oz.",
+      "price": 5.12
+    },
+    {
+      "quantity": 2,
+      "name": "Coca-Cola 12 Pack Cans - 12 Fl. Oz.",
+      "price": 12.23
+    },
+    {
+      "quantity": 1,
+      "name": "Orange Juice - 64 Fl. Oz.",
+      "price": 6.87
+    },
+    {
+      "quantity": 1,
+      "name": "Sparkling Water Variety - 12 Pack",
+      "price": 8.36
+    },
+    {
+      "quantity": 1,
+      "name": "Cranberry Juice - 64 Fl. Oz.",
+      "price": 6.87
+    },
+    {
+      "quantity": 1,
+      "name": "Salt Iodized - 26 Oz",
+      "price": 1.66
+    },
+    {
+      "quantity": 1,
+      "name": "Mayonnaise - 30 Oz",
+      "price": 5.99
+    }
+  ],
+  "subtotal": 314.97,
+  "total": 268.68,
+  "taxes_and_fees": 20.75,
+  "savings": {
+    "total": 67.04,
+    "member_price": 50.95,
+    "safeway_for_u": 16.09
+  },
+  "payment_method": "Card ending in 7269"
+}
