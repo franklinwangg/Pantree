@@ -1,6 +1,8 @@
 .env
-**/venv/
+**/.venv/
 **/commands.rest
 **/oldCode
 **__pycache__
 *.pyc
+
+credentials.json
