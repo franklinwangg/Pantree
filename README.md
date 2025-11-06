@@ -1,1 +1,25 @@
-Pantree is an intelligent retail recommendation system designed to personalize the shopping experience through automated analysis and reasoning. The frontend collects a user’s purchase history and sends it to an AWS SageMaker endpoint, which coordinates multiple AI components: a frequency analysis module identifies products frequently bought enough to qualify for a “Subscribe & Save” program, while a Llama NIM model consults a vector database—powered by a retrieval embedding NIM—to find semantically related or complementary products. By combining statistical analysis with semantic reasoning, the system delivers tailored subscription and product recommendations that adapt to each user’s buying habits.
+# 🌩️ PanTree
+
+An AI-powered retail recommendation system that personalizes shopping through automated analysis and reasoning.  
+
+---
+
+## ⚙️ Tech Stack
+**Backend:** FastAPI, Python, AWS SageMaker  
+**AI:** Llama NIM, Retrieval Embedding NIM, Frequency Analysis Module  
+**Database:** ChromaDB  
+**Cloud:** AWS EC2, Docker  
+
+---
+
+## 🚀 Features
+- 🧠 Personalized recommendations via AI coordination  
+- 📈 Frequency-based “Subscribe & Save” analysis  
+- 🔍 Semantic similarity search using embeddings  
+- ☁️ Scalable deployment on AWS SageMaker  
+
+---
+
+## 🧩 Architecture
+Frontend → SageMaker Endpoint → Frequency Analyzer + NIM Models → Vector DB (ChromaDB)
+
