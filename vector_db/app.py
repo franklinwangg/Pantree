@@ -25,39 +25,6 @@ class VectorDBManager:
 
         # Embedding dimension (set according to your embedding model)
         self.embedding_dim = embedding_dim
-        
-        
-    # # # Mock embedding (to replace later with Retrieval Embedding NIM)
-    # # # DONE: Replace mock embedding with call to Retrieval Embedding NIM endpoint
-    # # # DONE: Add error handling or retry if embedding service is unavailable
-    # # # DONE: Cache embeddings to avoid recomputing for the same text
-    # @lru_cache(maxsize=256)
-    # def generate_embedding(self, text: str):
-    #     """Generate a semantic embedding from the Retrieval NIM (or mock fallback)."""
-    #     try:
-    #         payload = {
-    #             "inputs": [
-    #                 {
-    #                     "name": "text",
-    #                     "shape": [1],
-    #                     "datatype": "BYTES",
-    #                     "data": [text]
-    #                 }
-    #             ]
-    #         }
-
-    #         res = requests.post(self.nim_url, json=payload, timeout=10)
-    #         res.raise_for_status()  # raise exception on HTTP errors
-    #         data = res.json()
-
-    #         # extract embedding vector
-    #         embedding = data["outputs"][0]["data"]
-    #         return embedding
-
-    #     except requests.exceptions.RequestException as e:
-    #         print(f"⚠️ Retrieval NIM unavailable, using mock embedding: {e}")
-    #         np.random.seed(abs(hash(text)) % (2**32))
-    #         return np.random.rand(self.embedding_dim).tolist()
 
     def generate_embedding(self, text: str):
         try:
