@@ -4,3 +4,6 @@
 **/oldCode
 **__pycache__
 *.pyc
+
+vector-db-key.pem
+TODO.md
