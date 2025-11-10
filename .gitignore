@@ -1,8 +1,8 @@
 .env
 **/venv/
 commands/
-**/oldCode
-**__pycache__
+**/oldCode/
+**/__pycache__/
 *.pyc
 
 vector-db-key.pem
