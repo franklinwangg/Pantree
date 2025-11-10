@@ -1,6 +1,6 @@
 # 🌩️ PanTree
 
-An AI-powered retail recommendation system that personalizes shopping through automated analysis and reasoning.
+An AI-powered retail recommendation system that personalizes shopping through automated analysis and reasoning.  
 
 ---
 
