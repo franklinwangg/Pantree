@@ -91,28 +91,28 @@ safe_delete_endpoint_and_config(ENDPOINT_NAME)
 #     sagemaker_session=session,
 # )
 model = Model(
-    image_uri=IMAGE_URI,
+    image_uri="729386419841.dkr.ecr.us-west-2.amazonaws.com/nv-embedqa-e5-v5:1.10.0",
     role=ROLE_ARN,
-    name=MODEL_NAME,
+    name="nv-embedqa-e5-v5",
     env={
         "NGC_API_KEY": NGC_API_KEY,
         "NVIDIA_API_KEY": NGC_API_KEY,
         "NVIDIA_TRITON_SERVER_ENABLE_GPU": "true",
-        "NVIDIA_TRITON_SERVER_HTTP_PORT": "8000",
-        "NVIDIA_TRITON_SERVER_GRPC_PORT": "8001",
-        "NVIDIA_TRITON_SERVER_METRICS_PORT": "8002"
+        "NVIDIA_TRITON_SERVER_HTTP_PORT": "8080",
+        "NVIDIA_VISIBLE_DEVICES": "all",
+        "LOG_LEVEL": "INFO"
     },
     sagemaker_session=session,
 )
 
-
 predictor = model.deploy(
-    initial_instance_count=INSTANCE_COUNT,
-    instance_type=INSTANCE_TYPE,
-    endpoint_name=ENDPOINT_NAME,
-    wait=True,  # block until ready
-    container_startup_health_check_timeout=300,
+    initial_instance_count=1,
+    instance_type="ml.g5.4xlarge",
+    endpoint_name="nv-embedqa-e5-v5-endpoint",
+    wait=True,
+    container_startup_health_check_timeout=600,
 )
+
 
 print("\n✅ Deployment complete!")
 print(f"Your SageMaker endpoint name: {ENDPOINT_NAME}")
