@@ -46,9 +46,10 @@ An AI-powered retail recommendation system that personalizes shopping through au
 
 **(8) Reasoning :** The **Llama NIM** reasons which items should be added to Subscribe & Save based on two criteria:
   **(a)** products purchased at a high frequency this month, and
+  
   **(b)** similar items the user has purchased in the past, as returned by the Vector DB.
 
-**(9) Backend Return :** The **results** of the **Llama NIM’s reasoning**—the final recommendations—are sent back to the **FastAPI backend**.
+**(9) Backend Return :** The results of the **Llama NIM’s reasoning**—the final recommendations—are sent back to the **FastAPI backend**.
 
 **(10) Frontend Update :** The **SageMaker endpoint** returns these Subscribe & Save recommendations to the **frontend** for real-time display.
 
@@ -60,4 +61,4 @@ An AI-powered retail recommendation system that personalizes shopping through au
 
 **Note B.** The **Frequency Analyzer** determines high-frequency purchases using thresholds (e.g., purchase count per month) before passing them to the reasoning model for context-based recommendation.
 
-**Note C.** The **Retrieval NIM** provides semantic expansion (finding related products), while the **Llama NIM** performs reasoning and decision-making. Together, they form a **retrieval-augmented recommendation loop** that continuously improves with each simulation cycle.
+**Note C.** The **Retrieval NIM** provides semantic expansion (finding related products), while the **Llama NIM** performs reasoning and decision-making. Together, they form a retrieval-augmented recommendation loop that continuously improves with each simulation cycle.
