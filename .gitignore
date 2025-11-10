@@ -1,0 +1,6 @@
+.env
+**/venv/
+**/commands.rest
+**/oldCode
+**__pycache__
+*.pyc
