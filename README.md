@@ -45,6 +45,7 @@ An AI-powered retail recommendation system that personalizes shopping through au
 **(7.2) Vector Return :** The **Vector DB** returns all matches and related products from the user’s past purchase history to the **Llama NIM**.
 
 **(8) Reasoning :** The **Llama NIM** reasons which items should be added to Subscribe & Save based on two criteria:
+
   **(a)** products purchased at a high frequency this month, and
   
   **(b)** similar items the user has purchased in the past, as returned by the Vector DB.
